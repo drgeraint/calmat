@@ -1,0 +1,142 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra Learning Plan 1</P>
+<P ALIGN="CENTER">Numbers, Variables, Equations &amp; Inequations</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Algebra’.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Numbers</P>
+</B></FONT><FONT FACE="Arial">
+<P>Before beginning to work with values and relationships it is important to be aware of the different types of numbers.</P>
+
+<P>&nbsp;</P>
+<B><P>N</B> is the set of <B>Natural Numbers</B> </P>
+
+<P ALIGN="CENTER">N = {1, 2, 3, 4……….}</P>
+
+<B><P>W</B> is the set of <B>Whole Numbers</P>
+</B>
+<P ALIGN="CENTER">W = {0, 1, 2, 3, 4, …….}</P>
+
+<B><P>Z</B> is the set of <B>Integers</B>.</P>
+
+<P ALIGN="CENTER">Z = {…….., -3, -2, -1, 0, 1, 2, 3, ………}</P>
+
+<B><P>Q</B> is the set of <B>Rational Numbers</B>.</P>
+
+<P>Q contains vulgar fractions i.e. values in the form a/b where a and b are integers.</P>
+
+<B><P>Irrational Numbers</B> are values which cannot be written in the form a/b.   </P>
+<P><FONT FACE="Symbol">&#214;</FONT>
+2 = 1.4142136……and <FONT FACE="Symbol">&#112;</FONT>
+ = 3.1415927……..are irrational numbers.</P>
+
+<B><P>R</B> is the set of <B>Real Numbers</B>.   R contains all the different types of numbers listed above.</P>
+
+<P>&nbsp;</P>
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 12 a~?">2-12 section a</a>.</P>
+
+</FONT><B><FONT FACE="Arial" SIZE=4><P>&nbsp;</P>
+<P>Variables and Equations</P>
+</B></FONT><FONT FACE="Arial">
+<P>A <B>variable</B> is a symbol eg x, y or z used to represent any real number.</P>
+
+<P>An equation is a statement involving one or more variables and an equal sign.   To solve an equation means that all possible numbers which the variable can take are found.</P>
+
+<P>Many business problems can be represented often with a simple equation.</P>
+
+<B><P>Example </P>
+</B>
+<P>A manufacturer intends to begin production of a new item.   Initially for this new product he can afford total costs of £6000 which includes £2700 set up costs.   He also believes each item will cost £150 to produce.   How many items can he afford to produce?</P>
+
+<P>The problem can be written as a ‘word equation’.</P>
+
+<P ALIGN="CENTER">set up costs + (150 x number of items) = total cost</P>
+
+<P>Let n be the number of items to be produced.   The equation can now be written mathematically as:</P>
+
+<P ALIGN="CENTER">2700 + 150n = 6000</P>
+<P ALIGN="CENTER"></P>
+<P>Solving this equation for n:</P>
+
+<P>2700 + 150n = 6000</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;2700 –2700 + 150n = 6000 – 2700</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;150n = 3300</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;150n /150 = 3300/150</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;n = 22</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;22 items should be produced</P>
+<P ALIGN="JUSTIFY"></P><DIR>
+
+<P ALIGN="JUSTIFY">Read ‘<FONT FACE="Symbol">&#222;</FONT>
+’ as implies.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">To find n on its own we had to undo the operations which had been carried out on n.   We had to:</P>
+<P ALIGN="JUSTIFY"></P></DIR>
+
+<OL>
+
+<P ALIGN="JUSTIFY"><LI>Subtract 2700 from both sides.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Divide both sides by 150.</LI></P></OL>
+
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Notice to keep the equation balanced whichever operation we carry out on the left hand side of the equation must also be carried out on the right hand side.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Spend some time solving the equations in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 23 a 0~?">1-23 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 23 b 0~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 23 c 0~?">section c</a> and 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 23 d 0~?">section d</a> .   If you are finding these equations difficult to manipulate it would be worthwhile working through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 18~?">1-18</a>.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">You should now find <a href="launch.htm#q0369">q0369</a>,<a href="launch.htm#q0607">q0607</a> very straightforward to solve.   Also try <a href="launch.htm#q0034">q0034</a>.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><P ALIGN="JUSTIFY">Inequalities</P>
+<P ALIGN="JUSTIFY"></P>
+</B><P ALIGN="JUSTIFY">Consider the situation above where the manufacturer knew in the production of this new product his total costs had to be <B>less than</B> £6000.   What is the maximum number of items that can be produced ?</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">The situation can now be modelled by the <B>inequation </P>
+<P ALIGN="JUSTIFY"></P>
+</B><P ALIGN="CENTER">2700 + 150n &lt; 6000</P>
+<P ALIGN="CENTER"></P>
+<P>Solving this inequation for n:</P>
+
+<P>2700 + 150n &lt; 6000</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;2700 –2700 + 150n &lt; 6000 – 2700</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;150n &lt; 3300</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;150n /150 &lt; 3300/150</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;n &lt; 22</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;21 is the maximum items which should be produced.</P>
+
+<P>&nbsp;</P>
+<P>Read &lt; as ‘is less than’.</P>
+
+<P>Remind yourself about inequalities in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 27 a 0~?">1-27 section a</a>,<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 27 b~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 27 c~?">section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 27 d -1~?">section d</a>.   Try <a href="launch.htm#q0658">q0658</a>, <a href="launch.htm#q0657">q0657</a> and <a href="launch.htm#q0019">q0019</a>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

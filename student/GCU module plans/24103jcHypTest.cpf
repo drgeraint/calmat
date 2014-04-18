@@ -1,0 +1,69 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2418</P>
+<P ALIGN="CENTER">Outcome:Hypothesis Testing</P></B>
+<P ALIGN="CENTER"></P></B><FONT FACE="Comic Sans MS" SIZE=2>
+
+</B><P>Life is full of theories.   At home and at work, we constantly need to make decisions often relying on our beliefs or theories.   We make theories about the weather, about people, about industrial processes and measurements.   However, making decisions based on unsubstantiated theories is, to say the least, unwise.   Data is collected in order to test a theory.   But how can we use this data to objectively check out a theory ?</P>
+
+<P>Our theories will relate to one or more <B>populations</B>.   The data to test our theories will have been collected on <B>samples</B> drawn randomly from the study population(s).  If we were to repeat our data collection, we would obtain a different set of data.</P>
+
+
+<P>Hypothesis testing offers us an objective method of checking theories or testing one theory against another.</P>
+
+
+<P>We shall consider hypothesis testing in the following situations:</P>
+
+<OL>
+
+<LI>Comparing <B>one sample</B> mean against a ‘standard’ or target value (<FONT FACE="Symbol">&#109;</FONT>
+<SUB>0</SUB>).</LI>
+<LI>Comparing <B>two independent samples</B> means (assuming equal population variances).</LI>
+<LI>Comparing two methods or treatments (<B>paired data</B>).</LI></OL>
+
+
+<P><b>One Sample Problems</P></B>
+
+<UL>Try <a href="launch.htm#q0781">q0781</a>,<a href="launch.htm#q0788">q0788</a>,  <a href="launch.htm#q0783">q0783</a> and <a href="launch.htm#q0784">q0784</a>.</UL>
+<B>
+
+<P>Two Sample Problems</P></B>
+
+<UL>Try <a href="launch.htm#q0785">q0785</a> and <a href="launch.htm#q0786">q0786</a>.</UL>
+
+
+<B><P>Paired Data</P></B>
+
+<UL>Try <a href="launch.htm#q0782">q0782</a> and <a href="launch.htm#q0787">q0787</a>.</UL>
+
+
+<b><P>Summary</P></B>
+<P>All the test statistics we have studied take the form:</P>
+
+<UL><UL>estimate of difference
+<Br>standard error of difference</UL></UL>
+
+<P>Remember that a standard error is used to mean standard deviation when referring to an estimate.   This distinguishes it from the standard deviation of the sample.   The test statistic is compared to a critical value from the standard normal tables if the standard deviation is known.  The test statistic is compared to a critical value from the t-table if the standard deviation is estimated.   </P>
+
+
+
+
+
+
+
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

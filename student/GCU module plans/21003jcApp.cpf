@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Mathematics and Structures BNEC2104</P>
+<P ALIGN="CENTER">Outcome:Applications of Differentiation and Integration </P>
+<P ALIGN="CENTER"></B>
+
+<FONT FACE="Comic Sans MS" SIZE=2>
+<P>This Learning Plan deals with some of the many applications of calculus. The first two are applications of differentiation, and the third is an application of integration. 
+<LI><b>Maxima and minima </b>are covered in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 37~?">Lesson 37 in Level Two</a>.  This is a long lesson with many worked examples.
+<UL><LI>Try questions <a href="launch.htm#q0448"> q0448</a>, <a href="launch.htm#q0449"> q0449</a>, <a href="launch.htm#q0151"> q0151</a>, <a href="launch.htm#q0149"> q0149</a> , <a href="launch.htm#q0150"> q0150</a>
+<LI> Now  move to  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 31~?">Lesson 31 in Level Three</a>.  You will detect some overlap with the lesson above.</UL>
+<P>
+<LI><b>Related Rates </b>You should work through  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 32~?">Lesson 32in Level Three</a>, in which you will see many practical  examples. 
+<P>
+<LI><b>Differential Equations</b>:This is an application of integration. Do  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 33~?">Lesson 33 in Level Three</a> and you will see how to solve simple differential equations.  Then do  <a href="launch.htm#q0066"> q0066</a>, <a href="launch.htm#q0152"> q0152.</a>
+
+
+<P>You will meet all of these ideas in your other modules.
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

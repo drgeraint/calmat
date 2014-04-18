@@ -1,0 +1,98 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Logic</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Basic Operations </center></b><font size="--">
+
+
+<P>Computer Logic or Circuit Logic can be used in a variety of ways. 
+eg. In helping to solve practical work in a control engineering problem.
+
+
+<P>Signals can be:
+
+
+<ul><LI>analogue
+<Br><LI>digital
+<Br><LI>binary (0 or 1)</UL>
+
+
+<P>A large proportion of the control systems using binary signals can be described as switching algebra eg. a feed table of a milling machine may only be operating if :-
+
+
+<UL>
+<LI>mill machine is running</LI>
+<LI>coolant is being pumped</LI>
+<LI>protective grate closed</LI>
+<LI>feed motor is on</LI></UL>
+<P>
+
+<B>Basic Operations</B>
+<P>The processing potential of binary signals can be described using the three basic operations:-</P>
+<b>
+<UL> <LI>AND
+<LI>OR
+<LI>NOT (negation)
+</UL></b>
+
+These basic operations are used to solve basic combinatorial control problems.
+<P>
+<B><P>AND Logic Operator</P></B>
+<P>Operationally, the output signal is 1 only when all input signals are 1.</P>
+
+<P>We use the symbol <b><FONT FACE="Symbol">&#217;</FONT></b>
+ to denote<b> AND</b>.</P>
+
+<P>The truth table for two input signals is:-</P>
+<P><img src="Image80.png"></P></FONT>
+</b>
+<FONT FACE="Arial"><font size="--">
+
+
+<P>Read  p <FONT FACE="Symbol">&#217;</FONT> q as  &quot;p and q&quot;.</P>
+
+ 
+<B><P>OR Logic Operator</P>
+</B>
+<P>Operationally the output signal is 1 if at least one of the input signals is 1.</P>
+
+<P>We use the symbol<b> <FONT FACE="Symbol">&#218;</FONT></b> 
+ to denote <b>OR</b>.</P>
+
+<P>The truth table for two input signals is :-</P>
+<P><img src="Image81.png"></P>
+
+Read  p <FONT FACE="Symbol">&#218;</FONT>
+ q as &quot;p or q&quot;.</P>
+
+<P>&nbsp;</P>
+<B><P>NOT Logic Operator</P>
+</B>
+<P>Operationally the output signal is 1 if the input signal is 0; the output signal is 0 if the input signal is 1.</P>
+
+<P>We use <b><FONT FACE="Symbol">&#126;</FONT></b>
+ to denote <b>NOT</b>.</P>
+
+<P>The truth table for one input signal is :-</P>
+<P><img src="Image82.png"></P>
+
+Read  <FONT FACE="Symbol">&#126;</FONT>
+p as &quot;not p&quot;.
+
+
+<P>This is the end of the first Logic Learning Plan.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,46 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Calculations Using Kepler's Laws</b></p></center>
+</font><font face="Arial" size="--">
+<p><b>Kepler’s Third Law:</b> <br/><center><img src="23103bs3rdLawFormula.png"></center>
+
+<p>If we take</p>
+<center><table>
+<tr><td>a<sub>E</sub> = average distance of Earth from the Sun = 1 AU</td></tr>
+<tr><td>P<sub>E</sub> = orbital period of Earth = 1 year</td></tr>
+</table></center>
+<center><table><tr><td>Then the constant for the planets in the solar system is</td><td><img src="23103bs3rdLawSSConst.png"></td></tr>
+</table></center>
+<p>Kepler's third law then becomes</p>
+<center><img src="23103bs3rdLawSSFormulae.png"></center>
+<p>where:
+<br/>a = distance of the planet from the Sun <b>in astronomical units</b>
+<br/>P = time it takes for the planet to revolve around the Sun <b>in years</b>.</p>
+
+<p>You may like to use <a href="C:\DfW\Dfw.exe"><b>Derive</b></a> to check this.</p>
+
+<p>Note: The above formula is valid for every body that revolves around the same central body. Thus you could apply Kepler's third law to Jupiter and its satellites. </p>
+
+<p>Questions
+ <a href="launch.htm#q0885"><b>885</b></a>,
+ <a href="launch.htm#q0886"><b>886</b></a>,
+and <a href="launch.htm#q0887"><b>887</b></a> use Kepler's third law to find the orbital periods of planets.</p>
+
+<p>Questions
+ <a href="launch.htm#q0890"><b>890</b></a>
+and  <a href="launch.htm#q0891"><b>891</b></a> use Kepler's third law to find the distances of planets from the Sun,
+ and <a href="launch.htm#q0884"><b>884</b></a> is the more general case.</p>
+
+
+<!--end-->
+
+</BODY>
+</HTML>
+

@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Binary Arithmetic</center></b>
+<b><font size="+1"><center>Learning Plan 5</center></b>
+<P>
+<b><center>Using AND Operator to Convert Lower Case to Upper Case</center></b><font size="--">
+<P>
+The ASCII codes for :-
+<P>
+<center>a = 97(decimal) = 61 (hexadecimal)</center>
+<P>
+<center>A = 65(decimal) = 41 (hexadecimal)</center>
+<P>
+This differential between lower and upper case letters is maintained for all letters.
+<P>
+To convert lower case we use the number 5F (hexadecimal) together with the AND operator.
+<P>
+<img src="Image17.png">
+<P>
+Try  
+<a href="launch.htm#q0470">q0470</a> and <a href="launch.htm#q0471">q0471</a>.
+<P>This is the end of the final Binary Learning Plan.
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

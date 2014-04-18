@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Enumeration</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Combinations</center></b><font size="--">
+<P>A<b> combination</b> of n objects taken r at a time is any selection of r of the objects where <b>order is not important</b>.
+<P>This means that in a selection of three objects from a set {a, b, c, d}, the selection of abc is the same as bca, that is, order does not matter.
+<P>Any combination of n objects taking r at a time is denoted by:- C(n,r) = <sup>n</sup>C<sub>r</sub>= n!/[r!(n-r)!]
+<P>
+Try <a href="launch.htm#q0731">q0731</a>. 
+<P>Note C(n,r) = P(n,r)/r!
+<P><b>Example</b>
+<P>In how many ways can three people be selected from eight ?
+<P><b>Solution</b>
+<P>C(8,3) = 8!/[3!(8-3)!] = 8!/(3!5!)= (8)(7)(6)/(3)(2) = 56
+<P>
+<P>Now work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 6 b 0~?">3-6 Section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 6 c 0~?">Section c</a>.   Try <a href="launch.htm#q0193">q0193</a>, <a href="launch.htm#q0160">q0160</a>, <a href="launch.htm#q0163">q0163</a> and <a href="launch.htm#q0196">q0196</a>.
+<P> If you are feeling confident work through <a href="launch.htm#q0159">q0159</a>, <a href="launch.htm#q0192">q0192</a>, <a href="launch.htm#q0164">q0164</a> and <a href="launch.htm#q0197">q0197</a>. 
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

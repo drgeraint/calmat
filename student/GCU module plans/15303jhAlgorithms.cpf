@@ -1,0 +1,179 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Algorithms</center></b>
+<font size="--">
+<P>
+
+<FONT FACE="Arial"><P>General algorithms have certain properties.</P>
+
+<br>
+<UL>
+<LI>the precision of the individual step by step instructions.</LI></UL>
+
+<br>
+
+<UL>
+<LI>the input provided to the algorithm, and the output the algorithm provides.</LI></UL>
+
+<br>
+
+<UL>
+<LI>the ability of the algorithm to solve a certain type of problem.   Not just specific examples of the problem.</LI></UL>
+
+<br>
+
+<UL>
+<LI>the uniqueness of the intermediate and final results, based on the input.</LI></UL>
+
+<br>
+
+<UL>
+<LI>the finite nature of the algorithm in that it terminates after the execution of a finite number of steps.</LI></UL>
+
+<br>
+<P>When an algorithm correctly solves a certain type of problem and satisfies the above conditions, then the algorithm can be examined further.</P>
+
+<br>
+<UL>
+<LI>measure how long (no. of steps) it takes to solve a problem of a certain size.</LI></UL>
+
+<br>
+
+<UL>
+<LI>If there are several algorithms available, which is best ?  How do we determine this ?</LI></UL>
+
+<br>
+<P>Let the algorithm, M, be a finite step by step list of well defined instructions for solving a particular problem.</P>
+
+<P>Let the input be denoted by X. (X could be a list or set of values)</P>
+
+<P>Let the output be denoted by f(x).</P>
+
+<P>The choice of algorithm, M, to obtain the output f(x) may depend on the &quot;efficiency&quot; or &quot;complexity&quot; of the algorithm.</P>
+
+<B><P>&nbsp;</P>
+<P>Example</P>
+
+</B><P>Let f(x) = 2x<SUP>3</SUP> – 7x<SUP>2</SUP> + 4x –15</P>
+
+<P>Determine f(5).</P>
+
+<P>&nbsp;</P>
+<P>Solution</P>
+
+<B><P>Method 1</P>
+</B>
+<P>f(5) = (2)(5)<SUP>3</SUP> – 7(5)<SUP>2</SUP> + 4(5) –15</P>
+
+<P>Multiplications = 6</P>
+
+<P>Additions = 3</P>
+
+<B><P>Method 2</P>
+</B>
+<P>f(x) &#9;= 2x<SUP>3</SUP> – 7x<SUP>2</SUP> + 4x – 15</P>
+<P>&#9;= (2x<SUP>2</SUP> – 7x + 4)x – 15</P>
+<P>&#9;= ((2x-7)x + 4)x – 15</P>
+
+<P>Multiplications = 3</P>
+
+<P>Additions = 3</P>
+
+<P>So a comparison of the methods shows:</P>
+
+<P><img src="image53.png"></P>
+
+<P>In general, it can be shown that for a polynomial of degree n:</P>
+
+<P><img src="image54.png"></P>
+
+<P>The analysis of algorithms is a major task in computer science.</P>
+
+<P>The &quot;efficiency&quot; or &quot;complexity&quot; of M is measured by counting the number of key operation.</P>
+
+<B><P>Examples</P>
+
+</B><P>In sorting and searching – count comparisons</P>
+
+<P>In arithmetic &#9;</P>
+
+<UL>
+<LI>count multiplications</LI>
+<LI>ignore additions</LI></UL>
+
+<br>
+<P>The complexity of an algorithm, M, is a function, f(n) which gives the running time/storage space requirement of the algorithm in terms of the size n of the input data. (We will assume running time.)</P>
+
+<P>The complexity, f(n) of M increases as n increases.</P>
+
+<P>Usually it is the rate of increase of f(n) that is of interest.</P>
+
+<P>The rate of increase is usually done by comparing f(n) with some standard function.</P>
+
+<P>e.g. log<SUB>2</SUB>(n), n, nlog<SUB>2</SUB>(n), n<SUP>2</SUP>, n<SUP>3</SUP>, 2<SUP>n</P>
+</SUP>
+<P>&nbsp;</P>
+<P>The &quot;Big Oh&quot; is used to compare complexity functions.</P>
+
+<P><img src="image55.png"></P>
+
+<B><P>Example</P>
+</B>
+<P>Two algorithms have complexity functions</P>
+
+<P ALIGN="CENTER">f(n) = n <SUP>3/2</SUP> and g(n) = nlog<SUB>2</SUB>(n).</P>
+
+<P>Which of these two algorithms would you use on a problem which has 64 steps and which on a problem with 10,000 steps ?</P>
+
+<P>Solution</P>
+
+<OL>
+
+<LI>set n = 64</LI>
+
+<P>f(64) = (64)<SUP>3/2</SUP> = 512</P>
+
+<P>g(64) &#9;= (64)log<SUB>2</SUB>(64)</P>
+<P>&#9;= (64)log<SUB>2</SUB>(2<SUP>6</SUP>)&#9;&#9;remember log<SUB>2</SUB>2 = 1</P>
+<P>&#9;= (64)(6)</P>
+<P>&#9;= 384</P>
+
+<P>As g(64) &lt; f(64), for a problem for n = 64, use g(n) i.e. nlog<SUB>2</SUB>(n)</P>
+
+<LI>now set n = 10,000</LI></OL>
+
+<br>
+<P>f(10000) &#9;= (10000)<SUP>3/2</P>
+</SUP><P>&#9;&#9;= (100)<SUP>3</P>
+</SUP><P>&#9;&#9;= 1,000,000</P>
+<P>&#9;&#9;= 10<SUP>6</P>
+</SUP>
+<P>g(10,000) &#9;= (10000)log<SUB>2</SUB>(10000)</P>
+<P>&#9;&#9;= (10000)log<SUB>10</SUB>(10000)/log<SUB>10</SUB>(2)</P>
+<P>&#9;&#9;= (10000)(13.29)</P>
+<P>&#9;&#9;<FONT FACE="Symbol">&#64;</FONT>
+ 1.3 x 10<SUP>5</P>
+</SUP>
+<P>As g(10,000) &lt; f(10,000), for n = 10,000, use g(n) i.e. nlog<SUB>2</SUB>(n).</P>
+
+<P>&#9;&#9;</P>
+<P>Many answers in the following questions have to be entered to a given number of significant figures or in Standard Form.   You may find it helpful to revise these topics by working through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 8 g~?">1-8 section g</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 8 h 0~?">section h</a> and then <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 a~?">1-11 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 b~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 c 0~?">section c</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 d~?">section d</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 e 0~?">section e</a>.  .</P>
+
+<P>Now try <a href="launch.htm#q0463">q0463</a>, <a href="launch.htm#q0464">q0464</a>, <a href="launch.htm#q0472">q0472</a>, <a href="launch.htm#q0465">q0465</a> and <a href="launch.htm#q0466">q0466</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

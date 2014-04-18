@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2419</P>
+<P ALIGN="CENTER">Outcome:Regression</P></B>
+<P ALIGN="CENTER"></P></B><FONT FACE="Comic Sans MS" SIZE=2>
+
+
+<B><P>Introduction</P></B>
+<P>In this Learning Plan we will consider the problem of fitting the ‘best straight line’ through a set of points which do not lie exactly on the line.</P>
+
+
+<B>Fitting a Line by Eye</b>
+
+<UL>Begin by working through 1-58 <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 a 0~?">section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 b 0~?">section b</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 c 0~?">section c</a>.   
+<Br>In the examples we have assumed that a linear relationship existed between the two variables.   A line was fitted by eye to the data.   However, it is difficult to judge where best to draw the line.   Different people would probably draw slightly different lines.   <B>Regression</B> is a technique to determine the ‘best fitting line’ by the <B>method of least squares</B>.</UL>
+
+<B><P>Linear Regression</P></B>
+<UL>It is appropriate to use linear regression, where interest lies in determining the average linear relationship between Y and X.   The resulting line of best fit can then be used to predict y from x.</UL>
+
+<B><P>The Method of Least Squares</P></B>
+<UL><LI>We wish to find the equation y = a + bx of a straight line which is the ‘best’ fitting line to the set of data points.   This is an estimate of the true regression line y = <FONT FACE="Symbol">&#97;</FONT>
+ +<FONT FACE="Symbol">&#98;</FONT>
+x.  
+<LI>The method to find the ‘best’ fitting line is known as the method of least squares or linear regression.<Br>
+
+<P><UL> Try <a href="launch.htm#q0790">q0790</a>, <a href="launch.htm#q0795">q0795</a>, <a href="launch.htm#q0791">q0791</a> and <a href="launch.htm#q0792">q0792</a>. </UL></UL></P>
+
+<B><P>Correlation</P>
+
+</B><UL>Pearson’s Product Moment Correlation Coefficient, <B>r</B> is used to measure the strength of the linear relationship between two variables.   
+<LI>Note that <B>–1 <FONT FACE="Symbol">&#163;</FONT>
+  r <FONT FACE="Symbol">&#163;</FONT>
+ 1</B> where <B>r = -1 indicates a perfect negative correlation</B> and <B>r = 1 indicates a perfect positive correlation.
+</B>
+ <P><UL>Try <a href="launch.htm#q0793">q0793</a>, <a href="launch.htm#q0796">q0796</a> and <a href="launch.htm#q0794">q0794</a></P>
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

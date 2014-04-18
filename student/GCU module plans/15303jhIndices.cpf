@@ -1,0 +1,116 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 4</center></b>
+<P>
+<b><center>Review of Indices</center></b><font size="--">
+<P>
+
+<FONT FACE="Arial"><P>Numbers can be raised to various powers e.g.</P>
+
+<P>Two squared  <FONT FACE="Symbol">&#174;</FONT>
+ 2<SUP>2</SUP> = 2x2 = 4 (two to the power of two)</P>
+<P>Two cubed  <FONT FACE="Symbol">&#174;</FONT>
+ 2<SUP>3</SUP> = 2x2x2 = 8</P>
+
+<P>It may be more convenient to write numbers as powers.</P>
+
+<P>A number <B>a</B> raised to the power <B>n</B> is written as :-</P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;a<SUP>n</SUP> ; n is called the <B>index</B> of a</P>
+
+<P>Now&#9;&#9;a<SUP>0</SUP> = 1</P>
+<P>&#9;&#9;a<SUP>1</SUP> = a</P>
+<P>&#9;&#9;a<SUP>2</SUP> = a.a</P>
+<P>&#9;&#9;a<SUP>3</SUP> = a.a.a        , etc</P>
+
+<P>&nbsp;</P>
+<B><P>Multiplying Powers</P>
+</B>
+<P>a<SUP>3</SUP>.a<SUP>2</SUP> = (a.a.a)(a.a) = a<SUP>5</P>
+</SUP>
+<P>That is ,  for multiplication, <B>add</B> the powers.</P>
+<P>Try <a href="launch.htm#q0388">q0388</a>, <a href="launch.htm#q0392">q0392</a> and <a href="launch.htm#q0385">q0385</a>.
+<P>&nbsp;</P>
+<B><P>Dividing Powers</P>
+
+</B><P>a<SUP>3</SUP>/a<SUP>2</SUP> = (a.a.a)/(a.a) = a = a<SUP>1</SUP> = a<SUP>3-2</P>
+</SUP>
+<P>That is , for division, <B>subtract </B>the powers.</P>
+
+<P>&nbsp;</P>
+<P>Further</P>
+
+<P>a<SUP>3</SUP>/a<SUP>6</SUP> = (a.a.a)/(a.a.a.a.a.a) = 1/(a.a.a) = a<SUP>3-6 </SUP>= a<SUP>-3</P>
+</SUP>
+<P>So for negative index, take reciprocal value.</P>
+<P> Work on <a href="launch.htm#q0390">q0390</a> and <a href="launch.htm#q0391">q0391.</a>
+<P>&nbsp;</P>
+<P>If you are finding the simplification and manipulation of these expressions difficult to follow you may find it helpful to work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 a~?">1-14 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 b 0~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 c 0~?">section c</a>.</P>
+
+<P>&nbsp;</P>
+<P>Indices can be extended further. e.g</P>
+
+<P>a<SUP>3</SUP> raised to the power of 2 is</P>
+
+<P>(a<SUP>3</SUP>)<SUP>2</SUP> = (a<SUP>3</SUP>).(a<SUP>3</SUP>) = (a.a.a).(a.a.a) = a.a.a.a.a.a = a<SUP>6</P>
+</SUP>
+<P>&nbsp;</P>
+<P>In general <B>(a<SUP>m</SUP>)<SUP>n</SUP> = a<SUP>m.n</B></SUP>.   That is, multiply the powers.  
+<P>This is the <B>Power Rule.</B></P>
+<P>Attempt <a href="launch.htm#q0389">q0389</a>.
+<P>&nbsp;</P>
+<P>Work through </HTML><a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 a 0~?">1-24 section a</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 b 0~?">section b</a>. 
+<br>
+<P>Spend time on <a href="launch.htm#q0386">q0386</a>, <a href="launch.htm#q0387">q0387</a> and <a href="launch.htm#q0206">q0206.</a>
+<P>Further, the roots of a number are written:</P>
+
+<P><FONT FACE="Symbol">&#214;</FONT>
+a = a<SUP>1/2 </SUP>; square root</P>
+<SUP><P>3</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>a = a<SUP>1/3 </SUP>; cube root</P>
+<SUP><P>n</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>a = a<SUP>1/n </SUP>; nth root</P>
+<P> Complete <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 c -2~?">1-24 section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 d 0~?">section d</a>. 
+<P>&nbsp;</P>
+<P>Similarly,</P>
+
+<P>1/<FONT FACE="Symbol">&#214;</FONT>
+a = 1/a<SUP>1/2 </SUP>= a<SUP>-1/2</P>
+</SUP>
+<P>1/<SUP>n</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>a = 1/ a<SUP>1/n </SUP>= a<SUP>-1/n</P>
+</SUP>
+<P>Also</P>
+
+<P>(<FONT FACE="Symbol">&#214;</FONT>
+a)<SUP>3 </SUP>= (<FONT FACE="Symbol">&#214;</FONT>
+a)( <FONT FACE="Symbol">&#214;</FONT>
+a)( <FONT FACE="Symbol">&#214;</FONT>
+a) = <FONT FACE="Symbol">&#214;</FONT>
+(a.a.a) = <FONT FACE="Symbol">&#214;</FONT>
+a<SUP>3</SUP> = a<SUP>3/2</P>
+</SUP>
+<P>and in general</P>
+
+<P>(<SUP>n</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>a)<SUP>m</SUP> = <SUP>n</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>(a.a.a……a) = <SUP>n</SUP><FONT FACE="Symbol">&#214;</FONT>
+</SUP>a<SUP>m</SUP> = a<SUP>m/n</P>
+</SUP><P>&#9;&#9;</SUP>m terms</P>
+<P>Attempt <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 e 0~?">1-24 section e</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 24 f~?">section f</a>.
+<P>&nbsp;</P>
+<P>This is the end of the Indices Learning Plan.   Now begin the plan entitled Power Functions.
+<P>&nbsp;</P></FONT></BODY>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

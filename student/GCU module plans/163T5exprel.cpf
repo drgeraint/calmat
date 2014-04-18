@@ -1,0 +1,87 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra</P>
+</B></FONT><FONT FACE="Arial">
+</FONT><B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Exponential Relationships</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<br>
+
+<P>Before taking <B>Test 5</B> attempt the material in <B>this</B> Learning Plan <B>and</B> the following plans:</P>
+
+<B><P ALIGN="CENTER">Exponential Functions</P>
+<P ALIGN="CENTER">The Logarithmic Function</P>
+<P ALIGN="CENTER">Exponential Equations & Applications</B>.</P>
+<br>
+
+<P>The <B>TAS questions</B> mentioned in <B>this plan</B> and the <B>three plans</B> listed above form the <B>bank of questions</B> from which the questions for <B>Test 5</B> are chosen.</P>
+
+<P>The lecture notes referred to in this Learning Plan are <B>Chapter 2 ‘Algebra’</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Exponential Functions</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>An exponential function takes the general form </P>
+
+<P ALIGN="CENTER">y = a<SUP>x</SUP> &#9;&#9;(a &gt; 0)</P>
+<P ALIGN="CENTER"></P>
+<P>The number <B>a</B> is called the <B>base</B> and the number <B>x</B> is called the <B>exponent</B> or index.</P>
+
+<P>Examples of exponential functions:</P>
+
+<P ALIGN="CENTER">y= 2<SUP>x</SUP> (an exponential function with base 2)</P>
+<P ALIGN="CENTER">y = 5<SUP>t</SUP> (an exponential function with base 5)</P>
+<P ALIGN="CENTER"></P>
+<P>These functions are often written in functional notation as:</P>
+
+<P ALIGN="CENTER">f(x) = 2<SUP>x</P>
+</SUP><P ALIGN="CENTER">g(t) = 5<SUP>t</P>
+</SUP>
+<P>Sometimes the quantity a<SUP>x</SUP> may be multiplied by a constant k, say, giving the form:</P>
+
+<P ALIGN="CENTER">y = ka<SUP>x</P>
+</SUP>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4>Exponential Graphs</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P>Refer to your lecture notes page 22 for the graphs of y = 2<SUP>x</SUP> and y = 3<SUP>x</SUP>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4>Applications of Exponential Relationships</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P>Population growth and decay are just two of the many areas which can be modelled by exponential functions.   Consider the examples discussed on pages 23 and 24 of your lecture notes.</P>
+
+<P>As an introduction to exponential functions work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 16 b 0~?">2-16 section b</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab associated with this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Exponential Relationships. You should now begin the Learning Plan entitled <B>Exponential Functions</B>.</P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

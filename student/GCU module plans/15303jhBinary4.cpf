@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Binary Arithmetic</center></b>
+<b><font size="+1"><center>Learning Plan 4</center></b>
+<P>
+<b><center>Two's Complement</center></b><font size="--">
+<P>
+There is a need to manipulate both positive and negative numbers.   For this reason a scheme is required to resolve potential problems of complicated computer arithmetic.   Such a scheme is the 2's complement scheme.
+<P>
+For the puposes of illustration, 8-bit binary numbers are used.
+<P>Now decimal 0 is represented by 0000 0000.
+<P>Decimal 5 is represented by 0000 0101.
+<P>
+To obtain a representation for -5, we should be able to find a binary representation so that 5 + (-5) = 0.
+<P>
+<img src="Image15.png">
+<P>
+As we are only using  8-bit numbers,  the leading 1 in this calculation is an overflow.   By ignoring the overflow,  an easy representation can be used for negative numbers.
+<P>
+Using 8-bits with a two's complement scheme,  the largest number and the smallest number are 127 (0111 1111) and -128 (1000 0000) respectively.
+<P>
+<b>Example</b>
+<P>
+Using the two's complement scheme for an 8-bit instruction set,  add 17 and -10 (decimal).
+<P>
+<img src="Image16.png">
+<P>Try <a href="launch.htm#q0854">q0854</a>. 
+<P>This is the end of the Binary 4 Learning Plan.   Now begin the final Learning Plan on this topic, Binary 5.
+<br>
+
+<br> 
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,143 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra</P></FONT></B>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Quadratic Relationships</P></FONT></B>
+<FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 3</B> attempt the material in <B>this</B> Learning Plan
+<B>and</B> the following plans<P> 
+
+<B><P ALIGN="CENTER">Linear Relationships
+<br>(should already be completed)</P>
+<P ALIGN="CENTER">Simultaneous Equations</B>.</P>
+<br>
+
+<P>The <B>TAS questions</B> mentioned in <B>this plan</B> and the <B>two plans</B> listed above form the <B>bank of questions</B> from which the questions for <B>Test 3</B> are chosen.</P>
+
+<P>The Lecture Notes referred to in this Learning Plan are <B>Chapter 2 ‘Algebra’</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Quadratic Equations</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>A quadratic equation has the general form,</P>
+
+<P ALIGN="CENTER">ax<SUP>2</SUP>  + bx + c = 0</P>
+
+<P>where a, b and c are real numbers, a <FONT FACE="Symbol">&#185;</FONT>
+ 0.   Notice the power of the variable in a quadratic equation is 2.</P>
+
+<P>Examples of quadratic equations would be</P>
+
+<P ALIGN="CENTER">6x<SUP>2 </SUP>+ 3x + 1 = 0</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">½ p<SUP>2</SUP> – p  =  ¼</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">3.14m<SUP>2</SUP> = 6.28</P>
+<P ALIGN="CENTER"></P>
+<br>
+<P>Study Lesson 1-30 <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 a~?">section a</a> for an introduction to quadratic equations and their solution.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Solving Quadratic Equations by Factorisation</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>Quadratic equations can be easily solved if the expression ax<SUP>2</SUP> + bx + c can be factorised.</P> 
+
+<B><P>Example </P></B>
+<P>The temperature T (<FONT FACE="Symbol">&#176;</FONT>
+C) at which water boils is related to the elevation h (in metres above sea level) by the quadratic relationship</P>
+
+<P ALIGN="CENTER">1000(100 – T) + 580(100 – T)<SUP>2</SUP> = h</P>
+<P ALIGN="CENTER"></P>
+<P>At what temperature will water boil at sea level ?</P>
+<br>
+<P><B>Solution</P>
+</B>
+<P>At sea level h =0.</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 1000(100 – T) + 580(100 – T)<SUP>2</SUP> = 0</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+(100 - T)(1000 + 580(100 – T)) = 0&#9; (taking out a factor of (100 – T))</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+(100 – T) = 0 or (1000 + 580(100 – T)) = 0</P>
+<br>
+<P><B>therefore</B></P>
+
+<P>100 – T = 0
+<FONT FACE="Symbol">&#222;</FONT>
+ -T = -100
+<FONT FACE="Symbol">&#222;</FONT>
+<B>T =100</B>
+
+<P><B>or</B></P>
+
+<P>1000 + 580(100 – T) =0
+<FONT FACE="Symbol">&#222;</FONT>
+1000 + 58000 – 580T = 0
+<FONT FACE="Symbol">&#222;</FONT>
+ 59000 – 580T = 0</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 580T = 59000
+<FONT FACE="Symbol">&#222;</FONT>
+ T = 59000/580
+<FONT FACE="Symbol">&#222;</FONT>
+ <B>T = 101.7 (to 1 dp)</B></P>
+
+<P>hence, at sea level(as expected) water will boil at 100<FONT FACE="Symbol">&#176;</FONT>
+C.</P>
+
+<br>
+<P>If you feel that you need help with factorising quadratic expressions then work through the Learning Plan <B>"Factorisation"</B> in <B>Test 3 Revision</B>.</P>
+
+<P>Now study Lesson 1-30 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 b 0~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 c 0~?">section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 d 0~?">section d,</a> 
+which describe in detail how to solve quadratic equations by factorisation.  Also work through the examples in the lecture notes, page 2.</P>
+
+<P>Try <a href="launch.htm#q0393">q0393</a>, <a href="launch.htm#q0394">q0394</a>, <a href="launch.htm#q0395">q0395</a> and <a href="launch.htm#q0142">q0142</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>The Quadratic Formula</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>If the expression ax<SUP>2 </SUP>+ bx + c <B>cannot</B> be easily <B>factorised</B> we use the so-called <B>Quadratic Formula</B>.   Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 e 0~?">1-30 section e</a>.   Examples are solved using the Quadratic Formula on pages 4 and 5 of your lecture notes.   Try <a href="launch.htm#q0648">q0648</a>.</P>
+<P ALIGN="CENTER"></P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Quadratic Graphs</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>A quadratic relationship can be illustrated pictorially by a u-shaped or n-shaped <B>parabola</B>.   Quadratic graphs are shown on pages 6-8 of your lecture notes.</P>
+
+<P>Quadratic relationships and related graphs are covered in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 g 0~?">1-30 section g</a>.  </P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab on which you will be assessed attached to this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Quadratic Relationships. You should now begin the Learning Plan entitled <B>Simultaneous Equations</B>.</P>
+
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

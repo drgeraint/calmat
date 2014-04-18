@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font size="+4"><font face="Arial">
+Multiple Integration - Basics
+<br>
+<p><font size="+2">
+In this section we briefly introduce the mechanics of multiple integration between constant limits.  This represents an 
+<br>easy extension of the definite integral that you have already met.</p>
+<br/>
+
+<p>An expression such as, </p>
+
+<br/>
+<center><img src="K:\CALMAT\scalmat\plans\mark\evalint1.png">
+</center>
+
+<br/>
+
+<br>which contains two integral signs, is referred to as a double integral.  A more general version (not the most general possible) is <P>
+
+<center> <img src="K:\CALMAT\scalmat\plans\mark\gen2int.png"></center>
+
+<br>where the symbols on the integrals represent constants.
+<br>
+<P> The evaluation of double integrals proceeds by first evaluating 
+the inner integral. (Note that we have been very explicit about which variable goes with which limit).
+<br>
+<P><center><img src="C:\Top\lade\evalint1a.png"></center>
+
+<P>This leaves a single integral to be evaluated.
+<br>
+<center><img src="C:\Top\lade\evalint1b.png"> </center>
+
+<br>
+To test your ability with this type of integral try the following 
+problems; <P>
+<a href="launch.htm#q0800">question 1</a> <br>
+<a href="launch.htm#q0896">question 2</a><br>
+<a href="launch.htm#q0801">question 3</a><br>
+<a href="launch.htm#q0897">question 4</a><br>
+<a href="launch.htm#q0895">question 5</a><br>
+
+<p>
+
+<br>Here is a harder example:<p>
+<a href="launch.htm#q0906">question 6</a>
+<p>
+And of course the variables do not have  
+to be x and y - try the following 
+(use the hint -indicated by the '?'- if you are not sure how to proceed):<p>
+ <a href="launch.htm#q0899">question 7</a><br>
+<P>
+
+<br> The method extends easily to higher order integrations.  
+<br>To ensure that you understand this procedure try the following 
+(triple integral) problems.
+<p>
+
+<a href="launch.htm#q0907">question 8</a> <br>
+<a href="launch.htm#q0810">question 9</a>
+
+<p>
+
+<br>There is no requirement for the integrations to be with respect to x, y and z. Try the following problem, just follow the procedures already described  (If you find this integral problematical, then replace the variables with x and y!).  Note that the problem requires the use of a trig identity - see the hint (indicated by the "?") if you are not sure how to proceed.
+<br>
+<p>
+<a href="launch.htm#q0899">question 9</a>.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

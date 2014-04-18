@@ -1,0 +1,116 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Linear and Composite Functions</center></b><font size="--">
+<P>
+
+<P>Before beginning this Learning Plan read the introduction to Functions in your lecture notes pages 1-6.   Work through  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 a~?">2-13 section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 b~?">section b</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 c~?">section c</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 d~?">section d</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 e 0~?">section e.</a>
+<P>&nbsp;</P>
+<B><P>Linear Functions </P>
+
+</B><P>A linear function has the general form :</P>
+
+<P>&#9;y = mx + c</P>
+
+<P>Families of linear functions :</P>
+
+<P>&#9;y = mx;  &#9;c = 0</P>
+<P>&#9;y = x + c; &#9;m = 1</P>
+
+<P>y = i(x) = x is called the <B>identity </B>function.</P>
+
+<P>You may find it helpful to work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 a~?">1-41 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 b 0~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 c 0~?">section c</a>. </P>
+
+<P>Try <a href="launch.htm#q0377">q0377</a>. </P>
+
+<P>&nbsp;</P>
+<B><P>Composite Functions</P>
+
+</B><P>Functions can be combined.</P>
+
+<P>If f : A <FONT FACE="Symbol">&#174;</FONT>
+ B and g : B <FONT FACE="Symbol">&#174;</FONT>
+ C, we define the composite function,  which is denoted  g  o  f : A <FONT FACE="Symbol">&#174;</FONT>
+ C, by</P>
+<P>&#9;</P>
+<P>&#9;(g  o  f)(a) = g(f(a)) ,&#9;&#9;<FONT FACE="Symbol">&#34;</FONT>
+ a <FONT FACE="Symbol">&#206;</FONT>
+ A</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+
+</B><P>Let A = {1, 2, 3, 4},  B = {a, b, c} and C = {w, x, y, z} with f : A <FONT FACE="Symbol">&#174;</FONT>
+ B and </P>
+<P>g : B <FONT FACE="Symbol">&#174;</FONT>
+ C given by</P>
+
+<P>f = {(1,a), (2,a), (3,b), (4, c)} and g = {(a, x), (b, y), (c, z)}.</P>
+
+<P>For each element of A:</P>
+
+<P>(g  o  f)(1) = g(f(1)) = g(a) = x</P>
+<P>(g  o  f)(2) = g(f(2)) = g(a) = x</P>
+<P>(g  o  f)(3) = g(f(3)) = g(b) = y</P>
+<P>(g  o  f)(4) = g(f(4)) = g(c) = z</P>
+
+<P>Hence</P>
+
+<P>g  o  f = {(1, x), (2, x), (3, y), (4, z)}</P>
+
+<P><img src="Image38.png"></P>
+
+<B><P>Example</P>
+</B>
+<P>Let  f : R <FONT FACE="Symbol">&#174;</FONT>
+ R ,  g : R <FONT FACE="Symbol">&#174;</FONT>
+ R be defined by</P>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<P>f(x) = x<SUP>2</P>
+</SUP><P>g(x) = x + 5</P>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<P>Then (g o f)(x) &#9;= g(f(x)) = g(x<SUP>2</SUP>)= x<SUP>2</SUP> + 5</P><DIR>
+
+<br>
+<P>&#9;Also (f o g)(x) = f(g(x))</P>
+<P>&#9;= f(x + 5)</P>
+<P>&#9;= (x + 5)<SUP>2</P>
+</SUP><P> &#9;= x<SUP>2 </SUP>+ 10 x + 25</P>
+
+<P>Here g o f : R <FONT FACE="Symbol">&#174;</FONT>
+ R and f o g : R <FONT FACE="Symbol">&#174;</FONT>
+ R,  but (g o f)(1) = 6 and (f o g)(1 ) = 36 so that f o g <FONT FACE="Symbol">&#185;</FONT>
+ g o f.</P>
+
+<P>i.e. The composition of functions is not, in general, a commutative operation.</P>
+
+<P>Now complete <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 f 0~?">2-13 Section f</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 g 0~?">Section g</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 h 0~?">Section h</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 13 i 0~?">Section i</a>. </P>
+
+<br>Try <a href="launch.htm#q0026">q0026</a>, <a href="launch.htm#q0048">q0048</a> and <a href="launch.htm#q0147">q0147.</a> </P>
+<P>This is the end of the Learning Plan on Linear and Composite Functions.   <P>
+
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

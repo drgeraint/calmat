@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Probability</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Mutually Exclusive Event</center></b><font size="--">
+<P>Before moving onto Mutually Exclusive events work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 a~?">3-7 Section a</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 b 0~?">Section b</a>.   Try <a href="launch.htm#q0533">q0533</a> and <a href="launch.htm#q0532">q0532</a>.   Return to 3-7 and attempt <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 c 0~?">Section c</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 d 0~?">Section d</a>.   Work on <a href="launch.htm#q0737">q0737</a> and <a href="launch.htm#q0740">q0740</a>.  
+<P><b>Mutually Exclusive Event</b>
+<P>Two events, E<sub>1</sub> and E<sub>2</sub>, are mutually exclusive if they have no common sample points.   In a single trial mutually exclusive events cannot both occur.
+<P><img src="Image30.png">
+<P>Here the probabilities of at least one of the events  E<sub>1</sub> or E<sub>2</sub> occurs is:
+<P>Pr(E<sub>1</sub> or E<sub>2</sub>) = Pr(E<sub>1</sub> + E<sub>2</sub>) = Pr(E<sub>1</sub><font face="Symbol">È</font face="Symbol"> E<sub>2</sub>) = Pr(E<sub>1</sub>) + Pr(E<sub>2</sub>)
+<P><b>Example </b>
+<P>A card is dealt from a pack of well shuffled cards.   Let
+<P>E<sub>1</sub> = "card is a heart"
+<P>E<sub>2</sub> = "card is a spade"
+<P>These two events are mutually exclusive because one card cannot be both a heart and a spade.
+<P>Here Pr(E<sub>1</sub> + E<sub>2</sub>) =  Pr(E<sub>1</sub>) + Pr(E<sub>2</sub>) = 13/52 + 13/52 = 1/2
+<P>Consider <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 f 0~?">3-7 Section f</a>.   Now try <a href="launch.htm#q0429">q0429</a>, <a href="launch.htm#q0531">q0531</a> and <a href="launch.htm#q0562">q0562</a>.
+<P><b>Not Mutually Exclusive Events</b> 
+<P>If two events are not mutually exclusive, then the events share at least one common sample point.
+<P><img src="Image31.png">
+<P>Here the probability of at least one of the events E<sub>1</sub> or E<sub>2</sub> occurs is:
+<P>Pr(E<sub>1</sub> or E<sub>2</sub>) = Pr(E<sub>1</sub> + E<sub>2</sub>) 
+<P> = Pr(E<sub>1</sub><font face="Symbol">È</font face="Symbol">E<sub>2</sub>)
+<P> = Pr(E<sub>1</sub>) +  Pr(E<sub>2</sub>) -  Pr(E<sub>1</sub><font face="Symbol">Ç</font face="Symbol">E<sub>2</sub>)
+<P> =  Pr(E<sub>1</sub>) +  Pr(E<sub>2</sub>) -  Pr(E<sub>1</sub> and E<sub>2</sub>)
+<P><b>Example</b>
+<P>A card is dealt from a pack of well shuffled cards.   Let
+<P>E<sub>1</sub> = "the card is a diamond"
+<P>E<sub>2</sub> = "card is a Queen"
+<P>These two events are not mutually exclusive because the card could be the Queen of diamonds.
+<P>Pr(E<sub>1</sub> + E<sub>2</sub>) =  Pr(E<sub>1</sub>) + Pr(E<sub>2</sub>) - Pr(E<sub>1</sub> and E<sub>2</sub>)
+<P> = 13/52 + 4/52 - 1/52 = 4/13
+<P>Try <a href="launch.htm#q0738">q0738</a> and  <a href="launch.htm#q0736">q0736</a>.
+<P>Now work through  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 g 0~?">3-7 Section g</a>.
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

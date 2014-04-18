@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Motion of the Planets: Comparative Sizes</b></p></center>
+</font><font face="Arial" size="--">
+
+<p>Size of planets:</p>
+<ul>
+<li>The Sun is the largest object in the Solar System, the rest of the bodies are dwarfed by it.
+<center><img src="23103bskepl101.png">
+<!--img src="23103bsPlanetsSizeCompare1.png"--></center>
+</li>
+<li>The diameter of the Sun is 100 times that of Earth, so, for comparison
+<center><table>
+<tr><td>Sun </td><td>= size of basketball </td><td></td></tr>
+<tr><td>Earth </td><td>= size of pin </td><td></td></tr>
+<tr><td>Jupiter </td><td>= ping-pong ball </td><td>11 times Earth </td></tr>  
+<tr><td>Pluto </td><td>= grain of sand </td><td>1/5 of Earth </td></tr>
+</table></center>
+</li>
+<li>Relative distances:
+<br/>If the Sun was at one end of tennis court,  Earth would be at the other end
+<br/>		Jupiter would be two football fields away,
+<br/>		Pluto would be a mile away.
+</li>	
+<li>The astronomical unit (AU), the distance from the Earth to the Sun, is approximately 1.49598 x 10<sup>8</sup> km. </li>
+<li>The mass of the Sun (one solar mass) is approximately 1.989 x 10<sup>30</sup> kg. </li>
+<li>The mass of the Earth (one Earth mass) is approximately 5.9742 x 10<sup>24</sup> kg. </li>
+</ul>
+
+<!--
+<font face="Arial" size="+1"><p><b>Modern methods of measuring distance</b></p></font>
+<p><b>Radar </b></p>
+<ol>
+<li>bounce a radar beam off a planet</li>
+<li>measure the time it takes for the beam to return</li>
+<li>know radar travels at the speed of light, can calculate the distance to the planet.</li>
+<li>This gives a value for the astronomical unit (AU), the distance from the Earth to the Sun, of 1.49598 x 10<sup>8</sup> km. </li></ol>
+<center><table>
+<tr><td>Example:
+<br/>Suppose that a radar signal is bounced from Mars.  The signal returns to Earth 22 minutes after being transmitted.  How far away is Mars?</td><td>
+<img src="23103bskepl102.png">
+<!--img src="23103bsMarsEarthDiag.png"--></td></tr>
+</table></center>
+<p>time Earth-Mars-Earth tour = 22 minutes  
+<br/>so       time Earth-Mars = 11 minutes = 660 seconds
+<br/>Speed of light = 3 x 10<sup>5</sup> km/s</p>
+<center><table>
+<tr><td>v </td><td>= d/t   </td><td>where v = velocity, d = distance and t = time</td></tr>
+<tr><td>d </td><td>= vt  </td><td></td></tr>
+<td></td><td>= 3 x 10<sup>5</sup> x 660 km</td></tr>
+<td></td><td>= 2.0 x 10<sup>8</sup> km</td></tr>
+</table></center>
+
+<p>Check this is reasonable:</p>
+<center><table cellspacing="2" cellpadding="2">
+<tr><td align="right">1 AU </td><td>= (approx) 1.5 x 10<sup>8</sup> km   </td><td>average Mars-Earth distance</td></tr>
+<tr><td align="right">d </td><td>= (2.0 x 10<sup>8</sup>)/(1.5 x 10<sup>8</sup>) AU </td><td>is approximately 1.5 AU = 2.5-1.0 AU</td></tr>
+<tr><td align="right"></td><td>= 1.3 AU</td></tr>
+</table></center>
+
+<p>NB The signal takes 5 minutes to return from our nearest planet Venus.
+<br/>   To go from Vancouver to Toronto (over half of Canada) and back, the signal takes ~1/1000 seconds.</p>
+<br/>-->
+
+<!--Radar calculations could be added-->
+
+<p>Some of the calculations in this module involve very large numbers. These are often expressed in Standard Form - see CALMAT MoLS Lesson 1-11 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 a~?">section a</a>. In 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 d~?">section d</a> Standard Form is defined and the <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 e -1~?">tutorials in section e</a> enable you to practise converting normal numbers to Standard Form and vice versa.</p>
+
+<p>Questions <a href="launch.htm#q0882"><b>882 </b></a>and <a href="launch.htm#q0883"><b>883 </b></a>involve converting units which you will need in this part of the course.</p>
+
+
+<!--Resonance calculations could be added-->
+
+<!--end-->
+
+</BODY>
+</HTML>

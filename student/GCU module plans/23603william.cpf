@@ -1,0 +1,267 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>This is a first attempt at a learning plan. 
+<br>
+Planetary Science	Dept. of Mathematics
+<br>	Glasgow Caledonian University
+<br>
+SEMINAR  
+<br>
+Distances and Motions of Solar System Bodies
+<br>
+1.  Application of Kepler’s Third Law
+<br>
+Materials:  calculator
+<br>
+Aim:		To understand Kepler’s third law.  In particular, in the Solar System this means understanding how the distance to a planet and the time it takes the planet to revolve around the sun are related.  Or how the distance to a satellite and the time it takes for the satellite to revolve around the planet are related. 
+<br> 
+<br>Introduction:  
+<br>   Kepler’s third law states:
+<br>   
+<br>   The ratio of the cube of a planet’s average distance from the Sun to the square of its orbital period is the same for each planet revolving around the Sun.
+<br>   
+<br>   a = average distance of planet from the Sun
+<br>   P = orbital period of the planet
+<br>   K = constant
+<br>   
+<br>   a3 /P2 = K 
+<br>
+   This means that the cube of the ratio of the average distances of two planets from the Sun is equal to the square of the ratio of the periods of time it takes two planets to revolve around the Sun.  Let a subscript of 1 denote planet 1 and a subscript of 2 denote planet 2.
+<br>   
+<br>   a1 3 /P1 2 = a2 3 /P2 2
+<br> 
+<br>   
+<br>We can use Kepler’s third law to determine the relative distances to the planets in the Solar System compared to the distance from the Earth to the Sun.  The Earth-Sun distance is defined to be 1 Astronomical unit AU.  If we take:
+<br>   
+<br>   aE = average distance of Earth from the Sun = 1 AU
+<br>   PE = orbital period of Earth = 1 year
+<br>     
+<br>Then the constant for the planets in the Solar System is        aE 3 /PE 2 = 1.
+<br>
+Kepler’s third law then becomes:
+<br>
+   	a 3 /P 2 = 1
+<br>   
+<br>   where:  	a = distance of the planet from the sun in astronomical units
+<br>   	P = time it takes for the planet to revolve around the Sun in years.
+<br>
+Note:  The above equation is valid for every body that revolves around the same central body.  Thus you could apply Kepler’s third law to Jupiter and its satellites.  Simply replace the Sun with Jupiter and the planets with Jupiter’s satellites in the above description.
+<br>
+Data:
+<br>The orbital periods of the planets can easily be found by observing the planets’ movements in the sky.  These are given in the table below.  
+<br>
+Planet
+Period (yrs)
+Distance (AU)
+True Distance (AU)
+Mercury
+0.24
+0.39
+0.39
+Venus
+0.62
+
+
+Earth
+1.0
+1.00
+1.00
+Mars
+1.88
+
+
+Jupiter
+11.86
+
+
+Saturn
+29.46
+
+
+Uranus
+84.01
+
+
+Neptune
+164.79
+30.06
+30.06
+Pluto
+247.7
+
+Questions:
+<br>1. Use Kepler’s third law to calculate the average distances of each planet from the Sun in astronomical units.  Write these values in the column labelled Distance (AU).
+<br>2. Compare these distances with the true distances listed in tables given at the back of your textbook.  Write these values in the column labelled True Distance (AU).
+<br>3. Using the scale, 1 unit = AU, plot each planet’s position in the Solar System according to its distance away from the Sun.
+<br>4. How are the planets spaced out within the Solar System?
+<br>
+Further Questions on Kepler’s Laws:
+<br>5.	Mercury’s period of revolution is 88 days.  Use Kepler’s third law to calculate Mercury’s average distance from the Sun in astronomical units.  
+<br>6.	The planet Uranus was discovered in 1781.  The semi-major axis of its orbit is 19.2 AU.  Use this to calculate its period of revolution around the Sun in years.  Compare this value with that listed in a table at the end of your textbook.
+<br>
+Other Questions on Distances and Motions of Solar System Bodies 
+<br>
+2.  Calculation of distance by using radar observations
+<br>When Venus is at its closest to Earth, it requires about 4.8 minutes for a radar signal to travel to Venus and back.  Determine the distance to Venus.  Convert the answer to astronomical units and check it with the correct distance given in an appendix in your textbook.
+<br>
+3. Calculation of resonances
+<br>Pluto and Neptune are in a resonance.  From their sidereal periods of  248.5 and 164.79 years, respectively, can you determine the ratio of the resonance?  Explain how the existence of a resonance between two planets can ensure that the two planets’ orbits remain the same ie they have a stable configuration. Pluto and Neptune’s orbits cross each other, so why don’t Pluto and Neptune collide with each other?
+<br>
+4.	Apparent Motion of the Sun
+<br>What is meant when we say that the Sun is “in” a certain constellation?  How does the Copernican model explain the Sun’s change of position among the stars? 
+<br>
+5. Apparent Motion of the planets
+<br>	How does the Copernican model explain the retrograde motion of planets?
+<br>
+6. Kirkwood Gaps
+<br>	What process causes the Kirkwood gaps in the asteroid belt?
+<br>
+
+<br>
+7.  Application of Kepler’s Third Law modified by Newton
+<br>
+Materials:  calculator
+<br>
+Aim:		To understand Kepler’s third law as modified by Newton.  In particular, in the Solar System this means understanding how the mass of the sun, the distance to a planet and the time it takes the planet to revolve around the sun are related.  Or how the mass of a planet, the distance to a satellite and the time it takes for the satellite to revolve around the planet are related. 
+<br> 
+<br>Introduction:  
+<br>   Kepler’s third law as modified by Newton using his universal law of gravity:
+<br>
+      ap 3 /Pp 2 = K (mp + msun)
+<br>   
+<br>   where:  	ap = distance of the planet from the sun	
+<br>   	Pp = time it takes for the planet to revolve around the Sun 
+<br>   	mp = the mass of the planet revolving around the sun
+<br>   	msun = the mass of the sun
+<br>   
+<br>   This modified law can be applied to any two bodies orbiting each other because of their mutual gravitational attraction.  For example, this equation could represent a satellite orbiting a planet, a planet orbiting the Sun, or two stars orbiting each other. 
+<br>   For the planets orbiting the Sun, the mass of the sun is much greater than the mass of the planet and so the above equation can be taken to be:
+<br>
+		ap 3 /Pp 2 ( K (msun)
+<br>
+The right-hand side of the equation is then a constant for every planet, which is why Kepler got this result as his third law.  Again if ap is in units of AU, Pp is in units of yrs and now msun is in units of 1 solar mass (so many times the mass of the sun), the constant K is 1.
+<br>   The same equation applied to satellites orbiting a planet becomes:
+<br>   
+<br>   	asat 3 /Psat 2 ( K (mp)
+<br>   
+<br>Note that K is the same constant as before.  Therefore if units of a in AU’s, P in yrs, m in solar masses are used, K is still 1.
+<br>
+Data:
+<br>The orbital periods of some satellites and the distances from the satellites to their planet are given in the table below. 
+<br>
+Planet
+Satellite
+Period of satellite (in days)
+Distance of satellite to planet (in 106m)
+Earth
+Moon
+27.32
+384.4
+Jupiter
+Io
+1.77
+421.6
+Saturn
+Dione
+2.74
+377.4
+<br>Questions:
+<br>1. Use Kepler’s third law as modified by Newton to calculate the masses of Jupiter and Saturn in terms of Earth masses.  Employ scientific notation and show all working.
+<br>2. Compare your answers with those found in the appendices of your textbook.
+<br>3. Why wouldn’t you expect the comparison to be exact?
+<br>
+Further Questions on Kepler’s Law as modified by Newton:
+<br>4. 	Use Kepler’s third law as modified by Newton to determine the mass of Jupiter.  You will need to know the sidereal period and semi-major axis of the orbit of one of Jupiter’s satellites.  Choose the satellite Callisto and find the necessary information in an appendix in your textbook.  Compare your result with the value listed in the appendix.  (NB   These conversions may be of use:  1 AU = 1.49598 x 108 km, 1 solar mass = 1.989 x 1030 kg, 1 Earth mass = 5.9742 x 1024 kg)
+<br>
+5.	If Triton’s orbit about Neptune has an average distance of 354,600 km and a sidereal period of 5.877 days, determine the mass of Neptune.  Compare your result with the value listed in an appendix of your textbook.
+<br>
+
+<br>
+
+<br>
+Planetary Science	Dept. of Mathematics
+<br>	Glasgow Caledonian University
+<br>
+SEMINAR  
+<br>
+Distances and Motions of Solar System Bodies
+<br>
+Solutions:
+<br>
+1.  Application of Kepler’s Third Law
+<br>
+Questions:
+<br>1. 	Distances to Venus = 0.73 AU, Mars =1.52 AU, Jupiter = 5.20 AU, Saturn = 9.54 AU, Uranus = 19.18 AU, Pluto = 39.44 AU
+<br>
+2. 	True Distances to Venus = 0.72 AU, Mars =1.52 AU, Jupiter = 5.20 AU, Saturn = 9.54 AU, Uranus = 19.19 AU, Pluto = 39.44 AU
+<br>
+4. 	Mercury, Venus, Earth, Mars (inner planets) are very closely lumped together compared to the rest of the planets (outer planets), which are very spread out.   
+<br>
+Further Questions on Kepler’s Laws:
+<br>5. 
+<br>
+6.   
+<br>
+Other Questions on Distances and Motions of Solar System Bodies
+<br>
+2.  Calculation of distance by using radar observations
+<br>
+3. Calculation of resonaces
+<br>
+If two planets are in resonance, their periods are exact integer multiples of each other.  This ensures that the planets are repeatedly in the same configurations.  If the two planets are arranged in their orbits so that they are always at opposite ends of their orbits when one planet reaches the point at which the orbits are closest, their orbits will be stable.  If they are arranged so that they are repeatedly near each other at the closest points in their orbits, then close encounters will occur and their orbits will be unstable.  
+<br>  	Pluto and Neptune do not collide because the resonance ensures that anytime Pluto crosses Neptune’s orbit, Neptune is always at the other end of its orbit.
+<br>
+
+<br>4. Apparent Motion of the Sun
+<br>	As the sun sets, we can see the stars that appear to be near the Sun in the sky.  Although the stars are very distant, the Sun appears to be located amongst them.  The stars can be divided into patterns or constellations and the Sun’s position can be described according to the constellation the Sun appears to be located in.  According to the Copernican model of the Solar System, the Earth orbits the Sun.  From the point of view of an observer on Earth, the Sun will appear to change position with respect to the distant stars because the Earth observer is moving, but thinks he is stationary. 
+<br>
+5. 	Apparent Motion of the planets
+<br>	The retrograde motion of planets is the apparent East-West motion of planets with respect to the distant stars.  Retrograde motion is explained by the different speeds at which the Earth and other planets revolve around the Sun.  For example, as the Earth overtakes Mars in its orbit because the Earth moves faster than Mars, Mars as seen from the Earth appears to reverse and move backwards.  See Handout from Lecture “Our Solar System:  What is Known?”  Figure 2-7 .
+<br>
+6. Kirkwood Gaps
+<br>The Kirkwood gaps are distances from the Sun within the asteroid belt at which no asteroids exist.  These distances correspond by Kepler’s laws to periods which are in resonance with Jupiter’s period, ie the period of the gap and Jupiter’s period are integer multiples of each other.  Any asteroid placed in the gap will feel the largest tug of Jupiter’s gravity repeatedly at the same location in its orbit.  This will eventually pull the asteroid out of its orbit and into another one.  Hence the gap.  All the asteroids will be removed and shot into other orbits by Jupiter.
+<br>
+
+<br>
+Planetary Science	Dept. of Mathematics
+<br>	Glasgow Caledonian University
+<br>
+SEMINAR  
+<br>
+Distances and Motions of Solar System Bodies
+<br>
+Solutions:
+<br>
+7.  Application of Kepler’s Third Law modified by Newton
+<br>
+Questions:
+<br>1. 
+<br>
+2. Compare your answers with those found in the appendices of your textbook 
+<br>See Appendix A of Seminar 5:  Physical Characterisitics of the bodies in the Solar System for information on the masses of Jupiter and Saturn in terms of the mass of the Earth.
+<br>
+Jupiter = 317.8 ME		Saturn = 95.2 ME	
+<br>
+	The answers are very similar.   
+<br>
+3. Why wouldn’t you expect the comparison to be exact?
+<br>The above calculations involve several conversions between units, as well as cubing and squaring and division by small numbers.  Round off errors in the calculations can easily explain the differences. 
+<br>
+BS/Teaching/PlanSci/seminars/sem_distance&motion.doc	24/03/03	10	
+<br>
+<b> This text would now appear in bold.</b>
+
+<br>Now insert a MoLs lesson
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 52 a~?">Frequency distributions</a>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

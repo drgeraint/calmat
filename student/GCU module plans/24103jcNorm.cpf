@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2415</P>
+<P ALIGN="CENTER">Outcome :Normal Distribution</P>
+<P ALIGN="CENTER"></P></B><FONT FACE="Comic Sans MS" SIZE=2>
+
+
+<b>Random Variables</b>
+<UL>
+<LI>A random variable is a variable taking values as a result of a random experiment.  
+<LI> A simple example would be a variable X defined to be 1 if &quot;heads&quot; appears on the toss of a coin, and 0 if &quot;tails&quot; appears.   
+<LI>Random variables are usually written in capital letters, eg X,Y.   
+<LI>Random variables are of two types – discrete or continuous.  
+<LI> In this Learning Plan we will discuss one particular <B>continuous random variable</B>.</UL>
+
+<P><B>Continuous Random Variables</B>
+<LI>A continuous random variable is a numerical outcome from a random experiment or procedure, which takes values on a continuous scale.  For example, suppose that a survey of the general health of students at the university were carried out, and that, as part of this survey, the blood pressure (mm Hg) of each of a random sample of students was measured.   The blood pressure of each randomly selected student would be a continuous random variable.
+
+<P>The single <B>most important</B> continuous random variable is the so-called <B>Normally distributed</B> random variable.   It is probably the most important distribution for two reasons.   First, the distribution of many naturally occurring variables is close to the Normal distribution, eg, for human subjects, height , weight, lung function.   Secondly, even when the distribution of a single measurement of a variable is not well approximated by the Normal distribution, the distribution of the average of a random sample of such measurements approaches the Normal distribution as the sample size gets larger.  </P>
+
+<P>
+<b>Standard Normal Distribution</b>
+
+<LI>Statistical tables are available which give probabilities for one particular Normal distribution, namely that with <B>mean 0</B> and <B>standard deviation 1</B>, known as the <B>Standard Normal Distribution</B>.   The letter <B>Z</B> is conventionally used to denote random variables whose distribution is Standard Normal.
+
+<Br>You should obtain a set of Murdoch and Barnes Statistical Tables and learn how to use the tables of the Standard Normal Distribution. 
+
+<Br>Try  <a href="launch.htm#q0834">q0834</a>, <a href="launch.htm#q0835">q0835</a>, <a href="launch.htm#q0836">q0836</a>, <a href="launch.htm#q0837">q0837</a>, <a href="launch.htm#q0838">q0838</a>, <a href="launch.htm#q0772">q0772</a> and <a href="launch.htm#q0773">q0773</a>,
+</P>
+
+
+<B><P>Normal Distribution</P>
+</B>
+<P>Using these tables you can find the probability that any Normally distributed random variable X will lie between two values a and b.</P>
+
+<P>Try <a href="launch.htm#q0774">q0774</a> and <a href="launch.htm#q0775">q0775</a>.</P>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

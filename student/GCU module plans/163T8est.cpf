@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Estimation</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Estimation</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<br>
+<P>Before taking <B>Test 8</B> attempt the material in <B>this</B> Learning Plan
+<B>and</B> the Plan entitled <B>The Normal Distribution</B>.<P> 
+
+<P><B>You should already have completed</B> the material in <B>The Normal Distribution</B> plan.</P>
+
+<P>The <B>TAS questions</B> mentioned in the above <B>two plans</B> form the <B>bank of questions</B> from which the questions for <B>Test 8</B> are chosen.</P>
+
+<P>The <B>Lecture Notes</B> referred to in this Learning Plan are <B>Chapter 4 ‘Estimation &amp; Confidence Intervals’</B>.</P>
+
+<P>Towards the end of this Learning Plan a link takes you to the <B>Minitab</B> software where you can complete <B>Lab 6</B> of <B>Laboratory Handbook 2 (Green Cover)</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Introduction</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P>Many studies or experiments involve taking measurements on a sample of people, animals, plants or products.   It is usual to take a sample that is random and representative of the population under study.   Statistical inference deals with the question of what can be inferred about the population from a sample (ie what can we say about the population from data collected on a sample).   Statistical inference will only be valid if the experiment has been properly designed to ensure that a sample is random and representative of the population.  </P>
+
+<P>Read page 1-3 of your lecture notes.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Distribution of the Sample Mean</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P>Consider Example 2 on page 2 of your lecture notes.   In this example the serum bilirubin (mg/100cc) of a random sample of nine healthy 4 year old infants was recorded.</P>
+
+<P>If we were to have measured the serum bilirubin levels of a different sample of infants then our estimate of the mean would be slightly different.  We require to know how much the sample mean varies from sample to sample.</P>
+
+<P>We should note that variability from sample mean to sample mean is much less than the variability from individual to individual.   The distribution of sample means is known as the <B>Sampling Distribution of the Sample  Mean</B>.   In particular we should note that the Sampling Distribution of the Sample Mean</P>
+
+<OL TYPE="i">
+
+<LI>has the same mean as the population</LI>
+<LI>has less variability than the population</LI>
+<LI>has a Normal Distribution when the population has a Normal Distribution.</LI></OL>
+
+<P>In fact the standard deviation of the distribution of sample means (known as the <B>standard error</B> of the sample means to distinguish it from the standard deviation of the population of individual values) is given by the formula <B><FONT FACE="Symbol">&#115;</FONT>
+/<FONT FACE="Symbol">&#214;</FONT>
+n</B>.</P>
+
+<P>More detail is given on pages 4 and 5 of your lecture notes.</P>
+
+<P>Try <a href="launch.htm#q0776">q0776</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P><B>You should have completed Lab 5</B> in the previous Learning Plan, <B>The Normal Distribution</B>. </P>
+
+<P>In this Learning Plan, use Minitab to simulate the <B>drawing of random samples</B> from various populations.</P>
+
+<P>Following the instructions given in Minitab Laboratory Handbook 2 complete <a href="http://www.maths.gcal.ac.uk/m163/lab1a.mpj">Lab 6</a>.</P>
+
+<P>You should now have <b>completed Laboratory Handbook 2</b>.  This should be handed in for correction in the week beginning <b>07/04/03</b>.<P>
+
+<P>&nbsp;</P>
+
+<P>This is the <B>end</B> of the Learning Plan on Estimation. You should now have completed <B>all</B> Learning Plans for Test 8.</P>
+</FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

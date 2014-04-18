@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Net Present Values Learning Plan 1</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Net Present Values Learning Plan 1</P>
+<P ALIGN="CENTER">Discounting</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Net Present Values.</P>
+
+<P>So far we have only considered the process of calculating the future or terminal value of a single principal that has been deposited for a specified number of years.   </P>
+<P>Suppose one year from now the amount in an account is £1.00 and the interest is 8% p.a.   How much was invested at the beginning of the year ?   Working through the calculation in your notes on page 1 you’ll find approximately 93p must have been invested at the beginning of the year.</P>
+
+<P>93p is the Net Present Value of the investment.</P>
+
+<P>As a result of the time value of money, making comparisons between investments is difficult unless the value of the money is compared at some base year.   Usually the value of money is brought down to the beginning of the first year of investment.</P>
+
+<P>Work through the details and examples given in your notes pages 1 and 2. Spend time on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 3 a~?">3-3 section a</a>.   Try <a href="launch.htm#q0237">q0237</a> and <a href="launch.htm#q0216">q0216</a>.</P>
+
+<P>The example on page 3 of your notes considers the net present value of a payment scheme.   More details are given in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 3 b~?">3-3 section b</a>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

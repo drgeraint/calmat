@@ -1,0 +1,91 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Arithmetic Progressions</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT SIZE=4><P ALIGN="CENTER">Arithmetic Progressions</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Learning Plan 2</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">The nth term</P>
+
+</B></FONT><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Reconsider the arithmetic progression</P>
+
+<P>12, 17, 22, 27, 32, ….</P>
+
+<P>It can be written as</P>
+
+<P>12, 12 + 5, 12 + 10, 12 + 15, 12 + 20, ….</P>
+
+<P><FONT FACE="Symbol">&#186;</FONT>
+ 12 + 0(5),  12 + 1(5),  12 + 2(5),  12 + 3(5),  12 + 4(5), ….</P>
+
+<P>&nbsp;</P>
+<P>By extending this concept, if the first term of an arithmetic progression is the number <B>a, </B>and the common difference is <B>d</B>, then the arithmetic progression can be written as :-</P>
+
+<P>a + (0)(d),  a + (1)(d),  a + (2)(d),  a + (3)(d),  a + 4(d), …..</P>
+
+<P>= a,  a + d,  a + 2d,  a + 3d,  a + 4d, …..</P>
+
+<P>we have t<SUB>1</SUB> = a, t<SUB>2</SUB> = a + d, t<SUB>3 </SUB>= a + 2d, t<SUB>4</SUB> = a + 3d, …..</P>
+
+<P>continuing in this way it can be seen that the nth term, t<SUB>n</SUB>, is given by:-</P>
+
+<B><FONT SIZE=4><P ALIGN="CENTER">t<SUB>n</SUB> = a + (n-1)d</P>
+<P ALIGN="CENTER"></P>
+</B></FONT><P ALIGN="CENTER"></P>
+<FONT SIZE=2><P>&nbsp;</P></FONT></BODY>
+<P>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 1 d 0~?">3-1 section d</a>. 
+<P>Consider  these arithmetic progressions.   Determine the formula for the nth term.</P>
+<OL TYPE="a">
+
+<LI>3,  7,  11,  15, …..</LI>
+
+<LI>100,  98,  96,  94, ……</LI>
+
+<LI>2,  2.5,  3,  3.5, ……</LI></OL>
+<P>&nbsp;</P>
+<B><P>Solution</P>
+</B>
+<P>a) t<SUB>n</SUB> = a + (n - 1)d, &#9;here &#9;a = 3, &#9;d = 4</P>
+
+<P>therefore t<SUB>n</SUB> = 3 + (n – 1)(4) = 3 + 4n – 4 = <B>4n –1</P>
+</B>
+<P>&nbsp;</P>
+<P>Check</P>
+<P>From the progression given in the question we know that the 4th term is 15.   We have determined the formula for the nth term to be</P><P>t<SUB>n</SUB> = 4n - 1.</P>
+<P>Hence t<SUB>4</SUB> = 4(4) -1 = 16 - 1 = 15 as expected.</P>
+<P>&nbsp;</P>
+<P>b) Here a = 100, d = -2</P>
+
+<P>t<SUB>n</SUB> = 100 + (n – 1)(-2) = 100 –2n + 2 = <B>102 – 2n</P>
+</B>
+<P>So the formula for the nth term is <B>t<SUB>n</SUB> = 102 – 2n.</B></P> 
+<P>&nbsp;</P>
+<P>c) Here a = 2, d = 0.5
+<br>
+
+<P>t<SUB>n</SUB> = 2 + (n – 1)(0.5) = 2 + n/2 – ½ = 3/2 + n/2 = <B>(n +3)/2</P></B>
+<P>So the formula for the nth term is<B> t<SUB>n</SUB> = (n +3)/2.</B></P> 
+<P>This is the end of the second Learning Plan on Arithmetic Progressions.</P>
+
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

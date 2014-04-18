@@ -1,0 +1,71 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Descriptive Statistics Learning Plan 3</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Descriptive Statistics Learning Plan 3</P>
+<P ALIGN="CENTER">Measures of Variability</P>
+
+</B></FONT><FONT FACE="Arial"><P>The lecture notes referred to in this Learning Plan as those titled ‘Unit 1 : Introduction &amp; Descriptive Statistics’.</P>
+
+<P>It is highly desirable to supplement a statement about the location of a distribution by some indicator of how closely the data are concentrated about the centre.</P>
+
+<P>A measure of variability (or dispersion, scatter, spread) gives the degree to which the data tend to spread about a central value or measure of location.</P>
+
+<P>The difference in variability between data sets can be quantified by defining a measure of dispersion.   The most common measures of dispersion are:</P>
+
+<br>
+<UL>
+<LI>range</LI>
+<LI>variance</LI>
+<LI>standard deviation</LI></UL>
+
+<br>
+<P>Measures of variability begin on page 19 of your lecture notes.</P>
+
+<B><P>The Range </P>
+
+</B><P>The range of a set of observations is the difference between the largest and the smallest observation in the set.   Work through the details in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 54 f 0~?">1-54 section f</a> and consider the example on page 19 of your lecture notes.   Try <a href="launch.htm#q0552">q0552</a> and <a href="launch.htm#q0553">q0553</a>.</P>
+
+<B><P>The Variance</P>
+</B>
+<P>The variance is (essentially) the mean of the squares of the deviations of the observations about their arithmetic mean.</P>
+
+<P>This will become clearer on reading about the variance on pages 19 and 20 of your lecture notes.   In particular work through Example 9 on page 20.</P>
+
+<B><P>The Standard Deviation</P>
+
+</B><P>The standard deviation is the square root of the variance.  Spend time on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 57 e 0~?">1-57 section e</a> and <a href="launch.htm#q0547">q0547</a>.   Read the details on pages 20 – 22 of your lecture notes. </P>
+
+<B><P>Interpreting the Standard Deviation</P>
+
+</B><P>Knowing the mean and standard deviation allows the statistics practitioner to extract useful bits of information.   The information depends on the shape of the histogram.   If the histogram is bell-shaped we can use the <B>Empirical Rule</B>.</P>
+
+<P>Empirical Rule</P>
+
+<OL>
+
+<LI>Approximately 68% (about 2/3) of all observations fall within 1 standard deviation of the mean.</LI>
+<LI>Approximately 95% of all observations fall within 2 standard deviations of the mean.</LI>
+<LI>Approximately 99.7% (almost all) of all observations fall within 3 standard deviations of the mean.</LI></OL>
+
+<br>
+<P>The rule is illustrated graphically on page 23 of your lecture notes.   Apply the rule in <a href="launch.htm#q0770">q0770</a>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,169 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Vectors and Matrices</center></b>
+<b><font size="+1"><center>Learning Plan 4</center></b>
+<P>
+<b><center>Elementary Row Operations</center></b><font size="--">
+
+<br>
+<P><i>See Section 5.10 pages 112-115.</i>
+
+<br>
+
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Consider A = (a<sub>ij</sub>) an m by n matrix.
+<br>
+</td></tr></table><table border=0 width="90%" align=center><tr><td>
+<LI>Rows are R<sub>1</sub>,  R<sub>2</sub>,  R<sub>3</sub>,... R<sub>m</sub>.
+<LI>The first non-zero element in any row R<sub>i</sub> is called the <b> leading non-zero element</b>.
+<LI> A row with all zeros is called a <b>zero row</b>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+The following operations on A are called<b> elementary row operations</b>.
+<br>
+</td></tr></table><table border=0 width="88%" align=center><tr><td>
+<LI>E<sub>1</sub>:<b> Interchange R<sub>i</sub> and R<sub>j</sub></b>.
+<LI>E<sub>2</sub>: Multiply each element in Row i by a non-zero constant k. <b> (Multiply R<sub>i</sub> by k.)</b>
+<LI>E<sub>3</sub>: Add a multiple of one row R<sub>i</sub> to another row  R<sub>j</sub>, or equivalently, replace R<sub>j</sub> by the sum of  k R<sub>i</sub> + R<sub>j</sub> (<b> Add k R<sub>i</sub> to R<sub>j</sub></b>)
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+To avoid fractions we often perform E<sub>2</sub> and E<sub>3</sub> together in one step.
+</td></tr></table><table border=0 width="88%" align=center><tr><td>
+<LI>E: Add a multiple of one row R<sub>i</sub> to a non-zero multiple of another row  R<sub>j</sub>, or equivalently, replace R<sub>j</sub> by the sum of  k R<sub>i</sub> +k'R<sub>j</sub> (<b> Add k R<sub>i</sub> to k'R<sub>j</sub></b>)
+<LI><b>In E<sub>3</sub> and E <u> only R<sub>j</sub> is changed</u>.</b> 
+<br>  
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Make sure you can do
+<a href="launch.htm#q0258">q0258</a> before you proceed.  
+<HR>
+
+<br>
+<LI> A and B are <b>row equivalent, A~B, </b>if B can be obtained from A by using a sequence of row operations.</b>
+
+<br>
+
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI> A matrix A is called an <b>echelon matrix</b>, or is in <b>echelon form </b>if the following two conditions hold;
+</td></tr></table><table border=0 width="86%" align=center><tr><td>
+<LI><b>All non-zero rows, if there are any, are at the bottom of the matrix.
+<LI>Each leading non-zero entry is to the right of the leading non-zero entry in the preceding row.</b>
+
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<i>Algorithm 5.10a in the text and below,</i> transforms any matrix into an echelon matrix.
+<br>
+Note that any diagonal matrix and any triangular matrix is in echelon form, as is the zero matrix.
+<br>
+
+<br> <i>Look at Example 5.11 on page 113, before you read the algorithm.</i>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<b>Algorithm to convert any matrix to echelon form.</b>
+</td></tr></table><table border=0 width="88%" align=center><tr><td>
+<b>Step1</b>.Find the first column with a non zero entry. If no column exists, then exit. (In this case we have the zero matrix.) Otherwise let j<sub>1</sub> be the number of this column.
+<br>
+</td></tr></table><table border=0 width="76%" align=center><tr><td>
+(a) Arrange so that a<sub>1j<sub>1</sub></sub> is not equal to zero. That is, interchange rows so that a nonzero entry appears in the first row in column j<sub>1</sub>.
+<br>
+</td></tr></table><table border=0 width="76%" align=center><tr><td>
+(b) Use  a<sub>1j<sub>1</sub></sub> as <b>pivot</b> to obtain zeros below  a<sub>1j<sub>1</sub></sub>. That is, for i>1:
+<br>
+</td></tr></table><table border=0 width="70%" align=center><tr><td>
+(1) Set m = - a<sub>ij<sub>1</sub></sub>/ a<sub>1j<sub>1</sub></sub>
+
+<br>
+</td></tr></table><table border=0 width="70%" align=center><tr><td>
+(2) Add mR<sub>1</sub> to R<sub>i</sub>
+
+<br>
+</td></tr></table><table border=0 width="78%" align=center><tr><td>
+This replaces R<sub>i</sub> by - a<sub>ij<sub>1</sub></sub>/ a<sub>1j<sub>1</sub></sub>R<sub>1</sub> + R<sub>i</sub>.
+<br>
+</td></tr></table><table border=0 width="88%" align=center><tr><td>
+<b>Step 2</b>.Repeat step 2 with the submatrix formed by all the rows, except the first row.
+</td></tr></table><table border=0 width="88%" align=center><tr><td>
+<b>Step 3 </b>. Continue the above process until the submatrix has no nonzero entry.
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+Note1: m = -  a<sub>ij<sub>1</sub></sub>/ a<sub>1j<sub>1</sub></sub> is called the multiplier.
+<br>
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+Note2: We could replace step 1(b) by adding  -a<sub>ij<sub>1</sub></sub>R <sub>1</sub> to  a<sub>1j<sub>1</sub></sub>R<sub>i</sub>. This avoids fractions if the original entries are integers.
+<br>
+
+<i>Do 5.29, 5.30 from the text.</i>
+
+<HR>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+The next stage is to transform the echelon matrix to <b> row canonical form
+</b>. In this form <b>
+
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+</td></tr></table><table border=0 width="90%" align=center><tr><td>
+<LI> Each leading nonzero entry is 1
+<LI>Each leading nonzero entry is the only nonzero entry in its column.</b>
+</td></tr></table><table border=0 width="98%" align=center><tr><td>
+The input is a matrix A = (a<sub>ij</sub>) in echelon form with <b>pivot </b>entries
+<br>
+a<sub>1j<sub>1</sub></sub>, a<sub>2j<sub>2</sub></sub>, a<sub>3j<sub>3</sub></sub>...a<sub>rj<sub>r</sub></sub>.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<b>Step 1</b>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+(a) Multiply the last nonzero row R<sub>r</sub> by 1/a<sub>rj<sub>r</sub></sub>, so that the <b>pivot</b> element is equal to 1.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+(b) Use a<sub>rj<sub>r </sub></sub> = 1 to obtain zeros above the pivot. That is for i = r-1, r-2,... 1
+</td></tr></table><table border=0 width="92%" align=center><tr><td>
+(1) Set m = -a<sub>ir<sub>i</sub></sub>
+
+</td></tr></table><table border=0 width="92%" align=center><tr><td>
+(2) Add mR<sub>r</sub> to R<sub>i</sub>.
+<br>
+In other words, apply elementary row operation "Add  -a<sub>ir<sub>1 </sub></sub>R<sub>r</sub> to R<sub>i</sub>"
+<br>
+This replaces R<sub>i</sub> by  -a<sub>ir<sub>i </sub></sub>R<sub>r</sub> + R<sub>i</sub>.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<b>Step 2 to r-1</b>. Repeat step 1 for rows R<sub>r-1</sub>, R<sub>r-2</sub>....R<sub>2</sub>.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<b>Step r</b> Multiply R<sub>1</sub> by 1/a<sub>1j<sub>1 </sub></sub>.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<P>These two algorithms together are called Gaussian Elimination.
+<b>
+Any matrix is row equivalent to a unique matrix in row canonical form.</b>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<i> Do 5.31, 5.32, 5.62, 5.63, 5.64 from the text</i>
+
+<P>
+
+<br>
+
+<b>This completes Learning Plan 4 for Vectors and Matrices.</b>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

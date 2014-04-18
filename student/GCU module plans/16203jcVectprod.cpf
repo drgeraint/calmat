@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial"><font size="+1
+<br>"><b>Learning Plan for Products of Vectors; Scalar and Vector</font></b><Br><P>
+<font face="Arial">
+<b>Consider the two vectors <u>u</u> = (u<sub>1</sub>, u<sub>2</sub>, u<sub>3</sub>), and  <u>v</u> = (v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>)</b>.
+<Br>
+At school you were able to multiply two vectors together. The product you used was called the <b>scalar </b> product. It is also called the <B>dot</b> product because of the symbol  <font face="Symbol">·</font><font face="Arial"> used to denote it.
+<br>
+You defined the scalar product in two ways:
+<UL><LI><u>u</u> <font face="Symbol">·</font> <u>v</u> = u<sub>1</sub>.v<sub>1</sub> + u<sub>2</sub>.v<sub>2</sub>+ u<sub>3</sub>.v<sub>3</sub>
+<LI><u>u</u> <font face="Symbol">·</font> <u>v</u> = <font face="Symbol">½</font><u>u</u><font face="Symbol">½ ½</font><u>v</u><font face="Symbol">½</font>cos<font face=Symbol>q</font><font face="Arial"></b>
+
+<br>You will recall that  <font face="Symbol">½</font><u>u</u><font face="Symbol">½ </font> represents the magnitude of the vector <u>u</u>
+ <Br><Br> Review these facts by doing  <a href="runcal.htm#==k:\calplay\tcrun.exe calpopup //?~ 0 2 29 h -1~?">CALMAT 2-29 section h</a>, <a href="runcal.htm#==k:\calplay\tcrun.exe calpopup //?~ 0 2 32 a -1~?">CALMAT 2-32 section a</a>, and TASMAT questions <a href="launch.htm#q0344"> q0344</a> and <a href="launch.htm#q0580"> q0580</a>.
+<P>Also at school you used the scalar product to find the magnitude of a vector, the angle between two vectors, and to check if two vectors were perpendicular. Remind yourself of these applications by trying <a href="runcal.htm#==k:\calplay\tcrun.exe calpopup //?~ 0 2 32 b -1~?">CALMAT 2-32 section b</a>, <a href="runcal.htm#==k:\calplay\tcrun.exe calpopup //?~ 0 2 32 c -1~?">CALMAT 2-32 Section c</a>, and TASMAT questions<a href="launch.htm#q0324"> q0324</a>, <a href="launch.htm#q0340">q0340</a>,  <a href="launch.htm#q0346"> q0346</a>,  and <a href="launch.htm#q0673"> q0673</a>
+
+<Br>
+
+<SECTION3>
+<HR>
+<P>
+In this 
+module we have introduced another product of vectors, called the<b> vector</b> product. This is also called the cross product because of the symbol  <b><font face="Symbol">´</font></b> used to denote it.
+<br>Recall that the scalar product of two vectors was a scalar, that is a number. The vector product of two vectors is a vector.
+<br>
+Again, as with the scalar product, there are two definitions for the vector product
+<br>
+
+
+<SECTION2><font face="Arial">
+<LI><u>u</u> <font face="Symbol">´</font> <u>v</u> = i(u<sub>2</sub>.v<sub>3</sub> - u<sub>3</sub>.v<sub>2</sub>) -j( u<sub>1</sub>.v<sub>3</sub> - u<sub>3</sub>.v<sub>1</sub>) + k(u<sub>1</sub>.v<sub>2</sub> - u<sub>2</sub>.v<sub>1</sub>) 
+<LI><u>u</u> <font face="Symbol">´</font> <u>v</u> = <font face="Symbol">½</font><u>u</u><font face="Symbol">½ ½</font><u>v</u><font face="Symbol">½</font>sin<font face=Symbol>q</font> <u>n</u>. The vector <u>n</u> is a unit vector perpendicular to the plane containing the vectors <u>u</u> and  <u>v</u>.
+<br>
+<font face="Arial">Note. It is not necessary for you to remember the first expression, if you remember how to expand a determinant by the first row.<Br>
+This is not covered in CALMAT. Do <a href="launch.htm#q0420"> q0420</a> as many times as you need to to ensure that you can evaluate a vector product given the components of the two vectors.<P>
+The applications of vector product you have met follow from the second definition of the vector product:
+<br>
+
+<br>
+
+
+<SECTION5><font face="Arial">
+  
+<LI>the vector product of two vectors is a vector which is perpendicular to the plane containing the two vectors.
+<LI>the magnitude of the vector product is equal to <font face="Symbol">½ </font> <font face="Symbol">½</font><u>u</u><font face="Symbol">½ ½</font><u>v</u><font face="Symbol">½</font>sin<font face=Symbol>q</font> <u>n</u><font face="Symbol">½ ½</font> =  <font face="Symbol">½</font><u>u</u><font face="Symbol">½ ½</font><u>v</u><font face="Symbol">½</font>sin<font face=Symbol>q</font>, <Br>and this you remember from school is twice the area of of the triangle with adjacent sides <font face="Symbol">½</font><u>u</u><font face="Symbol">½</font> and <font face="Symbol">½</font><u>v</u><font face="Symbol">½ </font>. <Br><Br>So we can use the vector product to find either the area of a triangle or the area of a parallelogram. Do <a href="launch.htm#q0347"> q0347</a> and <a href="launch.htm#q0421">q0421</a>.
+<br>
+
+<br> You can print this Revision Plan by right-clicking with the mouse and selecting "print" from the menu.
+<br>
+
+<br>
+
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

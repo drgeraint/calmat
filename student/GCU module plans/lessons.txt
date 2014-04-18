@@ -1,0 +1,302 @@
+[User defined]
+
+[Demo]
+Sample Plan=c:\calmat\scalmat\plans\demoplan.cpf
+=c:\calmat\scalmat\plans\home.htm
+[Demo end]
+
+[SS04 module 1 Mat1]
+SS04 module 1 mat 1 LP1=c:\calmat\scalmat\plans\SS04Int111.cpf
+SS04 module 1 mat 1 LP2=c:\calmat\scalmat\plans\SS04Int112.cpf
+SS04 module 1 mat 1 LP3=c:\calmat\scalmat\plans\SS04Int113.cpf
+SS04 module 1 mat 1 LP4=c:\calmat\scalmat\plans\SS04Int114.cpf
+[SS04 module 1 Mat1 end]
+
+[SS04 module 1 Mat2]
+SS04 module 1 mat 2 LP1=c:\calmat\scalmat\plans\SS04Int121.cpf
+SS04 module 1 mat 2 LP2=c:\calmat\scalmat\plans\SS04Int122.cpf
+SS04 module 1 mat 2 LP3=c:\calmat\scalmat\plans\SS04Int123.cpf
+SS04 module 1 mat 2 LP4=c:\calmat\scalmat\plans\SS04Int124.cpf
+SS04 module 1 mat 2 LP5=c:\calmat\scalmat\plans\SS04Int125.cpf
+[SS04 module 1 Mat2 end]
+
+[SS04 module 1 Mat3]
+SS04 module 1 mat 3 LP1=c:\calmat\scalmat\plans\SS04Int131.cpf
+SS04 module 1 mat 3 LP2=c:\calmat\scalmat\plans\SS04Int132.cpf
+SS04 module 1 mat 3 LP3=c:\calmat\scalmat\plans\SS04Int133.cpf
+SS04 module 1 mat 3 LP4=c:\calmat\scalmat\plans\SS04Int134.cpf
+[SS04 module 1 Mat3 end]
+
+[SS04 module 2 Mat1]
+SS04 module 2 mat 1 LP1=c:\calmat\scalmat\plans\SS04Int211.cpf
+SS04 module 2 mat 1 LP2=c:\calmat\scalmat\plans\SS04Int212.cpf
+SS04 module 2 mat 1 LP3=c:\calmat\scalmat\plans\SS04Int213.cpf
+SS04 module 2 mat 1 LP4=c:\calmat\scalmat\plans\SS04Int214.cpf
+SS04 module 2 mat 1 LP5=c:\calmat\scalmat\plans\SS04Int215.cpf
+[SS04 module 2 Mat1 end]
+
+[SS04 module 2 Mat2]
+SS04 module 2 mat 2 LP1=c:\calmat\scalmat\plans\SS04Int221.cpf
+SS04 module 2 mat 2 LP2=c:\calmat\scalmat\plans\SS04Int222.cpf
+SS04 module 2 mat 2 LP3=c:\calmat\scalmat\plans\SS04Int223.cpf
+SS04 module 2 mat 2 LP4=c:\calmat\scalmat\plans\SS04Int224.cpf
+[SS04 module 2 Mat2 end]
+
+[SS04 module 2 Mat3]
+SS04 module 2 mat 3 LP1=c:\calmat\scalmat\plans\SS04Int231.cpf
+SS04 module 2 mat 3 LP2=c:\calmat\scalmat\plans\SS04Int232.cpf
+SS04 module 2 mat 3 LP3=c:\calmat\scalmat\plans\SS04Int233.cpf
+[SS04 module 2 Mat3 end]
+
+[SS04 module 10 Mat1]
+SS04 module 10 mat 1 LP1=c:\calmat\scalmat\plans\SS04Int111.cpf
+SS04 module 10 mat 1 LP2=c:\calmat\scalmat\plans\SS04Int112.cpf
+SS04 module 10 mat 1 LP3=c:\calmat\scalmat\plans\SS04Int113.cpf
+SS04 module 10 mat 1 LP4=c:\calmat\scalmat\plans\SS04Int114.cpf
+[SS04 module 10 Mat1 end]
+
+[SS04 module 10 Mat2]
+SS04 module 10 mat 2 LP1=c:\calmat\scalmat\plans\SS04Int121.cpf
+SS04 module 10 mat 2 LP2=c:\calmat\scalmat\plans\SS04Int122.cpf
+SS04 module 10 mat 2 LP3=c:\calmat\scalmat\plans\SS04Int123.cpf
+SS04 module 10 mat 2 LP4=c:\calmat\scalmat\plans\SS04Int124.cpf
+SS04 module 10 mat 2 LP5=c:\calmat\scalmat\plans\SS04Int125.cpf
+[SS04 module 10 Mat2 end]
+
+[SS04 module 10 Mat3]
+SS04 module 10 mat 3 LP1=c:\calmat\scalmat\plans\SS04Int131.cpf
+SS04 module 10 mat 3 LP2=c:\calmat\scalmat\plans\SS04Int132.cpf
+SS04 module 10 mat 3 LP3=c:\calmat\scalmat\plans\SS04Int133.cpf
+SS04 module 10 Nursing Calculations 1=c:\calmat\scalmat\plans\SS04nursing1.cpf
+SS04 Module 10 Nursing Calculations 2=c:\calmat\scalmat\plans\SS04nursing2.cpf
+[SS04 module 10 Mat3 end]
+
+
+
+
+[Background Knowledge for AS and A Level]
+Arithmetic=c:\calmat\scalmat\plans\English\Background1.cpf
+Algebra=c:\calmat\scalmat\plans\English\Background2.cpf
+Geometry and Trig=c:\calmat\scalmat\plans\English\Background3.cpf
+[Background Knowledge for AS and A Level end]
+
+[Core AS and A Level]
+algebra and functions=c:\calmat\scalmat\plans\English\algfunc.cpf
+Co-ordinate Geometry=c:\calmat\scalmat\plans\English\coord.cpf
+Sequences and series=c:\calmat\scalmat\plans\English\series.cpf
+Trigonometry=c:\calmat\scalmat\plans\English\trig.cpf
+Exponentials and Logarithms=c:\calmat\scalmat\plans\English\explog.cpf
+Differentiation=c:\calmat\scalmat\plans\English\diff.cpf
+Integration=c:\calmat\scalmat\plans\English\integ.cpf
+Numerical Methods=c:\calmat\scalmat\plans\English\numer.cpf
+Vectors=c:\calmat\scalmat\plans\English\vect.cpf
+[Core AS and A Level end]
+
+
+[M162 Binary Numbers]
+Binary1=c:\calmat\scalmat\plans\15303jhBinary1.cpf
+Binary2=c:\calmat\scalmat\plans\15303jhBinary2.cpf
+Binary3=c:\calmat\scalmat\plans\15303jhBinary3.cpf
+Binary4=c:\calmat\scalmat\plans\15303jhBinary4.cpf
+Binary5=c:\calmat\scalmat\plans\15303jhBinary5.cpf
+[M162 Binary Numbers end]
+
+[M162 Matrices]
+Elementary Row Operations=c:\calmat\scalmat\plans\16203jcMat6.cpf
+Gaussian Elimination and Inverse=c:\calmat\scalmat\plans\16203jcMat7.cpf
+[M162 Matrices end]
+
+[M162 Sets]
+Sets1=c:\calmat\scalmat\plans\15303jhSets1.cpf
+Sets2=c:\calmat\scalmat\plans\15303jhSets2.cpf
+[M162 Sets end]
+
+[M162 Logic]
+Logic1=c:\calmat\scalmat\plans\15303jhLogic1.cpf
+Logic2=c:\calmat\scalmat\plans\15303jhLogic2.cpf
+Logic3=c:\calmat\scalmat\plans\15303jhLogic3.cpf
+Logic4=c:\calmat\scalmat\plans\15303jhLogic4.cpf
+Logic5=c:\calmat\scalmat\plans\15303jhLogic5.cpf
+Logic6=c:\calmat\scalmat\plans\16303jcLogic6.cpf
+[M162 Logic end]
+
+[M162 Relations and Functions]
+Relations1=c:\calmat\scalmat\plans\15303jhRel1.cpf
+Relations2=c:\calmat\scalmat\plans\15303jhRel2.cpf
+Relations3=c:\calmat\scalmat\plans\15303jhRel3.cpf
+Computer Functions=c:\calmat\scalmat\plans\15303jhCompu.cpf
+[M162 Relations and Functions end]
+
+[M162 Products of Vectors]
+Products of Vectors=c:\calmat\scalmat\plans\16203jcVectors.cpf
+[M162 Products of Vectors end]
+
+[M153 Tests 1-2 Material]
+1: Sets1=c:\calmat\scalmat\plans\15303jhSets1.cpf
+1: Sets2=c:\calmat\scalmat\plans\15303jhSets2.cpf
+1: Logic1=c:\calmat\scalmat\plans\15303jhLogic1.cpf
+1: Logic2=c:\calmat\scalmat\plans\15303jhLogic2.cpf
+2: Logic3=c:\calmat\scalmat\plans\15303jhLogic3.cpf
+2: Logic4=c:\calmat\scalmat\plans\15303jhLogic4.cpf
+2: Logic5=c:\calmat\scalmat\plans\15303jhLogic5.cpf
+2: Logic6=c:\calmat\scalmat\plans\16303jcLogic6.cpf
+2: Binary1=c:\calmat\scalmat\plans\15303jhBinary1.cpf
+2: Binary2=c:\calmat\scalmat\plans\15303jhBinary2.cpf
+2: Binary3=c:\calmat\scalmat\plans\15303jhBinary3.cpf
+2: Binary4=c:\calmat\scalmat\plans\15303jhBinary4.cpf
+2: Binary5=c:\calmat\scalmat\plans\15303jhBinary5.cpf
+[M153Tests 1-2 Material end]
+
+[M153 Tests 3-6 Material]
+3: Enumeration1=c:\calmat\scalmat\plans\15303jhEnum1.cpf
+3: Enumeration2=c:\calmat\scalmat\plans\15303jhEnum2.cpf
+3: Probability1=c:\calmat\scalmat\plans\15303jhProb1.cpf
+4: Probability2=c:\calmat\scalmat\plans\15303jhProb2.cpf
+4: Probability3=c:\calmat\scalmat\plans\15303jhProb3.cpf
+4: Probability4=c:\calmat\scalmat\plans\15303jhProb4.cpf
+5: Relations1=c:\calmat\scalmat\plans\15303jhRel1.cpf
+5: Relations2=c:\calmat\scalmat\plans\15303jhRel2.cpf
+5: Relations3=c:\calmat\scalmat\plans\15303jhRel3.cpf
+5: Linear & Composite Functions=c:\calmat\scalmat\plans\15303jhLincomp.cpf
+5: Computer Functions=c:\calmat\scalmat\plans\15303jhCompu.cpf
+6: Indices=c:\calmat\scalmat\plans\15303jhIndices.cpf
+6: Power Functions=c:\calmat\scalmat\plans\15303jhPower.cpf
+6: Inverse Functions=c:\calmat\scalmat\plans\15303jhInverse.cpf
+6: Exponential Functions=c:\calmat\scalmat\plans\15303jhExp.cpf
+[M153 Tests 3-6 Material end]
+
+[M153 Tests 7-10 Material]
+7: Logarithmic Functions=c:\calmat\scalmat\plans\15303jhLog.cpf
+7: Algorithms=c:\calmat\scalmat\plans\15303jhAlgorithms.cpf
+8: Recurrence Relations=c:\calmat\scalmat\plans\15303jhRecur.cpf
+8: Arithmetic Progressions 1=c:\calmat\scalmat\plans\15303jhApintro.cpf
+8: Arithmetic Progressions 2=c:\calmat\scalmat\plans\15303jhApnth.cpf
+8: Arithmetic Progressions 3=c:\calmat\scalmat\plans\15303jhApsum.cpf
+9: Vectors & Matrices 1=c:\calmat\scalmat\plans\15303jcVecmat1.cpf
+9: Vectors & Matrices 2=c:\calmat\scalmat\plans\15303jcVecmat2.cpf
+9: Vectors & Matrices 3=c:\calmat\scalmat\plans\15303jcVecmat3.cpf
+10: Vectors & Matrices 4=c:\calmat\scalmat\plans\15303jhVecmat4.cpf
+10: Vectors & Matrices 5=c:\calmat\scalmat\plans\15303jhVecmat5.cpf
+10: Markov Chains 1=c:\calmat\scalmat\plans\15303jhMarkov1.cpf
+10: Markov Chains 2=c:\calmat\scalmat\plans\15303jhMarkov2.cpf
+[M153Tests 7-10 Material end]
+
+[Fire Risk Engineering-Data Analysis]
+BSUT2411=c:\calmat\scalmat\plans\241Descstat.cpf
+BSUT2412=c:\calmat\scalmat\plans\241Prob.cpf
+BSUT2413=c:\calmat\scalmat\plans\241Binom.cpf
+BSUT2414=c:\calmat\scalmat\plans\241Pois.cpf
+BSUT2415=c:\calmat\scalmat\plans\241Norm.cpf
+BSUT2416=c:\calmat\scalmat\plans\241SE.cpf
+BSUT2417=c:\calmat\scalmat\plans\241ConInt.cpf
+BSUT2418=c:\calmat\scalmat\plans\241HypTest.cpf
+BSUT2419=c:\calmat\scalmat\plans\241Reg.cpf
+[Fire Risk Engineering-data analysis end]
+
+[Fire Risk Engineering-Fire Mathematics]
+BNEC2101=c:\calmat\scalmat\plans\210Algrev.cpf
+BNEC2102=c:\calmat\scalmat\plans\210diff.cpf
+BNEC2103=c:\calmat\scalmat\plans\210Int.cpf
+BNEC2104=c:\calmat\scalmat\plans\210App.cpf
+[Fire Risk Engineering-Fire mathematics end]
+
+[MATM240]
+VECTORS=c:\calmat\scalmat\plans\24003faVector.cpf
+COMPLEX NUMBERS=c:\calmat\scalmat\plans\24003faCOMPLEXNUMS.cpf
+AP, GP, BINOMIAL + TAYLOR=c:\calmat\scalmat\plans\24003faSeriesbinomial.cpf
+INTEGRATIONS=c:\calmat\scalmat\plans\24003faIntegration.cpf
+[MATM240 end]
+
+[M231]
+Basic=c:\calmat\scalmat\plans\23103bskeplerbasic.cpf
+Introduction=c:\calmat\scalmat\plans\23103bskeplerintro.cpf
+Motion of the Planets: Distance=c:\calmat\scalmat\plans\23103bskepler00.cpf
+Motion of the Planets: Comparative Sizes=c:\calmat\scalmat\plans\23103bskepler01.cpf
+Kepler's Laws=c:\calmat\scalmat\plans\23103bskepler02.cpf
+Calculations Using Kepler's Laws=c:\calmat\scalmat\plans\23103bskepler03.cpf
+Newton's Modification to Kepler's Laws=c:\calmat\scalmat\plans\23103bskepler04.cpf
+Calculations Using Newton's Modification to Kepler's Laws=c:\calmat\scalmat\plans\23103bskepler05.cpf
+[M231 end]
+
+[M163 Tests 1-2 Material]
+1: Frequency Distributions=c:\calmat\scalmat\plans\163T1FreDis.cpf
+2: Measures of Location & Spread=c:\calmat\scalmat\plans\163T2Stats.cpf
+[M163 Tests 1-2 Material end]
+
+[M163 Tests 3-5 Material]
+3: Linear Equations (Revision)=c:\calmat\scalmat\plans\163RT3LinEq.cpf
+3: Factorisation (Revision)=c:\calmat\scalmat\plans\163RT3Factor.cpf
+3: Linear Relationships=c:\calmat\scalmat\plans\163T3LinEq.cpf
+3: Quadratic Relationships=c:\calmat\scalmat\plans\163T3QuaRel.cpf
+3: Simultaneous Equations=c:\calmat\scalmat\plans\163T3SimEq.cpf
+4: Formulae (Revision)=c:\calmat\scalmat\plans\163RT4Form.cpf
+4: Formulae=c:\calmat\scalmat\plans\163T4Form.cpf
+4: Indices=c:\calmat\scalmat\plans\163T4Ind.cpf
+5: Exponential Relationships=c:\calmat\scalmat\plans\163T5ExpRel.cpf
+5: Exponential Functions=c:\calmat\scalmat\plans\163T5ExpFu.cpf
+5: The Logarithmic Function=c:\calmat\scalmat\plans\163T5Log.cpf
+5: Exponential Equations & Applications=c:\calmat\scalmat\plans\163T5EquApp.cpf
+[M163 Tests 3-5 Material end]
+
+[M163 Tests 6-10 Material]
+6: Correlation and Regression=c:\calmat\scalmat\plans\163T6Reg.cpf
+7: Probability=c:\calmat\scalmat\plans\163T7Prob.cpf
+8: The Normal Distribution=c:\calmat\scalmat\plans\163T8Norm.cpf
+8: Estimation=c:\calmat\scalmat\plans\163T8Est.cpf
+9: Confidence Intervals=c:\calmat\scalmat\plans\163T9Conf.cpf
+10: Hypothesis Testing=c:\calmat\scalmat\plans\163T10Hyp.cpf
+[M163 Tests 6-10 Material end]
+
+[M160 Statistics]
+Descriptive Statistics: Frequency Dist.=c:\calmat\scalmat\plans\M160fredis.cpf
+Descriptive Statistics: Central Tend.=c:\calmat\scalmat\plans\M160centen.cpf
+Descriptive Statistics: Variability=c:\calmat\scalmat\plans\M160var.cpf
+Probability: Definitions and Rules=c:\calmat\scalmat\plans\M160prob1.cpf
+Probability: Compound Events=c:\calmat\scalmat\plans\M160prob2.cpf
+Probability: Bayes Theorem & Tree Diagrams=c:\calmat\scalmat\plans\M160prob3.cpf
+[M160 Statistics end]
+
+[M160 Algebra]
+Algebra: Nums, Vars, Equs & Inequs=c:\calmat\scalmat\plans\M160num&eq&ineq.cpf
+Algebra: Arith. Calcs. & Formulae=c:\calmat\scalmat\plans\M160form.cpf
+Algebra: Straight Line=c:\calmat\scalmat\plans\M160strlin.cpf
+Algebra: Quadratics=c:\calmat\scalmat\plans\M160quad.cpf
+Indices: Notation and Rules=c:\calmat\scalmat\plans\M160ind1.cpf
+Indices: Negative and Fractional Powers=c:\calmat\scalmat\plans\M160ind2.cpf
+Functions: Definitions and Notation=c:\calmat\scalmat\plans\M160funct1.cpf
+Functions: Linear Functions=c:\calmat\scalmat\plans\M160funct2.cpf
+Functions: Quadratic and Power Functions=c:\calmat\scalmat\plans\M160funct3.cpf
+Functions: Exponential Functions=c:\calmat\scalmat\plans\M160funct4.cpf
+Functions: Logarithmic Functions=c:\calmat\scalmat\plans\M160funct5.cpf
+Functions: Composite Functions=c:\calmat\scalmat\plans\M160funct6.cpf
+Simultaneous Equations: Introduction=c:\calmat\scalmat\plans\M160simul1.cpf
+Simultaneous Equations: Break Even Analysis=c:\calmat\scalmat\plans\M160simul2.cpf
+Algebraic Series: Arithmetic Series=c:\calmat\scalmat\plans\M160aseries.cpf
+Algebraic Series: Geometric Series=c:\calmat\scalmat\plans\M160gseries.cpf
+[M160 Algebra end]
+
+
+[M160 Financial Maths]
+Time Value of Money: Simple Interest=c:\calmat\scalmat\plans\M160simpint.cpf
+Time Value of Money: Compound Interest=c:\calmat\scalmat\plans\M160compint.cpf
+Time Value of Money: Sinking Funds=c:\calmat\scalmat\plans\M160sinkfund.cpf
+Time Value of Money: Nominal Rate of Interest=c:\calmat\scalmat\plans\M160nomrate.cpf
+Net Present Values: Discounting=c:\calmat\scalmat\plans\M160disc.cpf
+Net Present Values: Annuities=c:\calmat\scalmat\plans\M160annuity.cpf
+Net Present Values: Mortgages=c:\calmat\scalmat\plans\M160mort.cpf
+Net Present Values: Investment Appraisal=c:\calmat\scalmat\plans\M160inapp.cpf
+[M160 Financial Maths end]
+
+[Mark]
+Multiple Integrals 1=c:\calmat\scalmat\plans\mint11.cpf
+[Mark end]
+
+[matm253]
+mint11=c:\calmat\scalmat\plans\mint11.cpf
+mint21=c:\calmat\scalmat\plans\mint21.cpf
+mint41=c:\calmat\scalmat\plans\mint41.cpf
+mint51=c:\calmat\scalmat\plans\mint51.cpf
+mint61=c:\calmat\scalmat\plans\mint61.cpf
+[matm253 end]
+
+[User defined end]

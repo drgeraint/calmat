@@ -1,0 +1,97 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra Learning Plan 4</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra Learning Plan 4</P>
+<P ALIGN="CENTER">Quadratics</P>
+</B></FONT><FONT FACE="Arial">
+<B><P>Quadratic Equations</P>
+</B>
+<P>A company calculates its profit using the quadratic relationship</P>
+
+<P ALIGN="CENTER">P = -10x<SUP>2</SUP> + 700x – 4000</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">P: profit &#9;x : units sold</P>
+<P ALIGN="CENTER"></P>
+<P>(This relationship is called quadratic as the highest value of the power of the variable is 2.)</P>
+</FONT><FONT SIZE=2>
+</FONT><B><FONT FACE="Arial"><P>Example</P>
+</B>
+<P>Calculate profit when 50 units are sold.</P>
+
+<P ALIGN="CENTER">P = -10x<SUP>2</SUP> + 700x – 4000</P>
+<P>when x = 50</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ P = -10(50)<SUP>2</SUP> + 700(50) – 4000</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+P = 6000</P>
+
+<P>When 50 units are sold the company makes a profit of £6000.</P>
+
+<P>To find the number of units which must be sold for the company to break even we must solve the following equation:</P>
+
+<P ALIGN="CENTER">-10x<SUP>2</SUP> + 700x – 4000 = 0</P>
+<P ALIGN="CENTER"></P>
+<P>In other words we need to find the value of x which gives a zero profit.   Remind yourself about solving quadratic equations by working through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 a~?">1-30 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 b 0~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 30 e 0~?">section e</a>.   Try <a href="launch.htm#q0142">q0142</a>,<a href="launch.htm#q0393">q0393</a>, <a href="launch.htm#q0394">q0394</a>, <a href="launch.htm#q0648">q0648</a> and <a href="launch.htm#q0121">q0121</a>.   If you are unsure about factorising then it may be worth your while spending time on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 a 0~?">1-21 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 20 b 0~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 c~?">section c</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 d 0~?">section d</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 e 0~?">section e</a>.</P>
+
+<P>We should now be able to solve the above equation to find the required number of units for the company to break even.</P>
+<P></P>
+<P ALIGN="CENTER">-10x<SUP>2</SUP> + 700x – 4000 = 0</P>
+
+<P>It is possible to simplify the equation by dividing through by 10, giving:</P>
+
+<P ALIGN="CENTER">-x<SUP>2</SUP> + 70x – 400 = 0</P>
+
+<P>We require the Quadratic Formula to solve this equation.</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x =[ -70 <FONT FACE="Symbol">&#177;</FONT>
+ <FONT FACE="Symbol">&#214;</FONT>
+(70<SUP>2</SUP> – (4)(-1)(-400))]/(-2)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = (-70 <FONT FACE="Symbol">&#177;</FONT>
+ 57.45)/(-2)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = 35 <FONT FACE="Symbol">&#177;</FONT>
+ 28.72</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = 63.72 or x = 6.28</P>
+
+<P>When x = 63.72 or x = 6.28 the company will break even i.e. profit = 0.</P>
+
+<B><P>&nbsp;</P>
+<P>Quadratic Graphs</P>
+
+</B><P>Plotting a quadratic relationship will result in a u - shaped or n –shaped curve.   This graph is called a parabola.   Study quadratic graphs in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 42 a~?">1-42 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 42 b~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 42 c~?">section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 42 d~?">section d</a>.   Try <a href="launch.htm#q0017">q0017</a> and <a href="launch.htm#q0018">q0018</a>.</P>
+
+<P>Consider the graph of the profit relationship discussed above, P = -10x<SUP>2</SUP> + 700x – 4000.   It would be possible to set up a table of values, taking different values for x and calculating P.   Points could then be plotted to give the graph.   A rough sketch has been made below.</P>
+
+<P><img src="image93.png"></P>
+</P>
+
+<P>Looking at the graph we can see P = 0 (break even) when x = 6.28 and 63.72.   In other words the company will make a loss when the number of units sold is less than 6 and greater than 63.   As the graph is symmetrical it is possible to say that greatest profit is achieved when x is half way between 6.28 and 63.72.</P>
+
+<P>Difference between points is 63.72 – 6.28 = 57.44.</P>
+<P>Half distance is 57.44/2 = 28.72</P>
+<P>Half way between 6.28 and 63.72 = 6.28 + 28.72 = 35 units</P>
+
+<P>Greatest profit when the company sell 35 units.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

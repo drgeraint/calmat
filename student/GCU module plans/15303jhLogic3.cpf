@@ -1,0 +1,146 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Logic</center></b>
+<b><font size="+1"><center>Learning Plan 3</center></b>
+<P>
+<b><center>Propositional Logic(Examples)</center></b><font size="--">
+<P>
+
+
+
+<P>Consider the two propositions:</P>
+<UL>
+<P>p : London is the capital of Britain</P>
+
+<P>q : Glasgow is the largest city in Scotland</P>
+</UL>
+<P>The <B>conjunction</B> of p and q is</P>
+<UL>
+<P>p <FONT FACE="Symbol">&#217;</FONT>
+ q : London is the capital of Britain and Glasgow is the largest city in Scotland.</P>
+</UL>
+<P>As p and q are both true then p <FONT FACE="Symbol">&#217;</FONT>
+ q is true.</P>
+
+<P>&nbsp;</P>
+<B><P>Example 2</P>
+</B>
+<P>Consider the two propositions:</P>
+<UL>
+<P>p : Ayr is on the east coast</P>
+
+<P>q : Glasgow is the largest city in Scotland</P>
+</UL>
+<P>The <B>conjunction</B> of p and q is</P>
+<UL>
+<P>p <FONT FACE="Symbol">&#217;</FONT>
+ q : Ayr is on the east coast and Glasgow is the largest city in Scotland</P>
+</UL>
+<P>As p is false the conjunction p <FONT FACE="Symbol">&#217;</FONT>
+ q is false. </P>
+
+<P>&nbsp;</P>
+<P>The <B>inclusive disjunction</B>  of p and q is :</P>
+<UL>
+<P>p <FONT FACE="Symbol">&#218;</FONT>
+ q : Ayr is on the east coast or Glasgow is the largest city in Scotland, or both.</P>
+</UL>
+<P>The inclusive disjunction of p and q, p <FONT FACE="Symbol">&#218;</FONT>
+ q is true if at least one of p and q is true.   As q is true then p <FONT FACE="Symbol">&#218;</FONT>
+ q is true. </P>
+
+<P>&nbsp;</P>
+<B><P>Example 3</P>
+</B>
+<P>Consider the proposition:</P>
+<UL>
+<P>p : one share of ABC Company is worth £1.20</P>
+</UL>
+<P>The <B>negation</B> of p is:</P>
+<UL>
+<P><FONT FACE="Symbol">&#126;</FONT>
+p : one share of ABC Company is not worth £1.20.</P>
+</UL>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Quantifier</P>
+</B>
+<P>A quantifier is a word or phrase which says how many.   </P>
+
+<P>The quantifiers &quot;each&quot;, &quot;every&quot;, &quot;any&quot;, and &quot;all&quot; are interchangeable.</P>
+
+<P>The quantifiers &quot;some&quot; and &quot;there exists&quot; are interchangeable.</P>
+
+<B><P>Example 4</P>
+</B>
+<P>The following propositions have the same meaning:-</P>
+
+<br>
+<UL>
+<LI>All men are intelligent.</LI>
+<LI>Every man is intelligent.</LI>
+<LI>Each man is intelligent.</LI>
+<LI>Any man is intelligent.</LI></UL>
+
+<br>
+
+<P>&nbsp;</P>
+<P>The <B>negation</B> of the proposition</P>
+<UL>
+<P>p : All men are intelligent</P>
+</UL>
+<P>is:-</P>
+
+<P>&nbsp;</P>
+
+<UL>
+<LI><FONT FACE="Symbol">&#126;</FONT>
+p : Some men are not intelligent.</LI></UL>
+<DIR>
+
+<P>or</P></DIR>
+
+<br>
+<UL>
+<LI><FONT FACE="Symbol">&#126;</FONT>
+p : There exists a man who is not intelligent.</LI></UL>
+
+<br>
+<P>&nbsp;</P>
+<P>The <B>negation</B> of the propositions:</P>
+<UL>
+<P>p : There is a man who is not intelligent.</P>
+
+<P>p : Some men are not intelligent.</P>
+</UL>
+<P>is:-</P>
+<UL>
+<P>&nbsp;</P>
+<P><FONT FACE="Symbol">&#126;</FONT>
+p : All men are intelligent.</P>
+</UL>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Law of Contradiction</P>
+</B>
+<P>A proposition <B>and</B> its negation <FONT FACE="Symbol">&#126;</FONT>
+p cannot be true.</P>
+
+<P>This is the end of the third Logic Learning Plan.</P>
+
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

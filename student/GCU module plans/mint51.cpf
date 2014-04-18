@@ -1,0 +1,74 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font size="+4"> Multiple Integrals 
+<br> - Region of integration
+<br>
+<font size="+2">
+
+<P>The problems addressed so far are straightforward:  
+<br>the mathematics is simply that of integration, with which 
+<br>you are already familiar.  The tricky problems arise when 
+<br>the region of the integration is not a rectangle.  
+<br>In these situations one of integrals (the inner) may contain 
+<br>a function as a limit; the function appearing as one, or both, of the integration limits.  Given the limits, the procedure for evaluating such an integral is essentially the standard one.  To test your confidence with this type of integral, 
+<br>try the following example:</P>
+
+
+<a href="launch.htm#q0920">Question 1</a>
+</P>
+
+<P>A new skill is required when the limits of integration are 
+not simply given, as was the case in the previous example. 
+The student is expected to able to determine the limits of integration for themself.  
+To see if you have mastered this process try the following problems.
+
+<br>
+
+<P>
+
+<br>When the region to be integrated over is not a simple rectangle 
+it is found convenient to indicate the limits of the 
+<br>integration as in the following examples:
+<br>
+<P><a href="launch.htm#q0900">Question 2</a></P>
+<p><a href="launch.htm#q0805">Question 3</a></P>
+
+<br>In the next example note the more usual use of dA 
+(A for area) instead of dxdy<p>
+
+<p><a href="launch.htm#q0903">Question 4</a></P>
+
+here are some further examples of integrals over 
+non-rectangular regions:<p>
+
+<a href="launch.htm#q0802">Question 5</a>
+</P><a href="launch.htm#q0803">Question 6</a>
+</P><p><a href="launch.htm#q0804">Question 7</a></P>
+
+
+<br>
+<p>A simple application of iterated integrals is in the evaluation 
+of area and volumes
+<br>
+<p><a href="launch.htm#q0902">Question 8</a></P>
+
+<br>The idea can be extended to the evaluation of the mass of objects 
+by integrating given density functions (instead of 1) over the 
+appropriate regions; this is not followed up here.
+<br>
+
+<br>
+
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

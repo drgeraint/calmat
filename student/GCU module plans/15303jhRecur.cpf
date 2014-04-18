@@ -1,0 +1,116 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Recurrence Relations</center></b><font size="--">
+<P>
+
+<FONT FACE="Arial"><P>To obtain the roots of the equation</P>
+
+<P><ALIGN="CENTER">2x<SUP>2</SUP> – 4x – 3 = 0</P>
+
+<P>the well known quadratic formula
+<B>x = (-b <FONT FACE="Symbol">&#177;</FONT>
+ <FONT FACE="Symbol">&#214;</FONT>
+(b<SUP>2</SUP> – 4ac))/2a</B> can be used.</P>
+
+<P>Here a = 2, b = -4 and c = -3.</P>
+
+<P>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 9 a~?">2-9 section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 9 b 0~?">section b</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 9 c 0~?">section c</a>. 
+<br>
+
+<P>However, obtaining the roots of  2x<SUP>4</SUP> + x<SUP>3</SUP> – 3x<SUP>2</SUP> + 4x –1 = 0 or the equation x = sinx, is not so straightforward.   There is no known formula by which these roots can be obtained directly.   Instead a method called <B>iteration</B> is used.</P>
+
+<P>Iterative processes require:</P>
+
+<OL TYPE="i">
+
+<LI>a starting approximation, x<SUB>0</LI>
+</SUB>
+<LI>a formula for obtaining the next iteration x <SUB>n+1</SUB> in terms of previous approximations.</LI></OL>
+
+<br>
+
+<br>
+<P>Consider the equation</P>
+
+<P ALIGN="CENTER">2x<SUP>3</SUP> – 7x + 2 = 0</P>
+
+<P>A sketch of this graph shows that there are three roots; one between –2 and –1,  a second between 0 and 1, and a third between 1 and 2.</P>
+
+<P><img src="Image49.png"></P>
+
+<P>The equation can be re-written as follows</P>
+
+<P>7x = 2(x<SUP>3</SUP> + 1)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = 2/7(x<SUP>3</SUP> + 1) ; x =f(x)</P>
+
+<P>here, the root between 0 and 1 will be determined by setting x<SUB>0</SUB> = 1 and by using the formula</P>
+
+<P>x <SUB>n+1</SUB> = 2/7(x<SUB>n</SUB><SUP>3</SUP>+1)</P>
+
+<P>Hence,</P>
+
+<P>x<SUB>1</SUB> = 2/7(1<SUP>3</SUP> + 1) = 0.5714</P>
+<P>x<SUB>2</SUB> = 2/7((0.5714)<SUP>3</SUP> + 1) = 0.3390</P>
+
+<P>It is more usual to lay out the work in tabular form:-</P>
+
+<P><img src="Image50.png"></P>
+
+<P>Rounding to four decimal places, the process has converged to 0.2929.</P>
+
+<P>The equation x <SUB>n+1</SUB> = 2/7(x<SUB>n</SUB><SUP>3</SUP> + 1)</P>
+
+<P>Is called a <B>recurrence relation</B> (or difference equation).   The final value (if it exists) is the solution of the recurrence relation.  The process of obtaining the solution from the recurrence relation by repeated applications is called <B>iteration.</P>
+</B>
+<P>From the previous graph of the equation 2x<SUP>3</SUP> – 7x + 2 = 0, there is a second positive root between 1 and 2.   Starting the process with x<SUB>0</SUB> = 2 and using the formula</P>
+
+<P>x <SUB>n + 1</SUB> = 2/7(x<SUB>n</SUB><SUP>3</SUP> + 1)</P>
+
+<P>gives</P>
+<P><img src="Image51.png"></P>
+<P>Here the process is diverging, and no matter how many iterations are carried out, it will never give the root between 1 and 2.   It is important to note that <B>not all</B> iterative processes <B>converge</B>.</P>
+
+<P>Other recurrence relations can be formed from the equation;</P>
+
+<P>2x<SUP>3</SUP> = 7x – 2</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = (7x – 2)/2x<SUP>2</P>
+</SUP>
+<P>Set x<SUB>0</SUB> = 2 and use the recurrence relation</P>
+
+<P>x<SUB>n+1</SUB> = (7x<SUB>n </SUB>- 2)/2x<SUB>n</SUB><SUP>2</P>
+</SUP>
+<P>The following table for this process can be constructed:-</P>
+
+<P><img src="Image52.png"></P>
+
+<P>Note that as</P>
+
+<P>x = ((7x-2)/2x)<SUP>1/2</SUP> </P>
+
+<P>or x = ((7x-2)/2)<SUP>1/3</P>
+</SUP>
+<P>two other recurrence relations could have been formed.</P>
+
+<br>
+
+<P>Before attempting any questions work through recurrence relations in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 21 d 0~?">2-21 section d</a>. Consider <a href="launch.htm#q0762">q0762</a>, <a href="launch.htm#q0456">q0456</a> and <a href="launch.htm#q0457">q0457</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

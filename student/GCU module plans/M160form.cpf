@@ -1,0 +1,149 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra Learning Plan 2</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra Learning Plan 2</P>
+<P ALIGN="CENTER">Arithmetic Calculations &amp; Formulae</P>
+
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you should be referring to your lecture notes titled ‘Algebra’.</P>
+
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Arithmetic Calculations</P>
+
+</B></FONT><FONT FACE="Arial"><P>Often when an expression contains a mixture of signs – addition, subtraction, multiplication and division it is difficult to decide where to begin and which operation to carry out first.</P>
+
+<P>You should find <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 2 e 0~?">1-2 section e</a> helps in making this decision.   Try <a href="launch.htm#q0265">q0265</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Formulae</P>
+</B></FONT><FONT FACE="Arial">
+<P>You will find that formulae appear everywhere in the business environment.</P>
+
+<P>Within a company, monthly pay is roughly calculated for different employees using a range of formulae.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=568>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P>Employee</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P>Formula</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P>Variables</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="33%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Administration</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P = hr</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P:pay, h:hours, </P>
+<P>r:rate of pay per hour</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Sales</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P = B + sc</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P:pay, B:basic monthly pay,</P>
+<P>s:sales in £, </P>
+<P>c:percentage commission rate</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Shift Workers</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P = hr(1 + a)</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P>P:pay, h:hours, r:rate of pay  per hour,</P>
+<P>a:percentage shift allowance</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial">
+<P>&nbsp;</P>
+<B><P>Example 1</P>
+</B>
+<P>The monthly pay (before tax) for a member of the administration staff who works 37 hours per week at a rate of £9.50 per hour would be:</P>
+
+<B><P ALIGN="CENTER">P = hr</P>
+</B><P><FONT FACE="Symbol">&#222;</FONT>
+ P = 148 x 9.50&#9;(37 hours per week = 37x 4 <FONT FACE="Symbol">&#64;</FONT>
+148 hours per month)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ P = £1406.00</P>
+
+<P><FONT FACE="Symbol">&#64;</FONT>
+ read as ‘approximately’&#9;</P>
+
+<B><P>Example 2&#9;</P>
+
+</B><P>The monthly pay (before tax) for a member of the sales staff whose basic yearly salary is £18000, monthly sales have amounted to £120000 and is paid commission on his sales at a rate of 1% would be:</P>
+
+<B><P ALIGN="CENTER">P = B + sc</P>
+</B><P ALIGN="JUSTIFY">P =  1500 + 120000 x 0.01</P>
+<P ALIGN="JUSTIFY"><FONT FACE="Symbol">&#222;</FONT>
+<B> </B>P =<B>&#9; </B>1500 + 1200</P>
+<P ALIGN="JUSTIFY"><FONT FACE="Symbol">&#222;</FONT>
+ P =&#9; £2700</P>
+
+<B><P>Note</P>
+</B>
+<P>£18000 per year <FONT FACE="Symbol">&#64;</FONT>
+ £1500 per month; 1% = 0.01 </P>
+
+<B><P>Example 3</P>
+</B>
+<P>The monthly pay (before tax) for a shift worker who works the equivalent of 37 hours per week on a shift rota at a rate of £12.50 per hour with a shift allowance of 30% would be:</P>
+
+<B><P ALIGN="CENTER">P = hr(1 + a)</P>
+</B>
+<P>&nbsp;</P>
+<P ALIGN="JUSTIFY">P =  148 x 12.50(1 + 0.30)&#9;</P>
+<P ALIGN="JUSTIFY"><FONT FACE="Symbol">&#222;</FONT>
+<B> </B>P =<B>&#9; </B>1850(1.30)</P>
+<P ALIGN="JUSTIFY"><FONT FACE="Symbol">&#222;</FONT>
+ P =&#9; £2405</P>
+
+<B><P>Note</P>
+</B>
+<P>37 hours per week = 37x 4 <FONT FACE="Symbol">&#64;</FONT>
+148 hours per month</P>
+
+<P>The shift workers are paid for the number of hours worked at the given rate.   In addition they are paid a further 30% of this total for the inconvenience of working shifts. </P>
+
+<P>Multiplying out the brackets the formula for the calculation of their monthly pay could be written as:</P>
+
+<P ALIGN="CENTER">P = hr + 30% of hr</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">or slightly more mathematically as</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">P = hr + 0.30hr&#9;(P = 1hr + 0.3hr)</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">and combining the terms</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">P = 1.30hr</P>
+<P ALIGN="CENTER"></P>
+<P>It is important to be able to evaluate formulae, as we did above.   It is extremely useful to be able to manipulate formulae.   Spend time in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 19 d~?">1-19 section d</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 19 e~?">section e</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 19 f 0~?">section f</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 19 g 0~?">section g</a>.   Try <a href="launch.htm#q0368">q0368</a>and <a href="launch.htm#q0667">q0667</a>.</P>
+
+<P>More extensive formulae can be found in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 25~?">1-25</a>. </P>
+
+<P>If you are feeling confident try <a href="launch.htm#q0371">q0371</a> and<a href="launch.htm#q0372">q0372</a>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

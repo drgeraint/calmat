@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Normal Distribution</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">The Normal Distribution</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 8</B> attempt the material in <B>this</B> Learning Plan <B>and</B> the Learning Plan titled <B>Estimation</B>.</P>
+
+<P>The <B>TAS questions</B> mentioned in these <B>two plans</B> form the <B>bank of questions</B> from which the questions for <B>Test 8</B> are chosen.</P>
+
+<P>The <B>Lecture Notes</B> referred to in this Learning Plan are <B>Chapter 3 'Probability’</B>.</P>
+
+<P>Towards the end of this Learning Plan a link takes you to the <B>Minitab</B> software where you can complete <B>Lab 5</B> of <B>Laboratory Handbook 2 (Green Cover)</B>.<P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Random Variables</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>A random variable is a variable taking values as a result of a random experiment.   A simple example would be a variable X defined to be 1 if &quot;heads&quot; appears on the toss of a coin, and 0 if &quot;tails&quot; appears.   Random variables are usually written in capital letters, eg X,Y.   Random variables are of two types – discrete or continuous.   In this Learning Plan we will discuss one particular <B>continuous random variable</B>.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Continuous Random Variables</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>A continuous random variable is a numerical outcome from a random experiment or procedure, which takes values on a continuous scale.  For example, suppose that a survey of the general health of students at the university were carried out, and that, as part of this survey, the blood pressure (mm Hg) of each of a random sample of students was measured.   The blood pressure of each randomly selected student would be a continuous random variable.</P>
+
+<P>Read pages 5 and 6 of your lecture notes.   Don’t be put off by the notation.</P>
+
+<P>The single <B>most important</B> continuous random variable is the so-called <B>Normally distributed</B> random variable.   It is probably the most important distribution for two reasons.   First, the distribution of many naturally occurring variables is close to the Normal distribution, eg, for human subjects, height , weight, lung function.   Secondly, even when the distribution of a single measurement of a variable is not well approximated by the Normal distribution, the distribution of the average of a random sample of such measurements approaches the Normal distribution as the sample size gets larger.  </P>
+
+<P>Read through pages 7 and 8 of your lecture notes.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Standard Normal Distribution</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<P>Statistical tables are available which give probabilities for one particular Normal distribution, namely that with <B>mean 0</B> and <B>standard deviation 1</B>, known as the <B>Standard Normal Distribution</B>.   The letter <B>Z</B> is conventionally used to denote random variables whose distribution is Standard Normal.</P>
+
+<P>Learn how to use the tables of the Standard Normal Distribution by working through the examples on pages 9–11 of your lecture notes.</P>
+
+<P>Try <a href="launch.htm#q0834">q0834</a>, <a href="launch.htm#q0835">q0835</a>, <a href="launch.htm#q0836">q0836</a>, <a href="launch.htm#q0837">q0837</a>, and <a href="launch.htm#q0838">q0838</a>.</P>
+<P>Now attempt <a href="launch.htm#q0772">q0772</a> and <a href="launch.htm#q0773">q0773</a>.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Normal Distribution</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>It turns out that using these tables we can find the probability that any Normally distributed random variable X will lie between two values a and b.</P>
+
+<P>Work through the examples on pages 12-14 of your notes.   In this set of examples the tables of the Standard Normal Distribution are used to evaluate probabilities, areas under Normal Distribution Curves, for which the mean and standard deviation are not equal to 0 and 1 respectively.</P>
+
+<P>Try <a href="launch.htm#q0774">q0774</a> and <a href="launch.htm#q0775">q0775</a>.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>Increase your understanding of the Normal Distribution by using Minitab’s statistical functions.   Following the instructions given in Minitab Laboratory Handbook 2 complete <a href="http://www.maths.gcal.ac.uk/m163/lab1a.mpj">Lab 5</a>.</P>
+
+<P>Note: Lab 6 of the same Handbook will be completed in the next Learning Plan.  </P>
+
+<P>&nbsp;</P>
+<P>This is the end of the Normal Distribution Learning Plan.  Now <B>begin</B> the Learning Plan entitled <B>Estimation</B>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

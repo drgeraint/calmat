@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra</P>
+</B></FONT><FONT FACE="Arial">
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Exponential Functions</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+<br>
+<P>Before taking <B>Test 5</B> attempt the material in <B>this</B> Learning Plan <B>and</B> the following plans:</P>
+<B><P ALIGN="CENTER">Exponential Relationships
+<br>(should already be completed)</P>
+<P ALIGN="CENTER">The Logarithmic Function</P>
+<P ALIGN="CENTER">Exponential Equations &amp; Applications</B>.</P>
+<br>
+<P>The <B>TAS questions</B> mentioned in <B>this plan</B> and the <B>three plans</B> listed above form the <B>bank of questions</B> from which the questions for <B>Test 5</B> are chosen.</P>
+<P>The lecture notes referred to in this Learning Plan are <B>Chapter 2 ‘Algebra’</B>.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>Practical Applications</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>Read pages 23 and 24 of your lecture notes to see the exponential function applied to bacterial growth and population decay.   Now work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 c~?">2-17 section c</a>.</P>
+
+<P>&nbsp;</P>
+<B><FONT FACE="Arial" SIZE=4><P>The Exponential Function</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>Having considered exponential functions now work on <B>The Exponential Function </B>in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 d~?">2-17 section d</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 e 1~?">section e tutorial 1</a>.   You need only complete Tutorial 1 in section e.</P>
+
+<P>The base <B>e </B>is very convenient when we wish to express exponential growth (or decrease) in algebraic terms.</P>
+
+<P>e.g. Suppose a population consists of 1000 cells at time t = 0 hours.   If we are told that the population is increasing exponentially and has an instantaneous rate of growth of 69% per hour, we can immediately write down a formula giving the size of the population at any given time t hours, namely</P>
+
+<P ALIGN="CENTER">P(t) = 1000e<SUP>0.69t</P>
+</SUP>
+<P>Page 26 in your lecture notes gives a further example.   Pages 27-33 illustrate graphically <B>the exponential function.</P></B>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab associated with this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Exponential Functions. You should now begin the Learning Plan entitled <B>The Logarithmic Function</B>.</P>
+</FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

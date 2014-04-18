@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Set Theory</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Definitions And Notation</center></b><font size="--">
+<P>1.1
+<P>
+The concept of a set appears in all mathematics.   Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 12 a~?">2-12 section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 12 b~?">section b</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 12 c 0~?">section c</a>. 
+<P>1.2
+<P>
+<LI>a set is a group or collection of objects.
+<LI>a set is usually labelled using an uppercase letter.
+<LI>members of a set can be described using lower case letters, or numbers, etc.
+<LI>p <font face="Symbol">Î</font face="Symbol">A; p is an element of A.
+<LI>p <font face="Symbol">Ï</font face="Symbol">A; p does not belong to A.
+<LI>A = {a, e, i, o, u}
+<LI>B = { x : x is an even integer, x > 0}
+<LI>A = B means that the set A and the set B contain the same members.
+<LI>also have A  <font face="Symbol">¹</font face="Symbol"> B. The sets have different members.
+<LI>there are different numbers systems
+<P><center>Whole Numbers <b>W</b>= {0, 1, 2, 3, 4,......}</center>
+<P><center>Natural Numbers <b>N</b>= {1, 2, 3, 4,......}</center>
+<P><center>Integers <b>Z</b>= {......, -2, -1, 0, 1, 2,......}</center>
+<P><center>Rational Numbers <b>Q</b>= Fractions</center>
+<P><center>Real Numbers <b>R</b>= All Numbers.</center>
+<P>1.3
+<P><LI>the Universal Set is denoted by <b>U</b>.
+<LI>the set with no elements is called the empty set or null set; { }
+<P> e.g. S = {x : x is a natural number, x<sup>2</sup>=3}.   S is an empty set.
+<P>1.4
+<P>If A  <font face="Symbol">Ì</font face="Symbol"> B then A is a subset of B.   A is contained in B.
+<P>Read through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 12 d~?">2-12 section d</a>. 
+<P>Now try <a href="launch.htm#q0713">q0713</a> and <a href="launch.htm#q0714">q0714</a>. 
+<P>This is the end of the first Learning Plan on Sets.  Now begin the Learning Plan, Sets 2.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

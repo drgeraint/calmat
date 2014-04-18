@@ -1,0 +1,221 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra</P></FONT></B>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Linear Relationships</P></FONT></B>
+<FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 3</B> attempt the material in <B>this</B> Learning Plan
+<B>and</B> the following plans<P> 
+
+<B><P ALIGN="CENTER">Quadratic Relationships</P>
+<P ALIGN="CENTER">Simultaneous Equations</B>.</P>
+<br>
+
+<P>The <B>TAS questions</B> mentioned in <B>this plan</B> and the <B>two plans</B> listed above form the <B>bank of questions</B> from which the questions for <B>Test 3</B> are chosen.</P>
+
+<P>The Lecture Notes referred to in this Learning Plan are <B>Chapter 2 ‘Algebra’</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Linear Equations</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>A linear equation takes the general form, ax + b = 0 where a and b are real numbers with a <FONT FACE="Symbol">&#185;</FONT>
+ 0 and x is the unknown variable.   The following are examples of linear equations:</P>
+
+<P ALIGN="CENTER">3x + 4 = 0</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">-2n + 1 = 3</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">½ y – ¾  = 2</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">0.34p + 0.56 = 0.82</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">3z = 10</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">4m – 6 = 5 – 2m</P>
+
+<B><P>Note</P>
+</B>
+<OL TYPE="i">
+
+<LI>In a linear equation the power of the variable is 1, since x = x<SUP>1</SUP>.</LI>
+<LI>The unknown variable does not need to be x.</LI>
+<LI>The equation may not be written in general form.</LI></OL>
+
+<P>Solving a linear equation is illustrated on page 1 of your lecture notes.  
+Try <a href="launch.htm#q0607">q0607</a> and <a href="launch.htm#q0369">q0369</a>.</P>
+
+<P>If you feel you need to revise the basics of solving linear equations then work through the Learning Plan<B> "Linear Equations"</B> in <B>Test 3 Revision</B>.
+
+<P>Many real life situations can be modelled by a linear relationship.</P>
+
+<br>
+</FONT><B><FONT FACE="Arial" SIZE=3><P>Example 1</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+<P>The prenatal growth of a foetus more than 12 weeks old can be approximated by the linear relationship</P>
+
+<P ALIGN="CENTER">1.53t – 6.7 = L</P>
+
+<P>in which L is the length in cm and t is the age in weeks.</P>
+
+<P>If the length is estimated at 20cm use this relationship to estimate the age of the foetus.</P>
+
+<B><P>Solution</P></B>
+<P>L = 20</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 1.53t – 6.7 = 20</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 1.53 t = 26.7</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ t = 17.5 weeks </P>
+
+<P>The foetus is approximately 17½ weeks old.</P>
+
+<br>
+</FONT><B><FONT FACE="Arial" SIZE=3><P>Example 2</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>The relationship between the temperature F on the Fahrenheit scale and the temperature C on the Celsius scale is given by</P>
+
+<P ALIGN="CENTER">C = 5/9(F – 32)</P>
+
+<P>(i) If the temperature is 24<FONT FACE="Symbol">&#176;</FONT>
+C calculate the equivalent temperature in Fahrenheit.</P>
+<P>(ii) Find the temperature at which the reading is the same on both scales.</P>
+
+<B><P>Solution</P></B>
+<B><P>(i) </B>C = 24</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 24 = 5/9(F – 32) </P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 5/9(F – 32) = 24</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 5(F – 32) = 216</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 5F – 160 = 216</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 5F = 376</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ F = 75.2</P>
+
+<P>A temperature of 24<FONT FACE="Symbol">&#176;</FONT>
+C is equivalent to 75.2<FONT FACE="Symbol">&#176;</FONT>
+F. </P>
+
+<B><P>(ii)</B> C = F</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ F = 5/9(F – 32) </P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 9F = 5(F – 32)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 9F = 5F – 160</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 4F = -160</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ F = -40</P>
+
+<P>Hence -40<FONT FACE="Symbol">&#176;</FONT>
+C is equivalent to -40<FONT FACE="Symbol">&#176;</FONT>
+F.</P>
+
+<P>A linear equation can be helpful when trying to calculate the concentration of a liquid.    Read through Example 2 in your lecture notes on page 1.  Now try <a href="launch.htm#q0697">q0697</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Straight Line Graphs</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<P>A linear relationship can be illustrated pictorially by a straight line graph.  Consider once again the age and length of a foetus.</P>
+
+<P>The prenatal growth of a foetus more than 12 weeks old can be approximated by the linear relationship</P>
+
+<P ALIGN="CENTER">1.53t – 6.7 = L</P>
+
+<P>in which L is the length in cm and t is the age in weeks.</P>
+
+<P>To assist with the construction of the graph of this linear relationship set up a table of values. </P>
+
+<UL>
+<LI>choose appropriate values for t</LI>
+<LI>substitute the value for t in the relationship</LI>
+<LI>calculate the corresponding value for L</LI></UL>
+
+<P>eg </P>
+<P>t = 12 </P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 1.53(12) – 6.7 = L</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+18.36 – 6.7 = L</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+L = 11.66</LI></P>
+
+<br>
+</FONT>
+
+<FONT FACE="Arial" SIZE=2>
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=375>
+<TR><TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">t</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">12</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">15</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">20</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">25</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">30</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">35</FONT></TD>
+</TR>
+<TR><TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">L</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">11.66</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">16.25</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">23.90</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">31.55</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">39.20</FONT></TD>
+<TD WIDTH="15%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">46.85</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<P>Plotting these points will result in a straight line graph.</P>
+
+<P>Straight line graphs are plotted in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 a~?">1-41 section a</a>.   It can be very useful to be able to determine particular features of the graph.   Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 b 0~?">1-41 section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 41 c 0~?">section c</a>. 
+Try <a href="launch.htm#q0377">q0377</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab on which you will be assessed attached to this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Linear Relationships. You should now begin the Learning Plan entitled <B>Quadratic Relationships</B>.</P>
+
+</FONT></BODY>
+</HTML>

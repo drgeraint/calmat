@@ -1,0 +1,87 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Net Present Values Learning Plan 4</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Net Present Values Learning Plan 4</P>
+<P ALIGN="CENTER">Investment Appraisal</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Net Present Values'.</P>
+
+<P>In evaluating how good an investment strategy is, two common investment appraisal methods are:</P>
+
+<br>
+<UL>
+<LI>calculating net present values (NPV)</LI>
+<LI>calculating the internal rate of return (IRR) or yield</LI></UL>
+
+<br>
+<B><P>Net Present Value Method</P>
+</B>
+<P>With the NPV method, the present values of future returns less the present values of future costs are calculated.   Consequently, there are three parts to the calculation:</P>
+
+<OL TYPE="i">
+
+<LI>Evaluate the NPV<SUB>R</SUB> of expected future returns</LI>
+<LI>Evaluate the NPV<SUB>C </SUB>of expected future costs</LI>
+<LI>Calculate the overall NPV as NPV<SUB>R </SUB>- NPV<SUB>C</LI></OL>
+
+</SUB>
+<P>Work through the example given on page 11 of your notes.   Spend time on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 4 a~?">3-4 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 4 b~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 4 c~?">section c</a>.</P>
+
+<B><P>Internal Rate of Return (IRR) Method</P>
+
+</B><P>The IRR or yield is the rate of interest at which the net present value of returns equals the net present value of costs i.e.</P>
+<DIR>
+
+<P ALIGN="CENTER">NPV = NPV<SUB>R </SUB>- NPV<SUB>C</SUB> = 0</P>
+<P ALIGN="CENTER"></P></DIR>
+
+<P>If the IRR is low, the investment strategy is probably suspect and may need to be modified or even abandoned.   Other than in special cases determining the rate, r, is not easy.</P>
+
+<P>Consider the example on page 12 and 13 of your notes.   Try <a href="launch.htm#q0405">q0405</a>, <a href="launch.htm#q0406">q0406</a>, <a href="launch.htm#q0407">q0407</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,69 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Motion of the Planets</b></p></center>
+</font><font face="Arial" size="--">
+<p>Some of the calculations in this module involve very large numbers. These are often expressed in Standard Form - see CALMAT MoLS Lesson 1-11 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 a~?">section a</a>. In 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 d~?">section d</a> Standard Form is defined and the <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 11 e -1~?">tutorials in section e</a> enable you to practise converting normal numbers to Standard Form and vice versa.</p>
+
+<p>Questions <a href="launch.htm#q0882"><b>882 </b></a>and <a href="launch.htm#q0883"><b>883 </b></a>involve converting units which you will need in this part of the course.</p>
+
+<font face="Arial" size="+2"><center><p><b>Calculations Using Kepler's Laws</b></p></center>
+</font><font face="Arial" size="--">
+<p><b>Kepler’s Third Law:</b> <br/><center><img src="23103bs3rdLawFormula.png"></center>
+
+<p>If we take</p>
+<center><table>
+<tr><td>a<sub>E</sub> = average distance of Earth from the Sun = 1 AU</td></tr>
+<tr><td>P<sub>E</sub> = orbital period of Earth = 1 year</td></tr>
+</table></center>
+<center><table><tr><td>Then the constant for the planets in the solar system is</td><td><img src="23103bs3rdLawSSConst.png"></td></tr>
+</table></center>
+<p>Kepler's third law then becomes</p>
+<center><img src="23103bs3rdLawSSFormulae.png"></center>
+<p>where:
+<br/>a = distance of the planet from the Sun <b>in astronomical units</b>
+<br/>P = time it takes for the planet to revolve around the Sun <b>in years</b>.</p>
+<p>Questions
+ <a href="launch.htm#q0885"><b>885</b></a>,
+ <a href="launch.htm#q0886"><b>886</b></a>,
+and <a href="launch.htm#q0887"><b>887</b></a> use Kepler's third law to find the orbital periods of planets.</p>
+
+<p>Questions
+ <a href="launch.htm#q0890"><b>890</b></a>
+and  <a href="launch.htm#q0891"><b>891</b></a> use Kepler's third law to find the distances of planets from the Sun,
+ and <a href="launch.htm#q0884"><b>884</b></a> is the more general case.</p>
+
+<p>Kepler's third law as modified by Newton:
+<center><table><tr><td><img src="23103bs3rdLawModNewton1.png">
+</td><td>where:
+<br/>a<sub>p</sub> = distance of the planet from the Sun,
+<br/>P<sub>p</sub> = time it takes for the planet to revolve around the Sun,
+<br/>m<sub>p</sub> = the mass of the planet revolving around the Sun,
+<br/>m<sub>sun</sub> = the mass of the Sun,
+<br/>and K is a constant.
+</td></tr></table></center>
+
+
+<p>The same equation applied to satellites orbiting a planet becomes</p>
+<center><img src="23103bs3rdLawModNewton3.png"></center>
+<p>Note that K is the same constant as before. Therefore if units of a in AUs, P in years, m in solar masses are used, K is still 1.
+
+<p>Questions
+ <a href="launch.htm#q0888"><b>888</b></a>
+and  <a href="launch.htm#q0889"><b>889</b></a> use Kepler's third law modified by Newton to find the masses of planets.</p>
+
+
+
+
+<!--end-->
+
+</BODY>
+</HTML>

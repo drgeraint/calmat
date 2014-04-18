@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Correlation and Regression</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Correlation and Regression</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 6 </B>attempt the material in <B>this</B> Learning Plan. </P>
+<B>
+</B><P>The <B>TAS questions</B> mentioned in <B>this plan</B> form the <B>bank of questions</B> from which the questions for <B>Test 6</B> are chosen.</P>
+<P ALIGN="CENTER"></P>
+<P>The lecture notes referred to in this Learning Plan are <B>Chapter 6 ‘Regression and Correlation’</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Introduction</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>In this Learning Plan we will consider the problem of fitting the ‘best straight line’ through a set of points which do not lie exactly on the line.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Fitting a Line by Eye</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>Begin by working through 1-58 <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 a 0~?">section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 b 0~?">section b</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 58 c 0~?">section c</a>.   Read through the examples given in your lecture notes on pages 1-4.</P>
+
+<P>In the examples we have considered, a linear relationship existed between the two variables.   A line was fitted by eye to the data.   However, it is difficult to judge where best to draw the line.   Different people would probably draw slightly different lines.   <B>Regression</B> is a technique to determine the ‘best fitting line’ by the <B>method of least squares</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Linear Regression</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>It is appropriate to use linear regression, where interest lies in determining the average linear relationship between Y and X.   The resulting line of best fit can then be used to predict y from x.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>The Method of Least Squares</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>We wish to find the equation y = a + bx of a straight line which is the ‘best’ fitting line to the set of data points.   This is an estimate of the true regression line y = <FONT FACE="Symbol">&#97;</FONT>
+ +<FONT FACE="Symbol">&#98;</FONT>
+x.  </P>
+<P>The method to find the ‘best’ fitting line is known as the method of least squares or linear regression.</P>
+
+<P>Read through pages 5-8 of your lecture notes.   Try <a href="launch.htm#q0790">q0790</a>, <a href="launch.htm#q0795">q0795</a>, <a href="launch.htm#q0791">q0791</a> and <a href="launch.htm#q0792">q0792</a>. </P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Correlation</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>Pearson’s Product Moment Correlation Coefficient, <B>r</B> is used to measure the strength of the linear relationship between two variables.   The formula for r can be found on page 9 of your lecture notes.</P>
+
+<P>Note that <B>–1 <FONT FACE="Symbol">&#163;</FONT>
+  r <FONT FACE="Symbol">&#163;</FONT>
+ 1</B> where <B>r = -1 indicates a perfect negative correlation</B> and <B>r = 1 indicates a perfect positive correlation.</P>
+</B>
+<P>Read pages 9 and 10 of your lecture notes.   Try <a href="launch.htm#q0793">q0793</a>, <a href="launch.htm#q0796">q0796</a> and <a href="launch.htm#q0794">q0794</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab on which you will be assessed attached to this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the end of the Learning Plan on Correlation and Regression.</P>
+</BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

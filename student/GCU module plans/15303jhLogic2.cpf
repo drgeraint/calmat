@@ -1,0 +1,158 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Logic</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Propositional Logic </center></b><font size="--">
+
+
+<br>
+<FONT FACE="Arial"><P> For students taking MatM153, the lecture notes referred to in this Learning Plan are those entitled &quot;Boolean Algebra&quot;.</P>
+
+<br>
+<P>For the purpose of general communication we often express ourselves using questions, exclamations and so forth, but to communicate facts or information of some sort we use statements.</P>
+
+<br>
+<B><P>Definition</P>
+</B>
+<P>A <B>proposition</B> is a statement which, as given, is either true or false.</P>
+
+<P>True and false are truth values.</P>
+
+<P>&nbsp;</P>
+<B><P>Examples</P>
+</B>
+<P>6 is an even number.   This is a proposition because it is true.</P>
+
+<P>6 is an odd number.   This is a proposition because it is false.</P>
+
+<P>What age are you ?   This is not a proposition.</P>
+
+<P>He is intelligent.   This is a proposition because it can be true or false</P>
+
+<P>&nbsp;</P>
+<B><P>Notation</P>
+</B>
+<P>We normally use p, q, r, s, t, …. to denote propositions.</P>
+
+<P>&nbsp;</P>
+<B><P>Compound Propositions</P>
+</B>
+<P>To vary our conversations we do not confine ourselves to simple statements (propositions).   We combine simple propositions with connecting words to make compound propositions.   The truth value of a compound proposition depends on the truth value of its components and the connecting words used.</P>
+
+<P>&nbsp;</P>
+<B><P>Conjunction</P>
+</B>
+<P>Let p and q be any two propositions.   The compound proposition &quot;<B>p and q</B>&quot; is called the <B>conjunction</B> of p and q.   It is denoted symbolically as <B>p<FONT FACE="Symbol">&#217;</FONT>
+q</B> .</P>
+
+<P>We can say that if p is true and q is true then p<FONT FACE="Symbol">&#217;</FONT>
+q is also true. </P>
+
+<B><P>Example </P>
+</B>
+<P>Consider the two true propositions,</P>
+
+<P>I am a student at G.C.U.</P>
+<P>My programme is BSc Computing.</P>
+
+<P>Then we would consider the resulting proposition :</P>
+
+<P>I am a student at G.C.U. and my programme is BSc Computing to be true.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>We can summarise the effects of conjunction by a <B>truth table</B>.</P>
+<img src="Image83.png">
+<P>&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+<P>Sometimes p<FONT FACE="Symbol">&#217;</FONT>
+q is written as pq.</P>
+
+<P>&nbsp;</P>
+<B><P>Inclusive Disjunction</P>
+</B>
+<P>Let p and q be any two propositions.   The compound proposition &quot;<B>p or q</B>&quot; is called the inclusive disjunction of p and q.   It is denoted as <B>p<FONT FACE="Symbol">&#218;</FONT>
+q</B>.</P>
+
+<P>&quot;or&quot; gives a true statement when either of its constituent parts is true.   This is illustrated in the truth table.</P>
+<img src="Image84.png">
+
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+
+<P>&nbsp;</P>
+<B><P>Negation</P>
+</B>
+<P>If p is a proposition, the <B>negation of p</B>, read &quot;<B>not p</B>&quot; is denoted as <FONT FACE="Symbol">&#126;</FONT>
+<B>p</B>.</P>
+
+<P>&nbsp;</P>
+<P>The truth table takes the form :</P>
+<img src="Image85.png">
+
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+
+<P>&nbsp;</P>
+<P>Using connectives it is possible to string statements together to form  a compound statement.   A compound statement can be verified as true or false by using a truth table.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Construct the truth table for the proposition&#9;<FONT FACE="Symbol">&#126;</FONT>
+p <FONT FACE="Symbol">&#217;</FONT>
+ q</P>
+
+<B><P>Solution</P>
+<img src="Image86.png">
+</B>
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+
+<P>Notice it can be helpful to split up the proposition and add extra columns to the truth table.</P>
+
+<P>Try <a href="launch.htm#q0459">q0459</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Construct the truth table for the proposition&#9;<FONT FACE="Symbol">&#126;</FONT>
+p <FONT FACE="Symbol">&#218;</FONT>
+ (q <FONT FACE="Symbol">&#217;</FONT>
+ r).</P>
+
+<B><P>Solution</P>
+</B>
+<img src="Image87.png">
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+
+<br>
+<P>Try <a href="launch.htm#q0461">q0461</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Notice the truth table increases in size to accommodate a larger number of statements.   Consider <a href="launch.htm#q0460">q0460</a>.  (Later in this module when you have completed the topic of Enumeration it will be easier to understand the reasoning in this question.)</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Logical Equivalence</P>
+</B>
+<P>If two propositions p and q have the same truth values in each case, then the two propositions are said to be logically equivalent.   That is p <FONT FACE="Symbol">&#186;</FONT>
+ q.</P>
+
+<P>Some logically equivalent propositions are detailed as the &quot;Six Laws of Propositions&quot; on page 9 of your lecture notes.</P>
+
+<P>This is the end of the second Logic Learning Plan.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,148 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<font face="Arial">
+<b><font size="+2"><center>Markov Chains</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Definitions</center></b><font size="--">
+<P>
+<FONT FACE="Arial"><P>Suppose we have a system (physical or mathematical) and that at any particular moment it can be in one of a finite number of conditions or states.   </P>
+
+<P>For example, the weather could be in one of three possible states; sunny, cloudy or raining.   Through time such a system can move from one state to the next.   </P>
+
+<P>If the transition from one state to the next can only be stated in terms of probabilities which depend on the previous history of the system, then the process is called a stochastic process.   Furthermore, if the state of the system is only dependent on its state at the immediately proceeding observation, then this process is called a <B>Markov Chain</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Definitions</P>
+</B></FONT><FONT FACE="Arial">
+<B><P>Transition Matrix</P>
+</B>
+<P>A transition matrix (or Markov matrix, probability matrix, stochastic matrix) is any square matrix with non-negative values such that each of the columns add to one.</P>
+
+<B><P>Example</P>
+</B>
+<P>For a 2 <FONT FACE="Symbol">&#180;</FONT>
+ 2 transition matrix</P>
+
+<P><img src="Image53a.png"></P>
+<P><img src="Image53b.png"></P>
+
+<P>&nbsp;</P>
+<B><P>Transition Probability</P>
+</B>
+<P>The transition probability p<SUB>ij</SUB>, (i,j = 1, 2, ……….,k) is the probability that if the system is in state j at any one observation then it will be in state i at the next observation.</P>
+
+<B><P>Example</P>
+</B>
+<P>A university finds that 80% of its graduates who contribute to the annual fund one year will also contribute the next year, and 30% of those who do not contribute one year will contribute the next.</P>
+
+<P>Let</P>
+
+<P><img src="Image54a.png"></P>
+
+<P>where </P>
+
+<P>p<SUB>11</SUB> <FONT FACE="Symbol">&#186;</FONT>
+ &#9;probability that graduate who contributed last year also contributes this year.</P>
+
+<br>
+<P>p<SUB>21</SUB> <FONT FACE="Symbol">&#186;</FONT>
+ &#9; probability that graduate who contributed last year will not contribute this year.</P>
+
+<P>etc.</P>
+
+<P>Try <a href="launch.htm#q0467">q0467</a> and <a href="launch.htm#q0585">q0585</a>.</P>
+
+<B><P>Probability Vector</P>
+</B>
+<P>This is a column vector with non-negative entries whose sum is one.   That is,</P>
+
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#83;</FONT>
+ p<SUB>kj</SUB> = 1</P>
+<P ALIGN="CENTER"></P>
+<P>&nbsp;</P>
+<B><P>State Vector</P>
+</B>
+<P>A vector <U>x</U><SUP>(n)</SUP>, (n = 0, 1, 2, ……), is known as a state vector of a Markov process if the ith component x<SUB>i</SUB><SUP>(n)</SUP> of <U>x</U><SUP>(n)</SUP> is the probability that the system is in the ith state at the nth observation.</P>
+
+<P><img src="Image55a.png"></P>
+
+<P>The state vector <U>x</U><SUP>(0)</SUP> is called the initial state vector of the Markov process.</P>
+
+<P>Subsequent state vectors are determined from the initial state vector.   Hence</P>
+
+<U><P>x</U><SUP>(1)</SUP> = P<U>x</U><SUP>(0)</P>
+</SUP>
+<U><P>x</U><SUP>(2)</SUP> = P<U>x</U><SUP>(1)</SUP> = P(P(<U>x</U><SUP>(0)</SUP>) = P<SUP>2</SUP><U>x</U><SUP>(0)</P>
+</SUP><P>.</P>
+<P>.</P>
+<P>.</P>
+<P>.</P>
+<P>.</P>
+<U><P>x</U><SUP>(n)</SUP> = P<U>x</U><SUP>(n-1)</SUP> = P(P<U>x</U><SUP>(n-2)</SUP>) = …………….= P<SUP>n</SUP><U>x</U><SUP>(0)</P>
+</SUP>
+<P>From the above, it can be seen that the state vector <U>x</U><SUP>(n)</SUP> is determined from the transition matrix P and from the initial state vector <U>x</U><SUP>(0)</SUP>.</P>
+
+<B><P>Example</P>
+</B>
+<P>Consider the previous graduate example.   Suppose a particular graduate does not contribute in the initial year of graduation then the individual state vector <U>x</U><SUP>(0)</SUP> can be written as:-</P>
+
+<P><img src="Image56.png"></P>
+
+<P>Hence, after two years this graduate can be expected to contribute with probability 0.45.   Continuing this process gives:-</P>
+
+<P><img src="Image57.png"></P>
+
+<P>It can be seen that for n <FONT FACE="Symbol">&#179;</FONT>
+ 11, the state vectors have converged.</P>
+
+<B><P>Example</P>
+</B>
+<P>A car rental company operates from three rental locations; London, Birmingham and Glasgow.   A customer can rent a car from any location and return the car to any of the three locations.   An analysis has shown that customers return the cars to the various locations as follows:-</P>
+
+<P><img src="Image58.png"></P>
+
+<P>Suppose a car is initially rented from Birmingham, then</P>
+
+<P><img src="Image59.png"></P>
+
+<P>Putting these calculations into tabular form gives:-</P>
+
+<P><img src="Image60.png"></P>
+
+<P>The state vectors converge as n increases.</P>
+
+<P>&nbsp;</P>
+<B><P>State Vector Convergence</P>
+</B>
+<P>It should be noted that state vectors do not always converge as n increases.   </P>
+
+<P>For example:-</P>
+
+<P><img src="Image61.png"></P>
+
+<P>This system oscillates.</P>
+
+<P>&nbsp;</P>
+<B><P>Regular Transition Matrix</P>
+</B>
+<P>A transition matrix is regular if some integer power of it has all positive entries. (non zero).</P>
+
+<P>By considering regular transition matrices it can be shown that a limiting state vector is approached.</P>
+
+<B><P>&nbsp;</P>
+</B><P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

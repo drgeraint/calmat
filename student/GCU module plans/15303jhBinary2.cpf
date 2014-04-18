@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Binary Arithmetic</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Binary Operations</center></b><font size="--">
+<P>
+
+<br>Binary numbers can be added, subtracted, multiplied and divided.
+<P>
+<b>Examples</b>
+<P>
+Addition
+<P>
+<img src="Image6.png">
+<P>
+Subtraction
+<P>
+<img src="Image7.png">
+<P>
+Multiplication
+<P>
+<img src="Image8.png">
+<P>
+Division
+<P>
+<img src="Image9.png">
+<P>
+Try <a href="launch.htm#q0724">q0724</a>, <a href="launch.htm#q0725">q0725</a>, <a href="launch.htm#q0726">q0726</a> and <a href="launch.htm#q0727">q0727</a>.
+<P>
+It should be noted that binary multiplication by 2 is trivial, because we just need to shift the bits one place to the left and add a 0 at the end.
+<P>
+<img src="Image10.png">
+<P>
+In general, if we multiply by 2<sup>n</sup>, the bits are shifted n places to the left and trailing 0's are added.
+<P>
+Try <a href="launch.htm#q0728">q0728</a>.
+<P>
+Division by powers of two shifts the bits right.
+<P>This is the end of the second Binary Learning Plan.   Begin Binary 3.
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

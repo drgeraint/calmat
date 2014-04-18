@@ -1,0 +1,126 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 4</center></b>
+<P>
+<b><center>Functions in Computer Science</center></b><font size="--">
+<P>
+<FONT FACE="Arial"><P>Functions, which are relations with extra properties play an important role in both computing and mathematics.</P>
+
+<P>&nbsp;</P>
+<B><P>Absolute Function</P>
+</B>
+<P>f : R <FONT FACE="Symbol">&#174;</FONT>
+ R<SUP>+</SUP> is given by &#9;f(x) = |x|</P>
+
+<B><P>Examples </B>: &#9;|2| = 2,  |-2| = 2</P>
+
+<P>&nbsp;</P>
+<P>
+<P>&nbsp;</P>
+<B><P>Floor Function </B>or Greatest Integer Function</P>
+
+<P>f : R <FONT FACE="Symbol">&#174;</FONT>
+ Z is given by </P><DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<P>f(x) = <FONT FACE="Symbol">&#235;</FONT>
+x<FONT FACE="Symbol">&#251;</FONT>
+ : greatest integer less than or equal to x</P>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<B><P>Examples</B> : &#9; <FONT FACE="Symbol">&#235;</FONT>
+3.7<FONT FACE="Symbol">&#251;</FONT>
+ = 3,&#9; <FONT FACE="Symbol">&#235;</FONT>
+-2.4<FONT FACE="Symbol">&#251;</FONT>
+ = -3,&#9;<FONT FACE="Symbol">&#235;</FONT>
+4<FONT FACE="Symbol">&#251;</FONT>
+ = 4</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Ceiling Function</P>
+</B>
+<P>f : R <FONT FACE="Symbol">&#174;</FONT>
+ Z is given by</P>
+<P>&#9;&#9;&#9;&#9;f(x) = <FONT FACE="Symbol">&#233;</FONT>
+x<FONT FACE="Symbol">&#249;</FONT>
+ : least integer greater than or equal to x</P>
+
+<B><P>Examples</B>:&#9;<FONT FACE="Symbol">&#233;</FONT>
+3.7<FONT FACE="Symbol">&#249;</FONT>
+ = 4,&#9;<FONT FACE="Symbol">&#233;</FONT>
+-2.4<FONT FACE="Symbol">&#249;</FONT>
+ = -2,&#9;<FONT FACE="Symbol">&#233;</FONT>
+4<FONT FACE="Symbol">&#249;</FONT>
+ = 4,</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Signum Function</P>
+</B>
+<P>f : R <FONT FACE="Symbol">&#174;</FONT>
+ {-1, 0, 1} is given by</P>
+<P>&#9;&#9;&#9;&#9;&#9;f(x) = sgn(x) = &#9;+1, x &gt; 0</P>
+<P>&#9;&#9;&#9;&#9;&#9;f(x) = sgn(x) = &#9;0 , x = 0</P>
+<P>&#9;&#9;&#9;&#9;&#9;f(x) = sgn(x) = &#9;-1, x &lt; 0</P>
+
+<br>
+<B><P>Examples</B> :&#9;&#9;sgn(4) = 1,&#9;sgn(-3.41) = -1,&#9;sgn(0) = 0</P>
+
+<P>&nbsp;</P>
+Try <a href="launch.htm#q0453">q0453</a>,<a href="launch.htm#q0454">q0454</a> and <a href="launch.htm#q0455">q0455</a>.
+<P>&nbsp;</P>
+<B><P>Truncation Function</P>
+</B>
+<P>f : R <FONT FACE="Symbol">&#174;</FONT>
+ Z is given by</P>
+<P>&#9;&#9;&#9;&#9;f(x) = int(x)</P>
+
+<B><P>Examples</B> : &#9;int(3.12) = 3,&#9;int(-4.21) = -4</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>ASCII Function</P>
+</B>
+<P>f : {Character set } <FONT FACE="Symbol">&#174;</FONT>
+ {0, 1, ………..255} is given by</P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;f(x) = ASC(x)</P>
+
+<B><P>Examples </B>: &#9;ASC(‘Q’) = 81,&#9;&#9;ASC(&quot;CARRIAGE RETURN&quot;) = 13</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P>Character Function</B> (inverse function of ASCII)</P>
+
+<P>f: {0, 1, …….,255} <FONT FACE="Symbol">&#174;</FONT>
+ {character set} is given by</P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;f(x) = CHR$(x)</P>
+
+<B><P>Examples</B> : &#9;CHR$(65) = A,&#9;&#9;CHR$(81) = Q</P>
+
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

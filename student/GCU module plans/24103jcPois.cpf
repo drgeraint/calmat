@@ -1,0 +1,93 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2414</P>
+<P ALIGN="CENTER">Outcome:The Poisson Distribution</P>
+<P ALIGN="CENTER"></P></B>
+<FONT FACE="Comic Sans MS" SIZE=2>
+
+<P>One of the main applications of the Poisson Distribution is to describe the number of 'accidents' which occur in a certain time interval. (or length).
+<P>The word 'accident' is used in a number of ways e.g.
+<UL><UL><LI>accidents in timescale
+<LI>arrival rate at service point
+<LI>breakdown rate
+<LI>demand during a timescale (phone calls, sales)
+<LI>flaws in hosepipe per some length
+<LI>errors per page</UL></UL>
+<P>Let X be a random variable which denotes the number of times an event occurs, then the Poisson Distribution is given by:-
+<UL>Pr(X=x) = e<sup>-m</sup>m<sup>x</sup>/x!, x = 0,1,2,..... m>0
+<Br>where m is the average number of times a given event occurs.
+
+<Br>Note that it can be shown that the probabilities sum to 1. </UL>  
+<P><b>Theoretical Mean and Variance</b>
+<UL>mean = m and variance = m</UL>
+
+<P><b>Example</b>
+<Br>On average four customers arrive at a service point in any hour.   What is the probability that three customers arrive during an hour ?
+<Br><b>Solution</b>
+<UL>Here the arrival rate of customers is four per hour.   Set m = 4.
+<UL><BR>Now Pr(X=3) = e<sup>-m</sup>m<sup>x</sup>/x! , x = 3, m = 4
+<BR>= e<sup>-4</sup>4<sup>3</sup>/3!
+<Br> = 0.1954</UL></UL>
+
+<P><b>Example</b>
+<Br>The mean number of calls per hour received at a telephone switchboard is 5.   Assuming the number of calls has a Poisson Distribution , calculate the probability that:-
+<UL>a) in a particular hour 6 calls are received.
+<Br>b) more than half an hour elapses between successive calls.</UL>
+<P><b>Solution</b>
+<UL>Here, the mean number of calls per hour is 5.   Set m = 5.
+<UL>a) Pr(6 calls received per hour) 
+<Br>= Pr (X=6) = e<sup>-m</sup>m<sup>x</sup>/x!, x = 6, m = 5
+<Br>= e<sup>-5</sup>5<sup>6</sup>/6! = 0.1462 </UL></UL>
+<P>b) More than half hour elapses between successive calls.
+<UL>Now we need to consider 1/2 hourly periods.   Set m = 2.5 (per 1/2 hour).
+<UL>For <b>no</b>calls during 1/2 hour period  we want want
+<Br>Pr(X=0) = e<sup>-m</sup>m<sup>x</sup>/x!, x = 0, m = 2.5
+<Br> = 0.08208</UL></UL>
+
+<P>Try <a href="launch.htm#q0568">q0568</a> and <a href="launch.htm#q0569">q0569</a>.
+
+<P><b>Example</b>
+<BR>Customers arrive at a complaints desk at an average rate of 2 per hour.   Calculate the probability that:-
+<UL>a) three hours pass with no complaints
+<Br>b) more than two complaints arrive within a given 15 minute period.</UL>
+<Br><b>Solution</b>
+<UL>a) Consider a three hour period here.   In three hours we would expect 6 complaints.   <BR>Set m= 6.
+<UL>Pr (X=0) = e<sup>-m</sup>m<sup>x</sup>/x!, x = 0, m = 6
+<Br>= e<sup>-6</sup> 
+<Br>= 0.002479</UL></UL>
+<UL>b) Now consider a 15 minute period.   Set m= 1/2.
+<UL>Pr(more than two complaints) 
+<Br>= Pr(X>2) 
+<Br>= Pr(x=3) + Pr(X=4) + Pr(x=5) + ........
+<Br>= 1 - (Pr(X=0) + Pr(X=1) + Pr(X=2)) 
+<Br>= 0.01439</UL></UL>
+
+<P>Now try the following examples, <a href="launch.htm#q0570">q0570</a>, <a href="launch.htm#q0571">q0571</a>, <a href="launch.htm#q0572">q0572</a> and <a href="launch.htm#q0573">q0573</a>.
+
+<P><b>Recursion</b>:This provides a quicker way to calculate successive values.
+
+<Br>Now
+<UL>Pr(X=n) = e<sup>-m</sup>m<sup>n</sup>/n!
+<Br>=e<sup>-m</sup>m<sup>n-1</sup>/[(n-1)!]x m/n
+<Br>= (m/n)Pr(X =n-1)
+
+<Br>Hence Pr(X=n) = (m/n)Pr(X=n-1)</UL>
+
+<b>Example</b>
+<UL><Br>If m = 2; 
+<BR>Pr(X=1) = e<sup>-2</sup>2<sup>1</sup>/1! = 0.27067
+<Br>therefore Pr(X=2) =  (2/2)(Pr(X=1)) =  (2/2)(0.27067) = 0.27067 
+<Br>Pr(X=3) = (2/3)(Pr(X=2)) = (2/3)(0.27067) = 0.18047
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

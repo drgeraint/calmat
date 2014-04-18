@@ -1,0 +1,102 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Functions Learning Plan 5</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Functions Learning Plan 5</P>
+</B><P ALIGN="CENTER">Logarithmic Functions</P>
+</FONT><FONT FACE="Arial"><P ALIGN="CENTER"></P>
+<P>While working on Logarithmic functions it may be helpful to refer to the notes titled ‘Review of Indices’ pages 4-8.</P>
+
+<B><P>Definition</P>
+
+</B><P>A logarithm is defined in terms of a variable (x) and a base (a).</P>
+
+<P>‘The logarithm of x to the base a is the power to which a must be raised in order to equal x.   This is written as log<SUB>a</SUB>(x) : the logarithm of x to the base a.</P>
+
+<P>This definition may become clearer by studying the relationships below:</P>
+
+<P>log<SUB>2</SUB>8 = 3&#9;&#9;since 2<SUP>3 </SUP>= 8</P>
+<P>log<SUB>10</SUB>10000 = 4 &#9;since 10<SUP>4</SUP> = 10000</P>
+<P>log<SUB>5</SUB>25 = 2&#9;&#9;since 5<SUP>2</SUP> = 25</P>
+
+<P>In the examples above the x values and the bases were chosen so that the logarithms could be calculated by simple arithmetic.   Normally logs to the base of 10 or natural logarithms (base e = 2.7182….) are chosen as they can both be evaluated by calculator.</P>
+
+<P>The logarithmic function is said to be the inverse of the exponential function.</P>
+<P>As is the case with functions and their inverses the graph of y = log<SUB>2</SUB>x is the reflection of y = 2<SUP>x</SUP> in the line y = x. </P>
+<B>
+<P>Note</P>
+</B><P>(i)</P>
+<P ALIGN="CENTER">log<SUB>a</SUB>1 = 0 since a<SUP>0</SUP> = 1</P>
+
+<P>Remembering that any base to the power of zero is always 1 means the logarithm of 1 to any base is always 0.</P>
+
+<P>(ii)The logarithm of 0 and all negative numbers is undefined since it is not possible to raise a positive base to a power and produce a result which is 0 or negative. </P>
+
+<P>However it is possible that the logarithm itself could be negative.   It is the logarithm of a negative value which is not possible.</P>
+
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 16 d -1~?">2-16 section d</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 16 e~?">section e</a>.   Try <a href="launch.htm#q0679">q0679</a> and <a href="launch.htm#q0399">q0399</a>.   Complete <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 c -1~?">2-18 section c</a>. </P>
+
+<P>&nbsp;</P>
+<B><P>Laws of Logarithms</P>
+
+</B><P>There are rules for manipulating logarithms which as we would expect are no more than a modification of the rules for manipulating indices.   Study the rules in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 d 1~?">2-18 section d</a>.  Try <a href="launch.htm#q0677">q0677</a>,<a href="launch.htm#q0642">q0642</a>, <a href="launch.htm#q0676">q0676</a> and <a href="launch.htm#q0400">q0400</a>.  These rules are also given on page 5 of your notes.</P>
+
+<B><P>Exponential Equations</P>
+</B>
+<P>The main use you will make of logarithms is in solving exponential equations when the <B>unknown variable</B> is in the <B>power</B>.</P>
+
+<P>Solve the exponential equations in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 a -1~?">2-19 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 b -1~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 c -1~?">section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 d~?">section d</a>.   Try <a href="launch.htm#q0028">q0028</a> and <a href="launch.htm#q0380">q0380</a>.</P>
+
+<B><P>Example</P>
+
+</B><P>A sum of £1500 is invested at an annual interest rate of 10% per annum.   How long will the sum take to double?</P>
+
+<P>Let A<SUB>0</SUB> denote the initial capital, A<SUB>t</SUB> denote the value of the investment after t years and r% denote the annual interest rate.</P>
+
+<P>It can be shown that &#9;A<SUB>t</SUB> = A<SUB>0</SUB>(1 + r/100)<SUP>t</P>
+</SUP>
+<P>We are interested in finding the value of t when A<SUB>t</SUB> = 2 x £1500 = £3000 therefore we are required to solve:</P>
+
+<P ALIGN="CENTER">3000 = A<SUB>0</SUB>(1 + r/100)<SUP>t</P>
+</SUP><P ALIGN="CENTER">substituting for A<SUB>0</SUB> and r gives</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">3000 = 1500(1 + 10/100)<SUP>t</P>
+</SUP><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ 3000 = 1500(1 + 0.1)<SUP>t</P>
+</SUP><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ 3000 = 1500 x (1.1)<SUP>t</P>
+</SUP><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ 3000/1500 = (1.1)<SUP>t</P>
+</SUP><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ 2 = (1.1)<SUP>t</P>
+</SUP><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ (1.1)<SUP>t</SUP> = 2</P>
+<P ALIGN="CENTER">taking log<SUB>10</SUB> on both sides gives</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">log<SUB>10</SUB>(1.1)<SUP>t</SUP> = log<SUB>10</SUB>(2)</P>
+<P ALIGN="CENTER">t log<SUB>10</SUB>(1.1) = log<SUB>10</SUB>(2)</P>
+<P ALIGN="CENTER">t = log<SUB>10</SUB>(2)/log<SUB>10</SUB>(1.1)</P>
+<P ALIGN="CENTER">t = 0.301/0.041 (from the calculator)</P>
+<P ALIGN="CENTER">t = 7.34</P>
+<P ALIGN="CENTER"></P>
+<P>It would therefore take just over 7 years for the money invested to double.</P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

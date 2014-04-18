@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Net Present Values Learning Plan 2</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Net Present Values Learning Plan 2</P>
+<P ALIGN="CENTER">Annuities</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Net Present Values'.</P>
+
+<B><P>Annuity</P>
+
+</B><P>An annuity is an arrangement whereby a fixed sum is paid in exchange for regular amounts to be received at fixed intervals for a specified time.   Such schemes are usually offered by insurance companies and are particularly attractive to retired people.</P>
+
+<P>Study the example on pages 4 and 5 of your notes.   Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 5 f~?">3-5 section f</a>.   Try <a href="launch.htm#q0215">q0215</a>.</P>
+
+<B><P>Perpetuity</P>
+
+</B><P>A perpetuity is a special case of an annuity which never stops providing the income.  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 5 h~?">3-5 section h</a> may be helpful.   Consider the example on page 6 of your notes.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

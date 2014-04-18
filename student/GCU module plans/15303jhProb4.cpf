@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Probability</center></b>
+<b><font size="+1"><center>Learning Plan 4</center></b>
+<P>
+<b><center>Independent, Dependent and Joint Events</center></b><font size="--">
+<P><b>Independent Event</b>
+<P>Two events E<sub>1</sub> and  E<sub>2 </sub> are said to be independent if the outcome of one event has no effect on the outcome of the other.
+<P>Here, Pr(E<sub>1</sub> | E<sub>2 </sub>) = Pr(E<sub>1</sub>), that is, the event  E<sub>2 </sub> has no effect on  E<sub>1</sub>.
+<P><b>Example</b>
+<P>A die has just been tossed and it is a six.   What is the probability that the next throw will be a six ?
+<P>Given that the die is fair, what has happened on the previous throws will have no effect on the next throw.
+<P>Hence, Pr(next throw is a six) = 1/6.
+<P><b>Dependent Event</b>
+<P>Two events  E<sub>1</sub> and  E<sub>2 </sub> are said to be dependent if the outcome of one event effects the outcome of the other.
+<P><b>Example</b>
+<P>From a group of 10 people, 5 men and 5 women, the Pr(selecting a man) = 5/10 = 1/2.
+<P>If a second person is selected from the remaining 9 people then the probabilities will depend on the first selection.
+<P>If a man was selected first time then
+<P>Pr(second person is man) = 4/9
+<P>Pr(second person is woman) = 5/9
+<P>Also, if a woman was selected first time then
+<P>Pr(second person is man) = 5/9
+<P>Pr(second person is woman) = 4/9
+<P><b>Joint Event</b>
+<P>The probability of the joint event (E<sub>1</sub> and  E<sub>2 </sub>) can be obtained from
+<P>Pr(E<sub>1</sub>| E<sub>2 </sub>) = Pr(E<sub>1</sub> and  E<sub>2 </sub>)/Pr( E<sub>2 </sub>)
+<P>=> Pr(E<sub>1</sub> and E<sub>2</sub>) = Pr( E<sub>2 </sub>)Pr( E<sub>1 </sub>| E<sub>2 </sub>)
+<P>Also Pr(E<sub>1</sub> and  E<sub>2</sub>) = Pr( E<sub>1 </sub>)Pr( E<sub>2 </sub>| E<sub>1 </sub>)
+<P>Whilst these relationships apply to both dependent and independent events, if the events are independent then
+<P>Pr(E<sub>1</sub> |  E<sub>2</sub>) = Pr( E<sub>1 </sub>),  so that the above relationship simplifies to
+<P>Pr(E<sub>1</sub> and  E<sub>2</sub>) = Pr(E<sub>1 </sub>)Pr(E<sub>2 </sub>).
+<P>Try  
+<a href="launch.htm#q0749">q0749</a>, <a href="launch.htm#q0534">q0534</a> and <a href="launch.htm#q0742">q0742</a>.
+<P><P><b>Example</b>
+<P>What is the probability of drawing two aces (without replacement) from  pack of well shuffled cards ?
+<P><b>Solution</b>
+<P>Let event E<sub>1</sub> = draw ace on first card
+<P>Let event E<sub>2</sub> = draw ace on second card
+<P>Here Pr(E<sub>1</sub> and  E<sub>2</sub>) = Pr( E<sub>1</sub>)Pr(E<sub>2</sub>|E<sub>1</sub>) = (4/52)(3/51) = 3/663 = 1/221
+<P>Try <a href="launch.htm#q0536">q0536</a>, <a href="launch.htm#q0535">q0535</a> and <a href="launch.htm#q0750">q0750</a>.
+<br>
+<P>Finally work through <a href="launch.htm#q0734">q0734</a>. 
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

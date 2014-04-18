@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Mathematics and Structures BNEC2103</P>
+<P ALIGN="CENTER">Outcome:Integration</P>
+<P ALIGN="CENTER"></P>
+<FONT FACE="Comic Sans MS" SIZE=2>
+<LI><b>Integrate functions reducible to the sum of powers of x:</b>
+<UL>
+
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 a~?">Level Two, Lesson 38, Section a</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 b~?">Level Two, Lesson 38, section b,</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 c -1~?">Level Two, Lesson 38, Section c,</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 d -1~?">Level Two, Lesson 38, Section d,</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 e -1~?">Level Two, Lesson 38, Section e,</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 f -1~?">Level Two, Lesson 38, Section f,</a><Br>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 g -1~?">Level Two, Lesson 38, Section g,</a><Br> 
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 38 h -1~?">Level Two, Lesson 38, Section h,</a><Br></UL>
+ and then try questions
+<UL><a href="launch.htm#q0539"> q0539</a>, <a href="launch.htm#q0070"> q0070</a></UL>.
+
+<LI> <b>Area under a curve</b> 
+<UL>
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 40~?">Level Two, Lesson 40</a> </UL>
+<br> and then try questions <a href="launch.htm#q0632"> q0632</a> <a href="launch.htm#q0049"> q0049</a>,<a href="launch.htm#q0064"> q0064</a>, <a href="launch.htm#q0638"> q0638</a></UL>
+
+<LI><b>Integration of  f(x) = (ax + b)<sup>n</sup></b>   
+<UL><a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 38 i~?">Lesson 2-38 section i</a>,  <a href="launch.htm#q0641">q0641</a></UL>
+<P>
+<LI><b>Integration of  f(x) = (ax + b)<sup>n</sup>  (n negative or fractional) </b>
+<UL><a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 38 j~?">Lesson 2-38 section j</a></UL>
+<P>
+<LI><b>Functions reducible to  f(x) = (ax + b)<sup>n</sup></b>   
+<UL><a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 38 k~?">Lesson 2-38 section k</a></UL>
+
+
+<LI><b>Integration of trigonometrical functions</b>: Level 2 Lesson 39  
+<UL>
+
+<LI><b>Integration of sin(x) and cos(x) </b> <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 39 a~?">2-39 section a</a>,  <a href="launch.htm#q0639">q0639</a>
+
+<LI><b>Integration of sin(ax) and cos(ax) </b> <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 39 b~?">2-39 section b</a>
+
+<LI><b>Integration of psin(qx+r) and pcos(qx+r)</b>  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 39 c~?">2-39 section c</a>,   <a href="launch.htm#q0153">q0153</a></UL>
+
+<LI><b>Area under a trigonometric curve</b>  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 39 d~?">2-39 section d</a>,  <a href="launch.htm#q0156">q0156</a></UL>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

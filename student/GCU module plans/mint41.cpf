@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font size="+4"><font face="Arial">
+Multiple Integration - Basics; some harder examples.
+<br>
+<p><font size="+2">
+<P>
+Recognising that iterated integrals can be treated as a sequence of 
+simple integrals means that the student can apply the various 
+integration techniques that they have already learned. <p>
+
+The following examples use direct substitution:<p>
+<a href="launch.htm#q0901">Question 1</a><Br>
+
+<a href="launch.htm#q0898">Question 2</a><p>
+
+<br>The next example can be done by substitution as we did in question 1,
+or, through a knowledge of the basic trig integrals.
+If you are unsure how to approach the next example try the '?'.<p>
+
+
+
+<a href="launch.htm#q0905">question 3</a><Br>
+
+<p>
+If you wish to revise trig integration then
+<a href="runcal.htm#== //?~ 0 2 39~?">Click here</a><p>
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

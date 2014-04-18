@@ -1,0 +1,98 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Functions Learning Plan 4</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Functions Learning Plan 4</P>
+<P ALIGN="CENTER">Exponential Functions</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Functions’.</P>
+
+<P>In the linear, quadratic and power functions which have previously been discussed the variable x has been the base to which the constant powers (or exponents) have been applied.</P>
+
+<B><P>Exponential Functions</P>
+
+</B><P>An exponential function reverses this process and uses the variable as the power (exponent) to be applied to a constant base.   e.g.</P>
+
+<P ALIGN="CENTER">f(x) = x<SUP>3</SUP> is a power function</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">g(x) = 3<SUP>x</SUP> is an exponential function.</P>
+<P ALIGN="CENTER"></P>
+<P>The general form of an exponential function is </P>
+
+<P ALIGN="CENTER">f(x) = a<SUP>x</P>
+</SUP><P>When a&gt;1 the graph is that of a rising curve which passes through (0,1).   This is often called an exponential <B>growth</B> curve.</P>
+
+<P><img src="image98.png"></P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>When 0&lt;a&lt;1 the graph is that of a falling curve which passes through (0,1).   This is often called an exponential <B>decay </B>curve.</P>
+
+<P><img src="image99.png"></P>
+
+<P>&nbsp;</P>
+<P>Study the graph given on page 14 of your notes.</P>
+<P>To find out more about exponential functions work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 16 b~?">2-16 section b</a>.</P>
+<B><P>The Exponential Function</P>
+
+</B><P>We have denoted the base of an exponential function by a but there is a special case in which the value of a is taken as 2.7182….   This number is known as <B>e </B>and possesses a number of remarkable properties that are of particular use in modelling.</P>
+
+<P>The form of <B>the</B> exponential function is y = e<SUP>x</SUP>.</P>
+
+<P>This function is just a special case of the functions discussed above therefore all the previous statements still hold true for y = e<SUP>x</SUP>.</P>
+
+<P>Spend time considering the exponential function in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 17 d~?">2-17 section d</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 17 e~?">section e</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 17 f~?">section f</a>.</P>
+
+<B><P>Example</P>
+
+</B><P>A firm’s accountant has estimated that the value (v) of any assets that the company purchases, depreciates over time (t) in accordance with:</P>
+
+<P ALIGN="CENTER">v = pe<SUP>-0.2t</P>
+</SUP><P>where p is the purchase value of the asset  i.e. v = p when t =0.</P>
+
+<P>Estimate the value of an asset which was purchased for £50,000, 6 years ago.</P>
+
+<P>(Notice v = pe<SUP>-0.2t</SUP> is an exponential decay function as it could be written  </P>
+<P>v = p(1/e)<SUP>0.2t</SUP>.   Now it is clear to see that the value of the base is 1/e = 0.3678….  which is less than 1.   This is consistent with what we would expect as the value of the asset will decrease (decay) over time.)</P>
+<P> </P>
+<B><P>Solution</P>
+
+</B><P>Here p = 50000 and t = 6</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ v = 50000e<SUP>(-0.2 x 6)</P>
+</SUP><P><FONT FACE="Symbol">&#222;</FONT>
+ v = 50000 x 0.301</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ v = 15050</P>
+
+<P>Hence after 6 years this asset will be worth £15,050.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+
+</B><P>The sum of P is invested for t years at an interest rate of r% per annum.   The value of the sum after t years, A(t), is given by the exponential function</P>
+
+<P ALIGN="CENTER">A(t) = P(1 + r/100)<SUP>t</P>
+</SUP>
+<P>Since (1 + r/100) is greater than 1 this is an exponential growth function.   As we would expect A(t) will increase as time passes. </P>
+<P ALIGN="CENTER"></P>
+<P>More thought will be given later in the semester to examples like the one above.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

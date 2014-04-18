@@ -1,0 +1,131 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebraic Series</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebraic Series Learning Plan 1</P>
+<P ALIGN="CENTER">Arithmetic Series</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you should be referring to your lecture notes titled ‘Arithmetic Progressions’.</P>
+
+<P>Sometimes we are interested not with a single number, but with a series of observations.   We might be interested in how the sales made by a company has changed over some period.   The monthly sales figures ( in thousands of £) may form a sequence of numbers, like:</P>
+
+<P ALIGN="CENTER">21, 24, 26, 32, 37, 45, 49,</P>
+<P ALIGN="CENTER"></P>
+<P>This is a sequence of numbers.   If the numbers in the sequence follow some distinct pattern, they are called a series (or progression).</P>
+
+<P>One of the main types of series is:</P>
+
+<B><P>Arithmetic Series (Progression)</P>
+
+</B><P>In an arithmetic series each number is larger (or smaller) than the previous number by a fixed amount e.g.</P>
+
+<P ALIGN="CENTER">12, 17, 22, 27, 32,…….</P>
+<P ALIGN="CENTER"></P>
+<P>The initial term is labelled a, here a = 12 and the common difference between the terms is d, here d = 5. </P>
+
+<P>Consider the arithmetic series</P>
+
+<P ALIGN="CENTER">10, 8, 6, 4, 2, 0, -2, -4 …..</P>
+<P ALIGN="CENTER"></P>
+<P>Here a = 10 and d= -2.</P>
+
+<B><P>nth term</P>
+</B>
+<P>As stated above, the initial term is a and the common difference between terms is d.   Furthermore the number of terms in the series is denoted n and the nth term in the series by t<SUB>n</SUB>.   (Sometimes u<SUB>n</SUB> is used to denote the nth term.)</P>
+
+<P>In general an arithmetic series can be described as,</P>
+
+<P>a,   a+ d,   a + 2d,   a + 3d,…….. hence the nth term, <B>t<SUB>n</SUB> = a + (n-1)d</B>.</P>
+
+<B><P>Example</P>
+
+</B><P>Reconsider the series above</P>
+
+<P ALIGN="CENTER">12, 17, 22, 27, 32,…….</P>
+<P>Here a = 12 and d= 5.   We know t<SUB>3</SUB>, the third term, is 22.   Check using the formula.</P>
+
+<P ALIGN="CENTER">t<SUB>n</SUB> = a + (n -1)d</P>
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>3</SUB> = 12 + (3 -1)5</P>
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>3</SUB> = 12 + 10</P>
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+t<SUB>3</SUB> = 22 as expected</P>
+
+<P>Using this formula means we can calculate the value of any term without having to evaluate all the previous ones.</P>
+<B>
+</B><P>Read pages 1 and 2 of your notes.  </P>
+<B>
+<P>Sum of n terms</P>
+</B>
+<P>It is often useful to be able to find the total of a number of terms e.g the sum of the first four terms of the series above is </P>
+
+<P ALIGN="CENTER">12 + 17 + 22 + 27 = 78</P>
+<P ALIGN="CENTER"></P>
+<P>It can be shown that the sum of the first n terms of an arithmetic series is:</P>
+
+<B><P ALIGN="CENTER">S<SUB>n </SUB>= n/2(2a + (n-1)d)</P>
+
+</B><P>Check using this formula that the sum of the first four terms above is in fact 78. </P>
+
+<P>n = 4, a = 12 and d= 5</P>
+
+<B><P ALIGN="CENTER">S<SUB>n </SUB>= n/2(2a + (n-1)d)</P>
+</B><P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>4</SUB> = 4/2(2(12) + (4 -1)5)</P>
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>4</SUB> = 2( 24 + 15)</P>
+<P ALIGN="CENTER"><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>4</SUB> = 78 as expected</P>
+
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 1 d~?">3-1 section d</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 1 e~?">section e</a>.   Read pages 3 – 6 of your notes.   Try <a href="launch.htm#q0208">q0208</a>, <a href="launch.htm#q0188">q0188</a> and <a href="launch.htm#q0187">q0187</a>.</P>
+
+<B><P>Example</P>
+</B>
+<P>On joining my company 6 years ago my contract stated my initial salary would be £17,000 with an annual increment of £800.</P>
+
+<OL TYPE="i">
+
+<LI>Calculate my salary at present.</LI>
+<LI>How much have I earned in total over my 6 years employment ?</LI></OL>
+
+<br>
+<P>(i) My salary is an arithmetic series with a = 17,000 and d = 800. Salary in the nth year is calculate as t<SUB>n</SUB> = a + (n -1)d.</P>
+
+<P>Hence t<SUB>6</SUB> = 17000 + (6 -1)(800)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>6 </SUB>= 17000 + 4000</P>
+<P> <FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>6</SUB> = 21000</P>
+
+<P>My salary at present is £21,000.</P>
+
+<P>(ii) My total salary over n years is S<SUB>n </SUB>= n/2(2a + (n-1)d).</P>
+
+<P>Hence S<SUB>6</SUB> = 6/2(2(17000) + (6 – 1)(800))</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>6</SUB> = 3(34000 + 4000)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+S<SUB>6</SUB> = 114000</P>
+
+<P>Over my 6 years employment I have earned £114,000.</P>
+</FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

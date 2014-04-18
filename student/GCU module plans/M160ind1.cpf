@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Indices(Powers) Learning Plan 1</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Ind</FONT><FONT FACE="Arial" SIZE=5>ices(Powers) Learning Plan 1</P>
+<P ALIGN="CENTER">Notation &amp; Rules</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you may find it helpful to refer to the lecture notes titled ‘Review of Indices’.</P>
+
+<P>&nbsp;</P>
+<P>When  multiplying the same quantity together several times, it is much more convenient to use powers rather than to write that quantity down each time, thus:</P>
+<P ALIGN="CENTER">3 x 3 = 3<SUP>2</SUP> = 9</P>
+<P ALIGN="CENTER">a x a = a<SUP>2</SUP> = a squared</P>
+<P ALIGN="CENTER">b x b x b = b<SUP>3</SUP> = b cubed</P>
+
+<P>Remind yourself how to manipulate quantities raised to powers in <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 a~?">1-14 section a</a>,<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 b -1~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 14 c -1~?">section c</a>.   Ensure you understand the Multiplication, Division and Power Rules.</P>
+
+<P>Practise applying the Multiplication Rule in <a href="launch.htm#q0385">q0385</a>, <a href="launch.htm#q0388">q0388</a>, <a href="launch.htm#q0392">q0392</a>, <a href="launch.htm#q0605">q0605</a>, <a href="launch.htm#q0606">q0606</a>, <a href="launch.htm#q0032">q0032</a> and <a href="launch.htm#q0590">q0590</a>.   Use the Division Rule in <a href="launch.htm#q0390">q0390</a>, <a href="launch.htm#q0391">q0391</a> and <a href="launch.htm#q0386">q0386</a>.   Finally apply the Power Rule in <a href="launch.htm#q0389">q0389</a>, <a href="launch.htm#q0591">q0591</a>,<a href="launch.htm#q0649">q0649</a> and <a href="launch.htm#q0387">q0387</a>.</P>
+
+<P>Indices or powers are used to make many business problems easier.   Consider the situation where you have £150 in the bank earning 8% interest.</P>
+
+<P>At the end of the 1<SUP>st</SUP> Year you would have 150 + 150 x 0.08 = 150 x 1.08<SUP>1</P>
+</SUP><P>At the end of the 2<SUP>nd</SUP> Year you would have 150 x 1.08<SUP>2</SUP> </P>
+<P>At the end of the 3<SUP>rd</SUP> Year you would have 150 x 1.08<SUP>3</P>
+<P>.&#9;&#9;.</P>
+<P>.</P>
+<P>.</P>
+<P>.</P>
+</SUP><P>At the end of the nth Year you would have 150 x 1.08<SUP>n</P>
+</SUP>
+<P>You may need to ask for help explaining this simplication however we will look in more detail at this result later in the semester.</P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,96 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<font face="Arial">
+<b><font size="+2"><center>Vectors and Matrices</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Addition, Subtraction And Multiplication of Matrices</center></b><font size="--">
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<br>
+<P>A <b>matrix</b>, plural <b>matrices</b> is a <b>rectangular</b> or <b>two dimensional array</b> of numbers. We use capital letters for matrices, ie A, B...
+<LI> The horizontal lists of numbers in the array are called <b>rows</b>.
+<LI> The vertical lists of numbers in the array are called <b>columns</b>.
+<LI>If a matrix has m rows and n columns we say the its size is m by n, we sometimes write mxn.  
+<br>
+Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 b 0~?">3-9 section b</a>.
+<LI> Each number, called an  <b>element</b>, in the array is given a double subscript, the first subscript representing the row and the second subscript representing the column. 
+<br>
+<P>That is, a<sub>ij</sub> represents the element in the ith row and the jth column. It is called the <b> (ij)th  element or entry</b> of the matrix. 
+<LI> If a matrix is denoted  A, then its entries are denoted by  lower case letter a. The shorthand form
+<br> A =(a)<sub>ij</sub> is often used.
+<br>
+ Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 c 0~?">3-9 section c</a>. 
+<LI>Make sure you understand this fully before you proceed.
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<SECTION25> Do <a href="launch.htm#q0241">q0241</a> as often as necessary until you always get the question correct.<HR>
+
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI> A<sup>T</sup> is formed by writing the rows of A, in order, as the columns of  A<sup>T</sup>. 
+<br>
+Do  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 d 0~?">3-9 section d</a>. <i>
+ You should now be able to do problems 5.11, 5.12, 5.13, 5.47 in the text.</i>
+<LI> Two matrices, A and B, of the same size can be added by adding the corresponding entries, and we denote the sum as <b> A + B</b>. 
+<LI> The product of a scalar k and a matrix A is the matrix <b>kA</b> whose (ij)th element is <b>ka<sub>ij</sub></b>, where  a<sub>ij</sub> is the (ij)th entry of A.  Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 f~?">3-9 section f</a>.
+<LI> If k = -1, then (-1)A is written <b> -A </b>. Its (ij)th element is <b>-a<sub>ij</sub></b>, where  a<sub>ij</sub> is the (ij)th entry of A.
+<LI>  For two matrices of the same size A - B = A + (-B).   Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 e 0~?">3-9 section e</a>.
+<LI> Note that all the elements in the matrix A - A are equal to 0 . A matrix with all elements equal to zero is called the <b>zero matrix</b>.
+<br>
+<LI> A matrix with the number of rows equal to the number of columns is called a <b>square</b> matrix. If the number of rows and columns equals n, the matrix is said to have <b>order n</b>.
+<LI> The <b>diagonal of a square matrix </b> A =(a<sub>ij</sub>) of order n consists of  the elements a<sub>11</sub>, a<sub>22</sub>...a<sub>nn</sub>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Do <i>problems 5.7, 5.8, 5.9, 5.16,5.17, 5.19, 5.44, 5.49 from the text book </i>. 
+<LI>A square matrix in which the off diagonal elements are all equal to zero is called a <b>diagonal matrix.</b> The most useful diagonal matrix is the <b>identity matrix</b>, <font face="Times New Roman">I<sub>n</sub></font> all of whose entries are equal to 1. There are diagonal matrices of every order.
+<LI>A triangular matrix is one in which a<sub>ij</sub> = 0 if i>j.
+<br>
+<HR>
+
+</td></tr></table><table border=0 width="98%" align=center><tr><td>
+<LI> The product of two matrices A and B is only possible if the <b> number of columns of A is equal to the number of rows of B</b>.  This means that if A is an m by n matrix and B is an r by s matrix, the product AB is only possible if n = r.
+<br> Make sure you understand this by doing  
+<a href="launch.htm#q0381"> q0381</a>,<a href="launch.htm#q0243"> q0243</a> and 3-9 <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 9 g 0~?">section g</a>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>If A is an m by n matrix and B is an n by s matrix, the (ij)th element of the product AB is the dot product of the ith row of A by the jth column of B.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+This is very important. Do not go on to Learning Plan 3 until you have done TASMAT questions  <a href="launch.htm#q0382"> q0382</a> and <a href="launch.htm#q0260">q0260</a> and<i> problems 5.14, 5.17, 5.20, 5.45, 5.46, 5.47, 5.48, 5.50, 5.51, 5.52 from the textbook.</i>
+
+<br>
+
+<LI>Note the matrix multiplication is not commutative. Look at  <a href="launch.htm#q0253"> q0253</a> and <a href="launch.htm#q0254">q0254</a>
+<HR>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>These problems will test whether you have really understood the material in this Learning Plan. <i>Look at Example 5.8, page 109, and then do Problems 5.21, 5.53, 5.55, 5.56 from the text book</i>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<br>
+
+<br>
+
+<b>This completes Learning Plan 2 for Vectors and Matrices</b>.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

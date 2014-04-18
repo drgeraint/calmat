@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Probability</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Probability</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 7</B> attempt the material in <B>this</B> Learning Plan. </P>
+<B>
+</B><P>The <B>TAS questions</B> mentioned in <B>this plan</B> form the <B>bank of questions</B> from which the questions for <B>Test 7</B> are chosen.</P>
+<P ALIGN="CENTER"></P>
+<P>The lecture notes referred to in this Learning Plan are <B>Chapter 3 ‘Probability’</B>. </P>
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Introduction</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B>
+<P>Begin in lesson 1-49: <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 a~?">section a</a>,
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 b~?">section b</a>,
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 c 0~?">section c</a>,
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 d~?">section d</a>,
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 e 0~?">section e</a>, and
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 49 f~?">section f</a>.
+Two definitions of probability are given in your lecture notes on page 2 with terminology detailed on page 3.   Work through the example given on page 4.</P>
+
+<P>Try <a href="launch.htm#q0530">q0530</a>, <a href="launch.htm#q0428">q0428</a> and <a href="launch.htm#q0533">q0533</a>.</P>
+
+<P>Further definitions can be found in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 a~?">3-7 section a</a>.  Work on the examples in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 b 0~?"> section b</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Experimental Probability</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>Experimental probability is discussed in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 c 0~?">3-7 section c</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Tree Diagrams</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B>
+<P>The random experiments you have dealt with so far have involved a single action i.e. you tossed a coin or threw a die.   How do we deal with more than one coin or die?   It can be difficult to find the sample space -  a<B> tree diagram</B> can be helpful.   Consider <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 d 0~?">3-7 section d</a>.</P>
+
+<P>Try <a href="launch.htm#q0745">q0745</a> and <a href="launch.htm#q0737">q0737</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Mutually Exclusive Events</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>For two events A and B it is sometimes the case that the occurrence of one excludes the possibility of the other i.e. if A occurs then B cannot and vice versa.   We say A and B are <B>mutually exclusive</B>.   Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 f 0~?">3-7 section f</a>.</P>
+
+<P>Read the <B>Law of Complements</B> given on page 25 of your lecture notes.   Try <a href="launch.htm#q0562">q0562</a>.    Details of Mutually Exclusive events are given on page 28.   Try <a href="launch.htm#q0743">q0743</a>, <a href="launch.htm#q0744">q0744</a>, <a href="launch.htm#q0746">q0746</a> and <a href="launch.htm#q0747">q0747</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Independent Events</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>For some events A, B the fact that A has occurred has no effect on the probability of B and vice versa.   Such events are called <B>independent </B>events.   Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 7 g 0~?">3-7 section g</a>.   Now consider Example 5 on page 27 of your lecture notes.   Finally try <a href="launch.htm#q0742">q0742</a>, <a href="launch.htm#q0735">q0735</a>, <a href="launch.htm#q0534">q0534</a> and <a href="launch.htm#q0734">q0734</a>.  </P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>There is <B>no</B> Minitab Lab associated with this Learning Plan.</P>
+
+<P>&nbsp;</P>
+<P>This is the end of the Learning Plan on Probability.</P>
+
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

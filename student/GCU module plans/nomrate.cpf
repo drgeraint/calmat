@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Time Value of Money</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Time Value of Money Learning Plan 4</P>
+<P ALIGN="CENTER">Nominal Rate of Interest</P>
+</B></FONT><FONT FACE="Arial">
+<P>While working through this plan you should be referring to your lecture notes titled ‘Time Value of Money’.</P>
+
+<P>It is common financial practice to express rates of interest as rates per annum and sometimes a rate is stated as such a percentage per annum, even thought the interest is paid more frequently than once per year.</P>
+
+<P>Consequently, an effective rate of 4.4031% per half year might be expressed as a rate of 8.8062% per annum, payable half yearly (convertible half yearly).</P>
+
+<P>The rate stated at 8.8062% is not an effective rate, it is a rate of interest in name only, and for this reason it is called a nominal rate of interest.   In this case the true (or effective) rate of interest is actually 9% per annum.   Calculations are given in your notes page 10.</P>
+
+<P>Credit card statements can give the effective rate of interest as 2% per month or 24% per annum, payable monthly.   This 24% is a nominal rate for the true rate of interest is ((1.02)<SUP>12</SUP> –1) = 26.82%.</P>
+
+<P>The Annual Percentage Rate (APR) is the effective rate of interest per annum.</P>
+
+<P>Spend time on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 2 d~?">3-2 section d</a>.   Try <a href="launch.htm#q0240">q0240</a>.</P>
+</FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

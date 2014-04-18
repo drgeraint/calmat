@@ -1,0 +1,222 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Inverse Functions</center></b><font size="--">
+<P>
+<B><FONT FACE="Arial"><P>One To One, Onto and Invertible Functions</P>
+</B>
+<P>A function f : A <FONT FACE="Symbol">&#174;</FONT>
+ B is called <B>one-to-one</B>,  or <B>injective</B>,  if each element of B appears at most once as the image of an element of A. i.e.</P>
+
+<P>f(a) = f(a’) implies a = a’.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+
+</B><P>Consider<B> </B> f : R <FONT FACE="Symbol">&#174;</FONT>
+ R where f(x) = 3x + 7,   <FONT FACE="Symbol">&#34;</FONT>
+x <FONT FACE="Symbol">&#206;</FONT>
+ R.</P>
+
+<P>Then for any x<SUB>1</SUB>, x<SUB>2</SUB> <FONT FACE="Symbol">&#206;</FONT>
+ R, we find that</P>
+
+<P>f(x<SUB>1</SUB>) = f(x<SUB>2</SUB>) &#9;&#9;<FONT FACE="Symbol">&#222;</FONT>
+ &#9;3x<SUB>1</SUB> + 7 =  3x<SUB>2</SUB> + 7 </P>
+
+<br>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;3x<SUB>1</SUB> = 3x<SUB>2</LI>
+</SUB><P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;x<SUB>1</SUB> = x<SUB>2</LI></UL>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</UL>
+
+</SUB>
+<P>So f is one-to-one.</P>
+<P>&#9;&#9;</P>
+
+<B><P>Example </P>
+
+</B><P>Let  A = {1, 2, 3} and B = {1, 2, 3, 4, 5}.</P>
+
+<P>The function f = {(1, 1), (2, 3), (3, 4)} is a one to one function from A to B.</P>
+
+<P>The function g = {(1, 1), (2, 3), (3, 3)} is a function from A to B,  but it is not one to one because</P>
+
+<P>g(2) = g(3) , but 2 <FONT FACE="Symbol">&#185;</FONT>
+ 3.</P>
+
+<P>&nbsp;</P>
+<P>A function f : A <FONT FACE="Symbol">&#174;</FONT>
+ B is called <B>onto</B>, or <B>surjective</B>,  if f(A) = B.   i.e. for all b <FONT FACE="Symbol">&#206;</FONT>
+ B there is at least one a <FONT FACE="Symbol">&#206;</FONT>
+ A with f(a) = b.</P>
+
+<B><P>Example</P>
+</B>
+<P>If A = {1, 2, 3, 4} and B = {x, y, z} then</P>
+
+<P>f<SUB>1</SUB> = {(1, z), (2, y), (3, z), (4, y)}</P>
+<P>f<SUB>2</SUB> = {(1, x), (2, x), (3, y), (4, z)}</P>
+
+<P>are both functions from A onto B.</P>
+
+<P>However,  the function</P>
+
+<P>g = {(1, x), (2, x), (3, y), (4, y)}  is not onto because g(A) = {x, y} <FONT FACE="Symbol">&#204;</FONT>
+ B.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Consider the function f : Z <FONT FACE="Symbol">&#174;</FONT>
+ Z where f(x) = 3x + 1 for each x <FONT FACE="Symbol">&#206;</FONT>
+ Z.   Here the range of f = {………, -8, -5, -2, 1, 4, 7,………} <FONT FACE="Symbol">&#204;</FONT>
+ Z.   Hence f is not an onto function.</P>
+
+<P>Also,  the integer 8 is not in the range of f.   The equation 3x + 1 = 8 can be solved easily giving x = 7/3,  but 7/3 <FONT FACE="Symbol">&#207;</FONT>
+ Z.   There is no x in the domain Z with f(x) = 8.</P>
+
+<P>However,</P>
+
+<P>g : Q <FONT FACE="Symbol">&#174;</FONT>
+ Q,  with g(x) = 3x + 1, x  <FONT FACE="Symbol">&#206;</FONT>
+ Q</P>
+
+<P>h : R <FONT FACE="Symbol">&#174;</FONT>
+ R,  with h(x) = 3x + 1, x  <FONT FACE="Symbol">&#206;</FONT>
+ R</P>
+
+<P>are onto functions.</P>
+
+<P>Moreover,</P>
+
+<P>3x<SUB>1</SUB> + 1 = 3x<SUB>2</SUB> + 1</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+&#9;3x<SUB>1</SUB> = 3x<SUB>2</P>
+</SUB><P><FONT FACE="Symbol">&#222;</FONT>
+&#9;x<SUB>1</SUB> = x<SUB>2</P>
+</SUB>
+<P>is true for x<SUB>1</SUB> and x<SUB>2</SUB> regardless if they are integers,  rationals or real numbers.   Hence all three functions are one-to-one.</P>
+<P>
+
+<P>If f :  A <FONT FACE="Symbol">&#174;</FONT>
+ B then f is said to be <B>bijective</B>, or to be a <B>one-to-one correspondence</B>,  if f is both one-to-one and onto.</P>
+
+<B><P>Example</P>
+</B>
+<P>If A = {1, 2, 3, 4} and B = {w, x, y, z} then</P>
+
+<P>f = {(1, w), (2, x), (3, y), (4, z)}</P>
+
+<P>is one-to-one correspondence from A to B</P>
+
+<P>and g = {(w, 1), (x, 2), (y, 3), (z ,4)}</P>
+
+<P>is one-to-one correspondence from B to A.</P>
+
+<P></HTML><img src="Image39.png"></P>
+
+<P>Note: If f and g are functions with common domain A and f(a) = g(a)  <FONT FACE="Symbol">&#34;</FONT>
+a <FONT FACE="Symbol">&#206;</FONT>
+ A,  it may not be the case that f = g.   We need to look at the codomains of the functions.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Let f : Z <FONT FACE="Symbol">&#174;</FONT>
+ Z, g : Z <FONT FACE="Symbol">&#174;</FONT>
+ Q and f(x) = x = g(x)  <FONT FACE="Symbol">&#34;</FONT>
+ x <FONT FACE="Symbol">&#206;</FONT>
+ Z.</P>
+
+<P>Here f and g share the common domain Z,   have the same range Z,  but </P>
+<P>f <FONT FACE="Symbol">&#185;</FONT>
+ g!</P>
+
+<P>The function f is one-to-one correspondence.</P>
+<P>The function g is one-to-one, but not onto.</P>
+
+<P>If f is one-to-one and onto then f is <B>invertible.</P>
+</B>
+<P>If f :  A <FONT FACE="Symbol">&#174;</FONT>
+ B then f is said to be invertible if there is a function g : B <FONT FACE="Symbol">&#174;</FONT>
+ A such that g o f = I<SUB>A</SUB> and f o g = I<SUB>B</SUB>.</P>
+
+<P>If f is an invertible function, then to denote its inverse use notation of f<SUP>-1</SUP>.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Let f : R <FONT FACE="Symbol">&#174;</FONT>
+ R be defined by f(x) = 2x + 3.   Now f is one-to-one correspondence and onto,  hence f has an inverse function f<SUP>-1</SUP>.   Find a formula for f<SUP>-1</SUP>.</P>
+
+<P>We have</P>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<P>y = f(x)  = 2x + 3</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<br>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;2x = y – 3</LI>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ &#9;x = (y-3)/2</LI></UL>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</UL>
+
+<br>
+<P>Hence f<SUP>-1</SUP>(y)= (y-3)/2.</P>
+
+<P>Now replace y by x</P>
+
+<P>f<SUP>-1</SUP>(x) = (x-3)/2</P>
+
+<P>which is the formula for f<SUP>-1</SUP> using the usual independent variable x.</P>
+
+<br>
+<P>&nbsp;</P>
+<P>As a check we will form f o f<SUP>-1</SUP>.  This check is illustrated in your lecture notes (pg 6 Invertible Functions).  </P>
+
+<P>We find that f o f<SUP>-1</SUP> = x = i(x).</P>
+
+<P>Also note that f<SUP>-1</SUP>o f = x = i(x), as expected.</P>
+
+<P>A sketch of the graphs of these functions gives:</P>
+
+<P><img src="Image40.png"></P>
+
+<P>Note that a graph of a function and its inverse are related by reflection in the line y = x.   (Need to have same scale for each axis.)</P>
+
+<P>At this stage attempt <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 41 b~?">2-41 section b</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 41 c~?">section c</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 41 d~?">section d</a>,  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 41 e~?">section e</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 41 f~?">section f</a>.</P>
+
+<P>Try <a href="launch.htm#q0760">q0760</a>, <a href="launch.htm#q0758">q0758</a>, <a href="launch.htm#q0755">q0755</a>, <a href="launch.htm#q0756">q0756</a>, <a href="launch.htm#q0757">q0757</a>, <a href="launch.htm#q0759">q0759</a> and <a href="launch.htm#q0761">q0761</a> .</P>
+<P>This is the end of the Learning Plan on Inverse Functions.
+</FONT></BODY>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

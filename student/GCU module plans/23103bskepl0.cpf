@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Motion of the Planets: Distance</b></p>
+<p>Why do the <a href="http://solarsystem.nasa.gov/planets/index.cfm">Planets</a> move the way they do? </p></center>
+<p>First we need to know the distances to the planets.  Here are some historical methods of determining distances to planets:</p>
+
+<p><b>Parallax</b></p>
+<p>Try this: </p>
+<ol><li>Hold a finger in front of your face.  </li>
+<li>Close one eye and see where the finger is located. </li> 
+<li>Open the eye and close the other.  </li>
+<li>Now see where the finger is located.</li></ol>
+<p>The finger appears to change position with respect to the background.</p>
+<p>This phenomenon is called parallax and can be used to find the distance to objects.</p>
+<p>Now move finger further away and repeat the experiment.  What happens? - The angular shift is smaller.</p>
+<center><img src="23103bskepl001.png">
+<!--img src="23103bsParallaxSmallSketch.png"--></center>
+<p>The observer views the moon from point A, then the Earth rotates and twelve hours later the observer views the moon from B.</p>
+<p>From A, the moon appears near star 6; from B, the moon appears near star 3.</p>
+<p>The apparent shift of position of a body relative to the distant stars is called parallax. The angle of shift is smaller the further the body is away from the observer.</p>
+
+<p><b>Ptolemy (c 150 AD)</b> used parallax to determine the distance from Earth to Moon = 27.3 Earth diameters.    
+<br/>Today’s value = 30.16 Earth diameters</p>
+<p>Greeks (<b>Eratosthenes</b>) used geometrical arguments to calculate the diameter of the Earth.      <br/>Today’s value = about 13,000 km</p>
+<p>So Earth-Moon distance = 30 x 13,000 = 390,000 km</p>
+<br/>
+<p><b>Copernicus (1473 – 1543)</b> </p>
+<ul>
+<li>worked for 40 years on his heliocentric system</li>
+<li>got distances to planets in terms of the distance from the Earth to the Sun, using observations of planets at different phases and trigonometry.</li>
+<li>Predicted that Mars is 1.5 AU, actual value is 1.524 AU
+<table>
+<tr>
+<td><p><right>1 Astronomical unit (AU)</right></p></td><td><p> = average distance from the Earth to the Sun</p></td>
+</tr>
+<tr>
+<td></td><td><p>= 1.49598 x 10<sup>11</sup> m</p>
+</tr>
+</table></li>
+<li>Did similar calculations for other planets he could see.</li>
+<li>Copernicus had no way of knowing how far the Earth is from the Sun in terms of everyday units of distance.</li>
+</ul>
+
+<!--end-->
+
+</BODY>
+</HTML>

@@ -1,0 +1,91 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Vectors and Matrices</center></b>
+<b><font size="+1"><center>Learning Plan 3</center></b>
+<P>
+<b><center>Determinants and Inverses</center></b><font size="--">
+
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<P><b> In this unit, all matrices are square.</b>
+<LI>The determinant is a function from  the set of square matrices onto the set of real numbers. We use the notation Det(A) or <font face="Symbol">½</font>A<font face="Symbol">½</font>. <i>Read 5.9, Example 5.10</i>
+
+<br>
+</td></tr></table><table border=0 width="92%" align=center><tr><td>
+You need to know how to calculate the determinant of matrices of the following orders.
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+<LI> 1 by 1:
+<LI> 2 by 2: Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 10 b 0~?">3-10 section b</a>, <a href="launch.htm#Q0083">q0083 </a> and<i> Problems 5.22 and 5.58 in the text.</i>
+<LI> 3 by 3: Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 10 c 0~?">3-10 section c</a>, <a href="launch.htm#q0094"> q0094</a>, <a href="launch.htm#q0246">  q0246</a> and <i> Problems 5.23 and 5.59</i>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<LI>It is a fact that Det(AB) = Det(A).Det(B) = Det(B).Det(A)
+<HR>
+We now use the determinant to help find the inverse of a 2 by 2 matrix. In Learning Plan 5 we will find the inverse of a 3 by 3 matrix.  Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 10 e 0~?">3-10 section e</a>, and <i>Read Determinants and Inverses, page 111 in the text.</i>
+<LI> If <font face="Symbol">½</font>A<font face="Symbol">½</font> = 0  then A does not have an inverse.
+<LI> If A does not have an inverse then <font face="Symbol">½</font>A<font face="Symbol">½</font> = 0
+<LI> A matrix is <b>invertible (has an inverse)</b> if and only if A has a non-zero determinant.
+<LI> A<sup>-1</sup> denotes the inverse of A.
+<LI>There is an easily remembered formula for the inverse of a 2 by 2 matrix. 
+<br>
+Do <a href="launch.htm#q0080"> q0080</a>, <a href="launch.htm#q0259"> q0259 (this is harder)</a>, and<i> Problems 5.24 and 5.60, </i>
+<HR>
+<P><font size="+1"><b>Matrix Formulation of a System of Linear Equations</b></font>
+
+<br>
+<LI>If we have 2 equations in 2 unknowns, we can write
+<br>
+</td></tr></table><table border=0 width="90%" align=center><tr><td>
+A<u>x</u> = <u>b</u> where A is a 2 by 2 matrix, <u>x</u> and <u>b</u> are 2 by 1 column vectors.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 11 b 0~?">3-11 section b</a> and <a href="launch.htm#q0331">q0331</a>
+<HR>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<font size="+1"><b>Solution of a system of equations using the inverse matrix.</b></font>
+
+<br>
+</td></tr></table><table border=0 width="96%" align=center><tr><td>
+A<u>x</u> = <u>b</u> as above.
+<br>
+
+<br> Then multiplying both sides of the equation by  A<sup>-1</sup>,
+<br>
+ we have
+<br>
+
+<br>
+ A<sup>-1</sup>A<u>x</u> =  A<sup>-1</sup><u>b</u>
+
+<br>
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+<u>x</u> = A<sup>-1</sup><u>b</u>.
+<br>
+
+<br>The first two TASMAT questions are for 2 by 2 systems, the third is a 3 by 3 system where the inverse is given. You will learn how to find the inverse of a 3 by 3 matrix in Learning Plan 5, but meanwhile you can use the given inverse to solve the system of equations. 
+<br>
+ 
+<br>Do
+<a href="launch.htm#q0256">q0256</a> and<a href="launch.htm#q0326">q0326</a> and the 3 by 3 system <a href="launch.htm#q0257">q0257</a>
+
+<br>
+<P>
+
+<br>
+
+<b>This completes Learning Plan 3 for Vectors and Matrices. 
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

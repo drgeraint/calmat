@@ -1,0 +1,101 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Vectors and Matrices</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Vectors</center></b><font size="--">
+<P>Data is often arranged on one dimensional arrays called <b> vectors</b> or <b>tuples</b>, or in two dimensional arrays called <b>matrices</b>.
+<br>
+
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<P>See<i> Section 5.2 of the text, Discrete Mathematics by Lipschutz and M. Lipson, published in the Schaums Outline Series by McGraw Hill.</i>
+
+<br>
+
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+A vector <b>u</b> or <u>u</u> is a list of numbers a<sub>1</sub>, a<sub>2</sub>,  a<sub>3</sub>... a<sub>n</sub>, and we write <b>u</b> =  (a<sub>1</sub>, a<sub>2</sub>,  a<sub>3</sub>... a<sub>n</sub>) or we write the a<sub>i</sub> in a column. Then we say we have a column vector.
+<br>
+
+<br>
+
+<LI>The numbers  a<sub>1</sub>, a<sub>2</sub>,  a<sub>3</sub>... a<sub>n</sub> are called the <b>components</b> of the vector.
+<LI>Two vectors are <b>equal</b> if they have the same number of components and the corresponding components are equal.
+<br>
+
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Consider two vectors <b>u</b> and <b>v</b> with the same number of components. <b>u</b> =   (a<sub>1</sub>, a<sub>2</sub>,  a<sub>3</sub>... a<sub>n</sub>) and <b>v</b> =  (b<sub>1</sub>, b<sub>2</sub>,  b<sub>3</sub>... b<sub>n</sub>)
+<LI>The sum of  <b>u</b> and  <b>v</b> is  <b>u</b> + <b>v</b> =  (a<sub>1</sub>+ b<sub>1</sub>, a<sub>2</sub>+ b<sub>2</sub>,  a<sub>3</sub>+ b  <sub>3</sub>... a<sub>n</sub>+b<sub>n</sub>). Do
+<a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 d 1~?">2-29 section d tut1</a>
+<LI> The <b>zero vector</b>, <b>0</b>, is the vector all of whose components are equal to zero; we write <b>0</b> = (0,0,0,..0). 
+</td></tr></table><table border=0 width="86%" align=center><tr><td>
+<i>Look at Example 5.1 page 103</i>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>The product of a scalar k and vector <b>u</b> is the vector k<b>u</b>;  k<b>u</b> = (ka<sub>1</sub>, ka<sub>2</sub>,  ka<sub>3</sub>...ka<sub>n</sub>)
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>When k = -1 we have the <b>negative</b> of the vector; (-1)<b>u</b> = -<b>u</b> = (-a<sub>1</sub>,- a<sub>2</sub>,  -a<sub>3</sub>...-a<sub>n</sub>)
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+This allows us to define the sutraction of two vectors.
+<LI>  <b>u</b> - <b>v</b> = <b>u</b> + (- <b>v</b>) = (a<sub>1</sub>- b<sub>1</sub>, a<sub>2</sub>- b<sub>2</sub>,  a<sub>3</sub>- b  <sub>3</sub>... a<sub>n</sub>-b<sub>n</sub>)
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Do <a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 f 1~?">2-29 section f, tut1</a>,then <a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 g 1~?">2-29 section g tut1</a> and then try <a href="launch.htm#q0345">q0345</a>., and you should now <i>do problems 5.1, 5.5, 5.6, 5.38, 5.42, 5.43 from the text.</i>
+
+<br>
+
+<LI> The <b>length</b> or <b>magnitude</b>, of a vector, denoted 
+<font face="Symbol">½</font><b>u</b>
+<font face="Symbol">½</font> is the square root of the sum of the squares of the components.
+<br>
+
+<font face="Symbol">½</font><b>u</b>
+<font face="Symbol">½</font>  =<font face="Symbol">Ö</font > (a<sub>1</sub><sup>2</sup>+ a<sub>2</sub><sup>2</sup>+  a<sub>3</sub><sup>2</sup>... a<sub>n</sub><sup>2</sup>)
+<br>
+
+<br>
+Do <a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 h 1~?">2-29 section h tut1</a> then <a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 h 2~?">2-29 section h, tut2</a> and then <a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 29 h 3~?">2-29 section h, tut3</a> and finally <a href="launch.htm#q0339">q0339</a> and <a href="launch.htm#q0340">q0340</a>.
+<br>
+
+<br>
+<LI> The <b>dot</b> or <b>scalar product</b> of two vectors, denoted <b>u.v</b>,  is the sum of the products of the corresponding components.
+<br>
+
+<br>
+
+<br>
+
+
+<SECTION15>
+ 
+<b>u</b> . <b>v</b> =  a<sub>1</sub>. b<sub>1</sub> +  a<sub>2</sub>. b<sub>2</sub> +  a<sub>3</sub>. b  <sub>3</sub> +...+ a<sub>n</sub>. b<sub>n</sub>
+
+<br>
+
+<i>Look at Example 5.2 page 103</i>, and then do 
+<a href="runcal.htm?==d:\version3\tcrun.exe calpopup //?~ 0 2 32 a 1~?">2-32 section a, tut1</a> and the TASMAT question <a href="launch.htm#q0346"> q0346</a>, and <i>problem 5.3, 5.39, 5.40, 5.41 from the text</i>.
+<br>
+
+<br>
+
+<b>This completes Learning Plan 1 for Vectors and Matrices.</b>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

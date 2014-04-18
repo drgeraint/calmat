@@ -1,0 +1,47 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebra Revision</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebra Revision</P></FONT></B>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Factorisation</P></FONT></B>
+<FONT FACE="Arial" SIZE=2>
+<br>
+<P>You may find it helpful to complete <B>this</B> Learning Plan <B>before</B> attempting the <B>material</B> for <B>Test 3</B>.</P>
+
+<P>The <B>MoLS</B> referred to in <B>this</B> Learning Plan are <B>not</B> MoLS components which you must complete and will <B>not</B> contribute to your overall score.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Factorising Quadratic Expressions</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+<P>A quadratic experssion has the form ax<SUP>2</SUP> + bx + c.  In some cases this expression can be factorised i.e., it can be written as a product of two linear factors:</P>
+<P ALIGN="CENTER">(px+q)(rx+s)</P>
+<br>
+<P>If the expression has the form x<SUP>2</SUP> + bx + c (i.e. if a=1) then its factorised form will be </P>
+<P ALIGN="CENTER">(x+q)(x+s)</P>
+<P>where q, s can be positive or negative numbers.  Work through Lesson 1-21 <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 a 0~?">section a</a>, 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 b 0~?">section b</a>, and  
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 d 0~?">section d</a> to remind yourself how to find the values of q and s.</P>
+
+<P>Now consider the more general case of factorising an expression with a>1 or a<1.  Work through Lesson 1-21 <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 e 0~?">section e</a>, and 
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 21 f 0~?">section f</a>.</P>
+
+<P>Finally, practise factorising quadratic expressions by answering questions
+<a href="launch.htm#q0021">q0021</a> and <a href="launch.htm#q0120">q0120</a>.</P> 
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Factorisation.</P>
+</FONT> </BODY>
+</HTML>

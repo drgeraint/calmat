@@ -1,0 +1,69 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Functions Learning Plan 3</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Functions Learning Plan 3</P>
+<P ALIGN="CENTER">Quadratic &amp; Power Functions</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you should be referring to your lecture notes titled ‘Functions’.</P>
+
+<P>In the previous plan it was shown that business problems could be modelled by linear functions.   Unfortunately many problems cannot be modelled by a linear relationship.   Remember that a linear function either rises, drops or remains constant over its range.   Linear functions are known as monotonic.   If they start to increase or decrease they will continue to do so monotonously.</P>
+
+<P>Profits, revenues and unit costs are all capable of changing direction over any given range of sales or output values.   For this reason we must provide additional mathematical functions which will allow non-linear behaviour to be modelled satisfactorily.</P>
+
+<B><P>Quadratic Functions</P>
+
+</B><P>A quadratic function can normally be distinguished from a linear function by the addition of a term containing x<SUP>2</SUP>.  It can be written in the general form</P>
+
+<P ALIGN="CENTER">f(x) = ax<SUP>2</SUP> + bx + c</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">where a, b and c are constant terms known as coefficients.</P>
+<P ALIGN="CENTER"></P>
+<P>In this general form the graph of a quadratic function will normally be a u-shaped or n-shaped curve.   The specific shape of the curve is ultimately determined by the values of a, b and c.   In particular if a &gt; 0 then the curve is u-shaped, if a &lt; 0 then the curve is n-shaped.</P>
+
+<P>Consider the quadratic function discussed on page 4 of your notes.</P>
+<B>
+<P>Example </P>
+</B>
+<P>For one particular item the revenue function is given as</P>
+
+<P ALIGN="CENTER">R(x) = 1330x – 10x<SUP>2</P>
+</SUP><P>It would be possible to set up a table of values and plot points for this function.   Below is a rough sketch.   Notice the revenue is zero when zero items or 133 items are sold.</P>
+
+<P><img src="image97.png"></P>
+
+<br>
+
+<B><P>Example</P>
+</B>
+<P ALIGN="JUSTIFY">The profit function for a particular product is found to be a quadratic of the form </P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="CENTER">P(x) = -10x<SUP>2</SUP> + 700x - 4000</P>
+<P ALIGN="CENTER"></P>
+<P>&nbsp;</P>
+<B><P>Power Functions</P>
+</B>
+<P>Linear functions and quadratic functions are particular power functions.  In a linear function the highest value of the power is 1.   In a quadratic function the highest value of the power is 2.</P>
+
+<P>A cubic function has the general form f(x) = ax<SUP>3</SUP> + bx<SUP>2</SUP> + cx + d.   It is a power function of degree 3.</P>
+
+<P>It is possible to have power functions which have higher values in the power of the variable than 3.   The power may also take a fractional value or a negative value.   Read through pages 10 – 13 of your notes. </P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

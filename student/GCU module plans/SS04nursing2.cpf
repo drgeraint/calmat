@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER"><b>
+<center>Summer School Module 10: Mathematics 3 
+<P> Learning Plan: Nursing Calculations 2<font size="-"></b></center>
+<P> 
+<FONT FACE="Comic Sans MS" COLOR="#ff0000">Do not use a calculator in this Learning Plan. You will not be allowed to use one on the wards!<FONT FACE="Comic Sans MS" COLOR="#000000">
+
+<P>
+
+Now that you have the mathematics background,you can try the sort of calculations you will have to perform on the wards.
+<UL><LI>When prescribing for a child, the amount given often depends on the weight of the child. The dose is usually quoted as a an amount per kilogram per day, usually written as /kg/day. If a child of 20 kg is prescribed a drug for which the dose is 300 micrograms/kg/day, then you again use ratio to calculate the actual dose.
+<UL> Each day 1 kg requires 30 micrograms<Br>
+so 20 kg requires 20x300 micrograms<br>
+=600 micrograms =6000/1000 mg =6 mg.<Br>
+A slight variation occurs when the total dose is  split and delivered in say two equal doses. <Br>Try questions <a href="launch.htm#q0934">934</a> and 
+<a href="launch.htm#q0939">939</a> on this topic.</UL><P>
+<LI>The next type of calculation involves calculating the volume for and injection or the volume of a liquid to be given orally. The calculations are very similar. You will know the strength of the stock solution  and this is always the starting point for the calculation.
+<UL>Suppose a dose of 750mg is to be administered and the stock solution is 250mg in 5mL.<br> 
+Always start with the stock solution.<Br>
+250 mg in 5mL<br>
+so 1 mg in 5/250 mL<br>
+so 750 mg in 750x5/250.<br>
+You can multiply these fractions and simplify to get the answer of 15mL.<Br> Try question <a href="launch.htm#q0944">944</a> </UL><P>
+<LI> The same type of calculation is required if it is an injection that has to be administered. Sometimes in both injections and liquid doses you have to change the units, but you are probably quite confident about that now!<br>
+<UL>Do questions  <a href="launch.htm#q0940">940</a> and 
+ <a href="launch.htm#q0941">941</a>. </UL><P>
+<LI> The final two types of questions involve administering tablets. It is general policy that nothing less than half a tablet is administered. The strength of the tablets will be known, usually in mg, and you will have the required dose. As with the other calculation, ratio is the key. 
+<UL>A dose of 450mg is ordered and the stock on hand is 300mg tablets.<Br>
+As usual, start with the stock.<Br>
+there is 300 mg in 1 tablet<br>
+so 1 mg in 1/300 tablet(<I>Do not simplify)</i><Br>
+so dose of 450mg in 450x1/300.<Br>
+Simply this to get 1 1/2 tablets.<Br>
+Do questions <a href="launch.htm#q0942">942</a> and <a href="launch.htm#q0943">943</a>.</UL>
+<LI>The final calculation also involves tablets. With many drugs, different strengths are available, usually colour coded. When a dose is administered,the aim is to deliver as few <b>whole</b> tablets as possible. The idea here is to start with the dose and try the largest strength tablet first. Then subtract this from the dose and repeat. <br>
+<UL>Try question  <a href="launch.htm#q0945">945</a>.</UL>
+<br> You will meet other calculations but these form the foundation on which you will be able to build.
+
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

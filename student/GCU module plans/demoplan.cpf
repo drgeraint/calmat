@@ -1,0 +1,65 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial"><font size="+1"><b><center><a href="http://www.maths.gcal.ac.uk/calmat"><img src="Calmat32.png"></a> 
+<br>
+
+<br>Demo plan(Arial font)</center><P><font size=" ">
+
+<FONT FACE="Comic Sans MS" COLOR="#000000"> Using the CALMAT Designer, a tutor can create a Learning Plan such as this. The Plan can contain hotlinks to any one of the over 3000 components of CALMAT or any resource which could be put on the web.
+<br>This specimen plan gives you an indication of how you can tailor CALMAT courseware to the requirements of a specific syllabus. 
+<P>
+You can insert   hotlinks to:
+<i>This is an example of an ordered list.</i>
+<OL><LI> A entire MoLS lesson including all the assessments (this lesson has two assessments: <a href="runcal.htm#==tcrun.exe calpopup //?~ 0 1 19~?">lesson 1-19</a>. 
+<LI>One entire section of a MoLS lesson (this section has two tutorials): 
+<a href="runcal.htm#==tcrun.exe calpopup //?~ 0 1 52 a~?">level one, lesson 52, section a</a> (pie charts)
+<br>
+<LI>All the tutorials in a section of a lesson (but not the learning material): <a href="runcal.htm#==tcrun.exe calpopup //?~ 0 2 33 h -1~?">level two, lesson 33, section h</a>  (differentiation of polynomials; these tutorials use the input tool).
+<br>
+<LI>Any one of the tutorials in a section of a lesson: <a href="runcal.htm#==tcrun.exe calpopup //?~ 0 2 33 h 2~?">level two, lesson 33, section h</a>  (second of the two tutorials on the differentiation of polynomials).
+<br>
+<LI> The first of the assessments in a MoLS lesson: <a href="runcal.htm#==tcrun.exe calpopup //?~ 0 2 38 -1~?">the first assessment in Level Two lesson 38 </a> ( lesson on integration)
+<br>
+<LI>The second of the assessments in a MoLS lesson: <a href="runcal.htm#==tcrun.exe calpopup //?~ 0 2 38 -2~?">the second assessment in Level Two lesson 38 </a> ( lesson on integration)
+<br>
+
+<LI> A TAS question: <a href="launch.htm#q0024">q0024</a> This question requires the use of the input tool.  <a href="launch.htm#q0005">Q005</a></OL>
+
+<br>
+You can also
+<i>This is an example of an unordered list.</i>
+<UL><LI>hot link to any other web-site:<a href="http://members.tripod.com/chuwm2/test/ch1.htm">some useful tutorials</a>
+<LI>insert a graphic in the form of  png file: Watch it! <img src="warning.png"></a><br>
+  
+<LI>You can choose the font:  This is  Comic Sans .
+<LI> There are two standard fonts in the designer, <FONT FACE="Arial"> Arial </FONT> and <FONT FACE="Times New Roman">Times Roman </font>, but you can use any other font which is on the machine delivering the learning plan; if no font is specified the player will display the default font of the delivery machine. <font size=" ">
+
+<LI>You can change the <font size="
+<br>+2">font size <font size="">and  the colour of the background. Be careful with backgrounds as  a poor choice of colour can make a document difficult to read.
+<LI>With a little knowledge of html you can change the colour of text (<FONT FACE="Comic Sans MS" COLOR="#ff0000">red
+<FONT FACE="Comic Sans MS" COLOR="#00ff00">green
+<FONT FACE="Comic Sans MS" COLOR="#0000ff">blue <FONT FACE="Comic Sans MS" COLOR="#909009"> and <FONT FACE="Comic Sans MS" COLOR="#ff00ff"> many <FONT FACE="Comic Sans MS" COLOR="#00ffff">others).<FONT FACE="Comic Sans MS" COLOR="#000000"> </UL>
+
+<P> The creator of the Plan does not need to have any familiarity with html, but will soon pick up the basics by creating plans.  You can use any HTML editor, such as the one in WORD and then cut and paste into the Designer. You will find that such an editor generates superfluous code.
+<HR> This is a horizontal rule.
+<UL><LI>The Plan can run over the web provided the station has access to CALMAT.
+<LI>You can organise plans for student use by entering the Player as a tutor.
+<LI>Students can print a plan by right clicking anywhere on the plan.</UL>
+
+<br>For further information on  CALMAT you can  visit our website using the url  <a href="http://www.calmat.gcal.ac.uk">http:/www.calmat.gcal.ac.uk</a> or click on the icon  at the top of this page.<a href="http://www.maths.gcal.ac.uk/calmat"></a> 
+<br>
+
+<br>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

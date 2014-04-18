@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Binary Arithmetic</center></b>
+<b><font size="+1"><center>Learning Plan 3</center></b>
+<P>
+<b><center>Hexadecimal Numbers</center></b><font size="--">
+<P>
+Hexadecimal Numbers appear in computing because they are a convenient way to represent binary numbers.   These hex (adecimal) numbers are constructed to a base of 16.   In hex notation the symbols 0 to 9 represent the decimal values 0 to 9; the symbols A to F represent the decimal values 10 to 15.
+<P>
+<img src="Image11.png">
+<P>
+<font size="+1"><b>Bits and Hexadecimals<font size="-"></b>
+<P>
+Hex numbers are used mainly as a shorthand for binary numbers.   A 4-bit number can have 16 different combinations, so that the only way to represent each of the 4-bit binary numbers with a single digit is to use a base 16 numbering system.
+<P>
+<img src="Image12.png">
+<P>
+Most people find it tedious to work in binary.   For example, in a 32-bit computer a binary instruction could appear as:-
+<P>
+10111001000010110011001011011111
+<P>
+In hex, it would appear as:-
+<P>
+B90B32DF
+<P>
+Now try <a href="launch.htm#q0729">q0729</a> and <a href="launch.htm#q0705">q0705</a>.
+<P>
+For people, this form is easier to manipulate.
+<P>
+However, to assist further, mnemonics were developed for machine code.   These assembly languages form a one to one correspondence with machine code.
+<P>
+<img src="Image13.png">
+<P>
+This little programme can be typed directly into the computer using "debug".   If you decide to do this be very , very careful as mistakes will lead to the computer crashing.
+<P>
+Select the command prompt option.   At:-
+<P>
+<img src="Image14.png">
+<P>This is the end of the third Binary Learning Plan.  Begin the Learning Plan entitled Binary 4.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

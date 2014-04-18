@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2411</P>
+<P ALIGN="CENTER">Outcome: Descriptive Statistics</P>
+<P ALIGN="CENTER"></P>
+<FONT FACE="Comic Sans MS" SIZE=2><P><P>
+
+
+<LI><b>Extract and interpret data from bar graphs, line graphs, stem and leaf plots,  and construct</b>: This is covered in  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 51~?">Level One Lesson 51</a>. Then do questions <a href="launch.htm#q0540">q0540</a>, <a href="launch.htm#q0541">q0541</a>, <a href="launch.htm#q0542">q0542</a>, <a href="launch.htm#q0543">q0543</a> 
+<LI><b>Extract and interpret data from pie charts, and construct</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 52 a~?">Level One Lesson 52 Section a</a>. Then do questions <a href="launch.htm#q0544">q0544</a>, <a href="launch.htm#q0545">q0545</a>,<a href="launch.htm#q0546">q0546</a> </a>
+<LI><b>Extract and interpret data from scatter graphs from data</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 53~?">Level One Lesson 53</a>.
+<LI><b>Construct frequency tables</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 52 c~?">Level One Lesson 52 Section c</a>,<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 55 b~?">Level One Lesson 55 Section b</a> and questions <a href="launch.htm#q0546">q0546</a>, <a href="launch.htm#q0547">q0547</a>
+<LI><b>Construct pie charts</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 55 c~?">Level One Lesson 55, Section c</a>. 
+
+<LI><b>Construct and interpret dot plots</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 55 e~?">Level One Lesson 55, Section e</a> and question <a href="launch.htm#q0557">q0557</a>
+<LI><b>Construct a cumulative frequency table from ungrouped data</b>: <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 55 d~?">Level One Lesson 55 Section d</a>, <a href="launch.htm#q0554">q0554</a>, <a href="launch.htm#q0555">q0555</a>,</UL>
+<LI><b>Measures of Location</B>
+<UL>A measure of location of a set of data values is a number conveying the idea of a representative value of the data.   
+<LI>Consider first the <B>arithmetic mean</B> or <B>mean</B> for short.   
+<br>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 a~?">1-54 section a</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 b 0~?">section b</a>.   Try <a href="launch.htm#q0548">q0548</a> and <a href="launch.htm#q0549">q0549</a>.
+<LI>Unusually large or small values can distort the mean, making it unrepresentative of the data values.  When exceptional values distort the mean, another measure of location, the <B>median</B>, may be a more appropriate measure to use.  
+<br>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 c 0~?">1-54 section c</a>. Try <a href="launch.htm#q0630">q0630</a>.
+<LI>One further measure which can be considered is the <B>mode</B>.  Find the mode in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 d 0~?">1-54 section d</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 e~?">section e</a> and in <a href="launch.htm#q0550">q0550</a> and <a href="launch.htm#q0551">q0551</a>.</P></UL>
+
+<b>Measures of Dispersion</b> reflect the amount of variability in a set of data.   It may be of great importance to know how much variability there is in a collection of observations.   For instance, a manufacturer of laboratory glassware would want to be sure that the true volume of his 10ml pipettes did not vary too widely around 10ml.   Since a certain amount of uncontrolled variation in the manufacturing process is inevitable, routine checks would have to be carried out to ascertain that the random variation was within acceptable limits.
+<br>
+<B><P>The Range</P></B>
+The simplest measure of spread is the range, defined as follows:</P>
+
+<B><P ALIGN="CENTER">Range = maximum data value – minimum data value</P>
+</B>
+<P>Study the range in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 f 0~?">1-54 section f</a>.   <B>The semi-interquartile range </B>is discussed in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 57 b 0~?">1-57 section b</a>.   Try <a href="launch.htm#q0552">q0552</a> and <a href="launch.htm#q0553">q0553</a>.  Attempt <a href="launch.htm#q0557">q0557</a>.
+<br>
+
+<P>It is also possible to calculate statistics from a graph or a frequency table.  Complete <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 g~?">1-54 section g</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 54 h~?">section h</a>.</I>      Now try <a href="launch.htm#q0767">q0767</a>.</P>
+
+<B><P>Standard Deviation</P></B>
+The range is not a particularly informative measure of dispersion, since it depends on only two values.   The <B>standard deviation</b>is the most widely used measure of spread.   Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 57 c 0~?">1-57 section c</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 57 d~?">section d</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 57 e 0~?">section e</a>.   Move on to try <a href="launch.htm#q0547">q0547</a>.  
+<br>
+<P><B>Quartiles</P></B>
+The mean and standard deviation are a pair of descriptive measures which are usually calculated together, and quoted together.   They provide a concise summary of the location and the spread of the data.</P>
+
+<br>Another measure of the spread of a distribution is given by a pair of summary measures known as <B>quartiles</B>.   There are two quartiles – the <B>lower</B> and <B>upper quartile </B>– and in the same way that the standard deviation is usually quoted along with the mean, the two quartiles are usually quoted with the median.</P>
+
+<br>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 56 a 0~?">1-56 section a</a>.     Use the method from 1-56 to answer <a href="launch.htm#q0556">q0556</a>.
+<br>
+<B><P>The Box Plot</P></B>
+Taken together, the minimum, lower quartile, median, upper quartile and maximum of a set of quantitative observations provide a concise summary of the distribution.   They split the data into four parts, each containing approximately 25% of the observations.   In particular, the interval between the lower and upper quartiles contains 50% of the data.
+<br>
+The <B>Box Plot</B> is a useful graphical representation of these five descriptive measures.  Study the Box Plot in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 56 b 0~?">1-56 section b</a>.   Finally try <a href="launch.htm#q0558">q0558</a>.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

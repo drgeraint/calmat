@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font size="+2">
+This section of material covers mutliple integration.
+<br>
+
+<br>
+
+<br>1 In order to carry out multiple integration the student should be familiar with integration with respect to one variable.  If you wish to revise this topic or simply revise the very important case of integrating a power of a variable, then <a href="runcal.htm#== //?~ 0 2 38~?">Click here</a>.<Br>
+
+<br>In addition you should be able to integrate the basic trigonometric functions.  If you wish to revise this then <a href="runcal.htm#== //?~ 0 2 39~?">Click here</a><Br>
+
+<br>The point of view of an integral as an area will be helpful in the development of multiple integrals.  The student should take some time to 'briefly' review the Calmat material on this topic (do not spend a long time on this - simply get the ideas) : <a href="runcal.htm#== //?~ 0 2 40~?">Click here</a>
+
+<br>
+
+<br>2 An expression such as, <P>
+
+<br>
+<center><img src="K:\CALMAT\scalmat\plans\mark\evalint1.png">
+</center>
+<P>
+
+<br>
+ 
+<br>
+3 which contains two integral signs is referred to as a double integral.  A more general version (not the most general possible) is <P>
+
+<center> <img src="C:\Top\lade\gen2int.png"></center>
+
+<br>where the symbols on the integrals are constants.
+<br>
+<P>4 The evaluation of double integrals proceeds by first evaluating the inner integral.
+<br>
+<P><center><img src="C:\Top\lade\evalint1a.png"></center>
+
+<P>4 This leaves a single integral to be evaluated.
+<br>
+<center><img src="C:\Top\lade\evalint1b.png"> </center>
+
+<br>
+5 To test your ability with this type of integral try the following problems; <P>
+
+<br>Insert double int problem here..........
+<P>
+
+<br>6.The method extends easily to higher order integrations.  To ensure that you understand this procedure try the following problem.
+<br>
+(insert triple integral problem here). 
+<br>
+7. These problems are straightforward:  the mathematics is simply that of integration, with which you are already familiar.  The tricky problems arise when the region of the integration is not a rectangle.  In these situations one of integrals (the inner) may contain a function as one, or both, of the integration limits.  Given the limits, the procedure for evaluating such an integral is essentially the standard one.  To test your confidence with this type of integral, try the following examples:<P>
+
+<br>
+include int problems with function as a limit.
+<br>
+<P>
+A new skill is required when the limits of integration are not simply given, as was the case in the previous examples. The student is expected to able to determine the limits of integration for themself.  To see if you have mastered this process try the following problems.  <P>
+
+<br>include int with region problems
+<P>
+nm<a href="runcal.htm#== //?~ 0 2 38~?">Click here</a>
+
+<br>
+
+<br>
+
+<a href="launch.htm#q0112">Click here for q0112</a>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 6</center></b>
+<P>
+<b><center>Exponential Growth Functions</center></b><font size="--">
+<P>
+
+<br>
+<FONT FACE="Arial"><P>These take the general form of  f(x) = a<SUP>x </SUP>, a &gt; 1</P>
+
+<P>e.g. f(x) = 2<SUP>x</SUP>, f(x) = 3<SUP>x</SUP> and f(x) = e<SUP>x</SUP> ; e <FONT FACE="Symbol">&#187;</FONT>
+ 2.7182818</P>
+
+<P>All graphs with a &gt; 1 are similar in shape. (Concave upwards.   All going through (0,1))</P>
+
+<P>Graph of f(x) = 2<SUP>x</P>
+</SUP>
+<P><img src="image45.png"></P>
+
+<P>Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 16 b 0~?">2-16 section b</a>.   Note that although the functions in section b were all  exponential functions they were not all exponential <b>growth</b> functions as in some instances, a < 1.
+<P>Now consider <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 a~?">2-17 section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 b 0~?">section b</a>, and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 2 17 d~?">section d</a>.
+<P>
+Try <a href="launch.htm#q0680">q0680</a>, <a href="launch.htm#q0397">q0397</a>, <a href="launch.htm#q0398">q0398</a> and <a href="launch.htm#q0695">q0695</a>. 
+<P>This is the end of the Learning Plan on Exponential Functions.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,148 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Algebraic Series Learning Plan 1</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Algebraic Series Learning Plan 2</P>
+<P ALIGN="CENTER">Geometric Series</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you should be referring to your lecture notes titled ‘Geometric Progressions’.</P>
+
+<B><P>Geometric Series (Progression)</P>
+</B>
+<P>In a Geometric Series the next number is found by multiplying the previous one by a fixed amount e.g.</P>
+
+<P ALIGN="CENTER">3, 12, 48, 192, 768,…….</P>
+<P ALIGN="CENTER"></P>
+<P>The initial term is labelled a, here a = 3 and the common ratio is r, here r = 4.</P>
+
+<P>Consider the series</P>
+
+<P ALIGN="CENTER">18, 6, 2, 2/3, 2/9, ……..</P>
+
+<P>Here a = 18 and r = 1/3.   The next term is found be dividing the previous one by 3 or multiplying by 1/3.</P>
+
+<P>Notice if r &gt;1 then the terms are increasing, if r &lt; 1 the terms are decreasing.   In fact if r =1 the terms are all identical and equal to the first term.</P>
+
+<B><P>nth term</P>
+</B>
+<P>In general a geometric series can be described as </P>
+
+<P>a,  ar,  ar<SUP>2</SUP>,  ar<SUP>3</SUP>,  ar<SUP>4</SUP>,……hence the nth term,  <B>t<SUB>n</SUB> = ar<SUP>n-1</P>
+</B>
+</SUP><B><P>Example</P>
+
+</B><P>Reconsider the series </P>
+
+<P ALIGN="CENTER">3, 12, 48, 192, 768,…….</P>
+
+<P>The 5<SUP>th</SUP> term is 768.   Check using the formula.</P>
+
+<P>a = 3 and r= 4.</P>
+
+<P>t<SUB>n</SUB> = ar<SUP>n-1</P>
+</SUP><P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5</SUB> = 3(4)<SUP>5-1</P>
+</SUP><P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5</SUB> = 3(256)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5 </SUB>= 768 as expected.</P>
+
+<P>Read pages 1 and 2 of your notes.</P>
+
+<B><P>Sum of n terms</P>
+</B>
+<P>It can be shown that the sum of the first n terms of a geometric series is:</P>
+
+<B><P ALIGN="CENTER">S<SUB>n</SUB> = a(r<SUP>n</SUP> – 1)/(r – 1)</P>
+
+</B><P>The sum of the first five terms of the series<B>  </B>3, 12, 48, 192, 768, …… is</P>
+
+<P ALIGN="CENTER">3 + 12 + 48 + 192 + 768 = 1023</P>
+<P ALIGN="CENTER"></P>
+<P>Check using the formula when n = 5, a = 3 and r = 4.</P>
+
+<P>S<SUB>5</SUB> = 3(4<SUP>5</SUP> – 1)/(4 – 1)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>5</SUB> = 3(1023)/3</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>5</SUB> = 1023 as expected.</P>
+
+<P>Read page 3 of your notes.   Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 1 f -1~?">3-1 section f</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 1 g -1~?">section g</a>.   Try <a href="launch.htm#q0209">q0209</a>, <a href="launch.htm#q0474">q0474</a>and <a href="launch.htm#q0022">q0022</a></P>
+
+<B><P>Sum to infinity of a Geometric Series</P>
+
+</B><P>If r lies between –1 and 1 then as the number of terms, n in the series gets very large the value of r<SUP>n</SUP> gets very small.   This means the value of the terms will become very small and the sum of the terms will increase only very slightly. e.g. consider the geometric series with initial term 1 and common ratio ½.</P>
+
+<P>1, ½, ¼,1/8, 1/16,1/32, 1/64, 1/128, 1/256, 1/512, 1/1024, 1/2048, 1/4096, …</P>
+
+<P>Using the formula we find that S<SUB>12</SUB> = 1.9995…. and that S<SUB>13</SUB> = 1.9997… has increased only slightly.</P>
+
+<P>As we take more and more terms we find there is a value which the sum will never exceed.   This value is known as the <B>sum to infinity</B>.</P>
+
+<P>For the special case, -1 &lt; r &lt; 1, the sum to infinity is given by</P>
+
+<B><P ALIGN="CENTER">S<sub><FONT FACE="Symbol">&#165;</FONT></sub>
+ = a/(1 – r)</P>
+</B>
+<P>For the series above with a = 1 and r = ½ we have </P>
+
+<P>S<SUB><FONT FACE="Symbol">&#165;</FONT></SUB>
+= 1/(1-1/2) = 1/(1/2) = 1 x  (2/1) = 2.</P>
+
+<P>Hence the sum of this series will never exceed 2.</P>
+
+<P>Follow the details given on pages 3 and 4 of your notes.   Try <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 1 h -1~?">3-1 section h</a> and <a href="launch.htm#q0190">q0190</a>.</P>
+ 
+<br>
+<B><P>Example</P>
+
+</B><P>My contract states that my initial salary will be £24,000 rising by 8% each year.  </P>
+
+<OL TYPE="i">
+
+<LI>Calculate my salary after 5 years.</LI>
+<LI>How much will I have earned in total after 5 years?</LI></OL>
+
+<br>
+<P>(i) My salary is a geometric series with a = 24,000 and r = 1.08 (since 8% = 8/100 = 0.08 of the salary is added to the salary each year).   Salary in the nth year is calculated as t<SUB>n</SUB> = ar<SUP>n-1</SUP>.</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5</SUB> = 24000(1.08)<SUP>5-1</P>
+</SUP><P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5</SUB> =24000(1.360489) </P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ t<SUB>5</SUB> = 32651.74</P>
+
+<P>After 5 years my salary will be £32,651.74. </P>
+
+<P>My total salary over n years is <B>S<SUB>n </SUB>=</B> <B>a(r<SUP>n</SUP> – 1)/(r – 1).</P>
+
+</B><P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>5</SUB> = 24000(1.08<SUP>5</SUP> – 1)/(1.08 -1)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>5</SUB> = 24000(5.866601)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ S<SUB>5</SUB> = 140798.42</P>
+<B>
+</B><P>In total after 5 years I will have earned £140,798.42.</P>
+
+<P>There are further examples demonstrating the use of Geometric Series on pages 5 and 6 of your notes.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

@@ -1,0 +1,70 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Probability</center></b>
+<b><font size="+1"><center>Learning Plan 3</center></b>
+<P>
+<b><center>Conditional Probability</center></b><font size="--">
+
+<P>Events which are not mutually exclusive can be separated into <b>dependent</b> and <b>independent</b> events.
+<P>Dependence between events is treated by the notation of <b>conditional probability</b>.
+<P>The conditional probability of an event E<sub>1</sub>given that  E<sub>2</sub> has happened is written as:
+<P>Pr(E<sub>1</sub>| E<sub>2</sub>), read this as Pr(E<sub>1</sub> Given E<sub>2</sub>).
+<br>
+<P>The conditional probability of E<sub>1</sub> given E<sub>2</sub> is defined as:
+<P><img src="Image32.png">
+
+<P><b>Example</b>
+<P>Two fair dice are to be rolled.   Given that the roll has produced at least one three,  what is the probability that the sum of the two dice is seven ?
+<br>
+<P><b>Solution</b>
+<P>The sample space, S, consisits of the following 36 points:
+<img src="Image33.png">
+<P>Now let
+<P>E<sub>1</sub> = "The sum is seven"
+<P>E<sub>2</sub> = "At least one three is rolled"
+<br>
+<P>Then
+<P>Pr(E<sub>1</sub>| E<sub>2</sub>) = Pr(E<sub>1</sub> and  E<sub>2</sub>)/Pr(E<sub>2</sub>)
+<P>=( 2/36)/(11/36) = 2/11
+<P>Try <a href="launch.htm#Q0739">Q0739</a> and  <a href="launch.htm#Q0741">Q0741</a>.
+<P><b>Multiplication Theorem for Conditional Probability</b>
+
+<P>Suppose A and B are two events in a sample space, S.
+<P>If Pr(A) > 0, Pr(A<font face="Symbol"> Ç </font face="Symbol">B) = Pr(A)Pr(B|A)
+<br>
+<P>If Pr(B) > 0, Pr(A<font face="Symbol"> Ç </font face="Symbol">B) = Pr(B)Pr(A|B)
+<br>
+<P>If there are more than two events
+<br>
+<P>Pr(A<sub>1</sub><font face="Symbol"> Ç </font face="Symbol">A<sub>2</sub><font face="Symbol"> Ç </font face="Symbol">.......<font face="Symbol"> Ç </font face="Symbol">A<sub>n</sub>) = Pr(A<sub>1</sub>)Pr(A<sub>2</sub>|A<sub>1</sub>)Pr(A<sub>3</sub>|A<sub>1</sub><font face="Symbol"> Ç </font face="Symbol">A<sub>2</sub>)x ......x Pr(A<sub>n</sub>|A<sub>1</sub><font face="Symbol"> Ç </font face="Symbol">A<sub>2</sub><font face="Symbol"> Ç </font face="Symbol">.......<font face="Symbol"> Ç  </font face="Symbol">A<sub>n-1</sub>)
+<br>
+<P>Hence
+<br>
+<P>Pr(A<font face="Symbol"> Ç </font face="Symbol">B<font face="Symbol"> Ç </font face="Symbol">C) 
+<br>
+<P>= Pr(A<font face="Symbol"> Ç </font face="Symbol">B)(Pr(C|A<font face="Symbol"> Ç </font face="Symbol">B) 
+<br>
+<P>= Pr(A)Pr(B|A)Pr(C|A<font face="Symbol"> Ç </font face="Symbol">B) 
+<br>
+<P><b>Example</b>
+<P>A lot contains 12 items of which 4 are defective.   Three items are drawn at random from the lot one after the other.   Find the probability that all three are non-defective.
+<P><b>Solution</b>
+<P>The probability that the first item is non-defective is 8/12.
+<P>If the first item is non-defective,  this leaves 11 items, of which 4 are defective.
+<P>The probability that the next item is non-defective given that the first was non-defective is 7/11.
+<P>Similarly,  the probability that the third item is non-defective given that the first two are non-defective is 6/10.
+<P>Hence by the multiplication theorem,  the probability that all three are non-defective is:
+<P>Pr(all three non-defective) = (8/12)(7/11)(6/10) = 14/55
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

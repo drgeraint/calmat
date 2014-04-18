@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>The integrals that we have dealt with so far heve been with respect to x and y variables. This need not be the case: consider the integral (old Q0806)
+<br>
+
+<br>This can be solved by just as in the x, y case.
+<br>
+
+<br>
+
+<br>
+NOTE: In some applications we find it desirable to choose a co-ordinate system - such as a polar coordinate - in which to formulate the multiple integral.  This very important aspect of multiple integration is noy covered here. 
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

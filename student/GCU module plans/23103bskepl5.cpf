@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Calculations Using Newton's Modification to Kepler's Laws</b></p></center>
+</font><font face="Arial" size="--">
+
+<p>Kepler's third law as modified by Newton:
+<center><table><tr><td><img src="23103bs3rdLawModNewton1.png">
+</td><td>where:
+<br/>a<sub>p</sub> = distance of the planet from the Sun,
+<br/>P<sub>p</sub> = time it takes for the planet to revolve around the Sun,
+<br/>m<sub>p</sub> = the mass of the planet revolving around the Sun,
+<br/>m<sub>sun</sub> = the mass of the Sun,
+<br/>and K is a constant.
+</td></tr></table></center>
+
+<p>This modified law can be applied to any two bodies orbiting each other because of their mutual gravitational attraction. For example, this equation could represent a satellite orbiting a planet, a planet orbiting the Sun, or two stars orbiting each other.</p>
+<p>For the planets orbiting the Sun, the mass of the Sun is much greater than the mass of the planet, and so the above equation can be taken to be</p>
+<center><img src="23103bs3rdLawModNewton2.png"></center>
+<p>The right hand side of this equation is then a constant for every planet, which is why Kepler get this result as his third law. Again, if a<sub>p</sub> is in AU, P<sub>p</sub> is in years and now m<sub>sun</sub> is 1 solar mass (so many times the massof the sun) the constant K is 1.</p>
+
+<p>The same equation applied to satellites orbiting a planet becomes</p>
+<center><img src="23103bs3rdLawModNewton3.png"></center>
+<p>Note that K is the same constant as before. Therefore if units of a in AUs, P in years, m in solar masses are used, K is still 1.
+
+<p>Questions
+ <a href="launch.htm#q0888"><b>888</b></a>
+and  <a href="launch.htm#q0889"><b>889</b></a> use Kepler's third law modified by Newton to find the masses of planets.</p>
+
+<p>Ultimately, these laws enable us to calculate the motion of multi-body systems, e.g. <a href="K:\CALMAT\scalmat\plans\chaosdem\chaos.exe">2 stars and a planet</a>. Open this link and choose "E. Restricted 3-Body Problem".
+
+
+<!--end-->
+
+</BODY>
+</HTML>
+

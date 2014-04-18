@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>Hello, this is my <b> first </b> attempt at a <u> lesson plan </u>
+<Br>
+<Br>
+Planetary Science	Dept. of Mathematics
+<br>	Glasgow Caledonian University
+<br>
+SEMINAR  
+<br>
+Distances and Motions of Solar System Bodies
+<br>
+1.  Application of Kepler’s Third Law
+<br>
+Materials:  calculator
+<br>
+Aim:		To understand Kepler’s third law.  In particular, in the Solar System this means understanding how the distance to a planet and the time it takes the planet to revolve around the sun are related.  Or how the distance to a satellite and the time it takes for the satellite to revolve around the planet are related. 
+<br> 
+<br>Introduction:  
+<br>   Kepler’s third law states:
+<br>   
+<br>   The ratio of the cube of a planet’s average distance from the Sun to the square of its orbital period is the same for each planet revolving around the Sun.
+<br>   
+<br>   a = average distance of planet from the Sun
+<br>   P = orbital period of the planet
+<br>   K = constant
+<br>   
+<br>   a3 /P2 = K 
+<br>
+   This means that the cube of the ratio of the average distances of two planets from the Sun is equal to the square of the ratio of the periods of time it takes two planets to revolve around the Sun.  Let a subscript of 1 denote planet 1 and a subscript of 2 denote planet 2.
+<br>   
+<br>   a1 3 /P1 2 = a2 3 /P2 2
+<br>
+Click here to try question.<a href="launch.htm#Q0061">Click here for Q0061</a>
+
+<a href="http://archives.math.utk.edu/visual.calculus/4/int_by_parts.3/index.html">Tutorial on Integration by parts</a>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

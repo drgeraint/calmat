@@ -1,0 +1,58 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2417</P>
+<P ALIGN="CENTER">Outcome :Confidence Intervals</P></B>
+<P ALIGN="CENTER"></P></B><FONT FACE="Comic Sans MS" SIZE=2>
+
+<B>Interval Estimates</B>
+<Br>It is good practice to summarise your data by presenting interval estimates for the important parameters ( eg the mean <FONT FACE="Symbol">&#109;</FONT>
+ ).   The interval should be accompanied by the probability that the interval will contain the parameter.
+
+<P>The probability is the <B>level of confidence</B> and the resulting interval is called a <B>confidence interval</B>.
+
+<Br>Generally we give a 95% confidence interval but sometimes a 90% or 99% interval is required.</p>
+
+
+<UL>Try <a href="launch.htm#q0777">q0777</a> and <a href="launch.htm#q0778">q0778</a>.</UL>
+
+<HR>
+<B>Estimating Sample Size</B> How do we know what size of sample to take to estimate the true mean of a population? Too small a sample size will lead to a poor estimate of the mean, and a needlessly large sample could waste time and money.
+<UL>Try <a href="launch.htm#q0779">q0779</a>.</UL>
+<P>
+<HR>
+<B>The t-distribution
+</B>
+<Br>In practice, we rarely know the value of <FONT FACE="Symbol">&#115;</FONT>
+.   What we do when <FONT FACE="Symbol">&#115;</FONT>
+ is <B>unknown</B> is to estimate it using the sample standard deviation <B>s</B></P>
+
+<P>If we use <B>s instead of <FONT FACE="Symbol">&#115;</FONT>
+ </B>, the z-statistic that we use to calculate confidence intervals becomes a 
+<UL><B>‘t-statistic with n-1 degrees of freedom’</B>. </UL>  Often the Greek letter <FONT FACE="Symbol">&#110;</FONT>
+ is used to denote degrees of freedom.</P>
+
+<UL><LI>The t-distribution is actually a family of distributions since there is a different distribution for each value of <FONT FACE="Symbol">&#110;</FONT>
+.  
+<LI>The t-distribution is very similar to the Normal distribution.   As the degrees of freedom (= n-1) increase the percentage points become closer to the equivalent points from the Normal distribution. </UL>
+
+<UL>Try <a href="launch.htm#q0780">q0780</a>.</UL>
+
+
+
+
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

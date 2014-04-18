@@ -1,0 +1,90 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Probability</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Definitions and Introductory Examples</center></b><font size="--">
+<P><b>Introduction</b>
+<P>Most of us have a good idea of probability because we have all played games of chance,  Snakes and Ladders, Bridge, Roulette, etc.
+<P>Begin by working through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 a~?">1-49 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 b~?">section b</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 c 0~?">section c</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 d 0~?">section d</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 e 0~?">section e</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 1 49 f~?">section f</a>. 
+<P>Try <a href="launch.htm#q0530">q0530</a> and <a href="launch.htm#q0428">q0428</a>.
+<P><b>Definitions</b>
+<P>A number of definitions are required.
+<P><b>Sample Space</b>
+<P>
+<LI>This is the set of all possible outcomes of an experiment.
+<LI>For example, in throwing a die,  the sample space S (say) is: S = {1, 2, 3, 4, 5, 6}
+<P><b>Sample Point</b>
+<P>
+<LI>Each possible outcome is a sample point.
+<P><b>Event</b>
+<P>
+<LI>A collection of sample points with a common property is called an event.
+<LI>If a die is thrown and the number less than 3 is obtained,  then this is an event containing the sample points 1 and 2.
+<LI>We can write: E = {1, 2}
+<P><b>Probability</b>
+<P>
+<LI>The probability of a sample point is the proportion of occurrences of the sample point in a long series of experiments.
+<P><b>Example</b>
+<P>
+<LI>A coin is tossed three times.
+<P>(i) List the Sample Space.
+<P>(ii) Let A be the event that two or more heads appear consecutively.   List the members in A.   Find the probability of A.
+<P>(iii) Let B be the event that all tosses have the same outcome.   List B.   Find the probability of B.
+<P><b>Solution</b>
+<P>(i)
+<P><img src="Image28.png">
+<P>The Sample Space is S= {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}.
+<P>Here there are 8 Sample Points.
+<P>(ii) The event A contains the following Sample Points: A = {HHH, HHT, THH}
+<P>Here there are 3 Sample Points.
+<P>Hence the probability that A occurs is:
+<P>Pr(A) = n(A)/n(S) = 3/8
+<P>(iii) The event B contains the following Sample Points: B = {HHH, TTT}
+<P>Here there are two Sample Points.
+<P>Hence the probability of Event B is:
+<P>Pr(B) = n(B)/n(S) = 2/8 = 1/4
+<P><b>Finite Probability Spaces</b>
+<P><LI>A Finite Probability Space is obtained by assigning to each point a<sub>i</sub> in the Sample Space, S, a real number p<sub>i</sub>, called the probability of a<sub>i</sub>,  satisfying the following properties:
+<P>(i)Each  p<sub>i</sub> is non-negative, i.e. p<sub>i</sub>>=0, for all i.
+<P>(ii)The sum of the p<sub>i</sub> is 1.
+<P>i.e. p<sub>1</sub> + p<sub>2</sub> + ........ +  p<sub>n</sub> = 1
+<P>i.e. The probabilities add to 1. 
+<P><b>Example</b>
+<P>Three coins are tossed and the number of heads obtained is observed.
+<P>Here the result of the tosses can be:
+<P>0 Heads, 1 Head, 2 Heads or 3 Heads.
+<P>So, S = {0, 1, 2, 3,}
+<P>Now Pr(0) = 1/8, Pr(1) = 3/8, Pr(2) = 3/8 and Pr(3) = 1/8
+<P>Note :- Each sample point does not occur with the same probability.
+<P><LI>Let A be the event that at least one Head appears.   Determine Pr(A).
+<P>Pr(A) = Pr(1) + Pr(2) + Pr(3) = 3/8 + 3/8 + 1/8 = 7/8
+<P><LI>Let B be the event that all Heads appear or all Tails appear
+<P> Pr(B) = Pr(0) + Pr(3) = 1/8 + 1/8 = 1/4
+<P>Try <a href="launch.htm#q0744">q0744</a>, <a href="launch.htm#q0745">q0745</a>, <a href="launch.htm#q0746">q0746</a>, <a href="launch.htm#q0747">q0747</a>, <a href="launch.htm#q0748">q0748</a> and <a href="launch.htm#q0743">q0743</a>.
+<P><b>Equiprobable Spaces</b>  
+<P>Here the outcomes of the Sample Space are assigned equal probabilities.
+<P><b>Example</b>
+<P>In throwing a fair die:
+<P><img src="Image29.png">
+<P>Let the event A be defined by "getting at least a 5 on a single throw".   The A = {5, 6}.
+<P>Pr(A) = n(A)/n(S) = 2/6 = 1/3
+<P><b>Example</b>
+<P>Determine the probability of selecting a spade from a set of 52 cards.
+<P>Event A = {card is a spade}
+<P>Pr(A) = n(A)/n(S) = 13/52 = 1/4
+<P>
+<P>This is the end of the first Learning Plan on Probability.   
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

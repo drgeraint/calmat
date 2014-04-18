@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Logic</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Logic</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Learning Plan 5</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Propositional Logic (The Biconditional)</P>
+<P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>&nbsp;</P>
+<P>The lecture notes referred to in this Learning Plan are those entitled &quot;Boolean Algebra&quot;.</P>
+
+<P>&nbsp;</P>
+<P>The connective &quot;<B>if and only if</B>&quot; is called the <B>biconditional connective</B> and is denoted by <FONT FACE="Symbol">&#219;</FONT>
+.   If p and q are two propositions for which</P>
+
+<P ALIGN="CENTER">p <FONT FACE="Symbol">&#222;</FONT>
+ q and q  <FONT FACE="Symbol">&#222;</FONT>
+ p</P>
+
+<P>then this is stated as &quot;p if and only if q&quot; and is written as</P>
+
+<P ALIGN="CENTER">p <FONT FACE="Symbol">&#219;</FONT>
+ q or p iff q</P>
+
+<P>&nbsp;</P>
+<P>p <FONT FACE="Symbol">&#219;</FONT>
+ q is equivalent to (p <FONT FACE="Symbol">&#222;</FONT>
+ q)<FONT FACE="Symbol">&#217;</FONT>
+(q  <FONT FACE="Symbol">&#222;</FONT>
+ p).</P>
+
+<B><P>&nbsp;</P>
+<P>Example</P>
+</B>
+<P>The truth table for the biconditional connective is</P>
+<img src="Image90.png">
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+
+
+<B>
+<P>Tautology</P>
+</B>
+<P>A tautology is a compound statement that is always true.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>Show that <B>p <FONT FACE="Symbol">&#218;</FONT>
+ <FONT FACE="Symbol">&#126;</FONT>
+p</B> is a tautology.</P>
+
+
+<img src="Image91.png">
+</FONT><FONT FACE="Arial" SIZE=2><P></FONT><FONT FACE="Arial">
+<P>&nbsp;</P>
+<P>From the truth table p <FONT FACE="Symbol">&#218;</FONT>
+ <FONT FACE="Symbol">&#126;</FONT>
+p is always true hence p <FONT FACE="Symbol">&#218;</FONT>
+ <FONT FACE="Symbol">&#126;</FONT>
+p is a tautology. </P>
+
+<P>&nbsp;</P>
+<P>An understanding of tautology is necessary to test the validity of an <B>argument</B>.   Read about arguments on pages 21 and 22 of your lecture notes.</P>
+
+<P>This is the end of the fifth  Learning Plan on Logic.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

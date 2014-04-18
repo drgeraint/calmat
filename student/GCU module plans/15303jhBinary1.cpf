@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Binary Arithmetic</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Converting Between Decimal Numbers and Binary Numbers</center></b><font size="--">
+<P>
+
+<br>Computers execute binary instructions.   As the computer follows a sequence of instructions, a complex programme can make the machine appear to be intelligent.
+<P>
+The purpose of this section of the Discrete Mathematics course is to consider some elements of binary arithmetic.
+<P>
+<P>
+<b><font size="+1">Converting Whole Numbers to Binary Numbers</b><font size="--">
+<P>The first few decimal whole numbers converted to binary are as follows:-
+<P>
+<img src="Image1.png">
+<P>
+In general, a whole decimal number can be converted into a binary number by repeated division by two and then by looking at remainders.
+<P>
+<b>Example</b>
+<P>
+Convert 8d (decimal) to binary (b).
+<P>
+<img src="Image2.png">
+<P>
+Hence 8 d is 1000 b.
+<P>
+<b>Example</b>
+<P>
+Convert 427d to binary.
+<P>
+<img src= "Image3.png">
+<P>
+Hence
+<P>
+427 d is 110101011 b.
+<P>
+Try <a href="launch.htm#q0720">q0720</a> and <a href="launch.htm#q0721">q0721</a>.
+<P> 
+<b><font size="+1">Converting Binary Numbers to Whole Numbers</b><font size="--">
+<P>
+Binary numbers can be converted to decimal whole numbers by considering the powers of 2.
+<P>
+<b>Example</b>
+<P>
+<img src="Image4.png">
+<P>
+<img src="Image5.png">
+<P>
+Try <a href="launch.htm#q0722">q0722</a> and <a href="launch.htm#q0723">q0723</a>.   Also attempt <a href="launch.htm#q0469">q0469</a>. 
+<P>This is the end of the first Binary Learning Plan.   Now move onto Binary 2.
+<br>
+
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

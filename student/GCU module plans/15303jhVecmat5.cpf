@@ -1,0 +1,96 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+<font face="Arial">
+<b><font size="+2"><center>Vectors and Matrices</center></b>
+<b><font size="+1"><center>Learning Plan 5</center></b>
+<P>
+<b><center>Applications of Gaussian Elimination</center></b><font size="--">
+
+<br>
+
+<br>
+<b>Application of Gaussian Elimination to solving a system of equations with three unknowns</b>
+
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI> The method works for any number of equations in any number of unknowns.
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+ 
+<L1>We saw that we can write a system of equations in matrix form A<u>x</u> = <u>b</u> where A is a 3 x 3 matrix, <u>x</u> and <u>b</u> are 3 x 1 column vectors. 
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>The augmented matrix M = [A,b] is a 3 x 4 matrix where the fourth column consists of the column vector <u>b</u>.   Try once again <a href="launch.htm#q0258">q0258</a>. 
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>Reduce the augmented matrix to echelon form. If a row of the form (0 0 0 b) occurs then stop. The system does not have a solution.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>either reduce M to row canonical form.<i> Look at Ex 5.14 on page 114.</i>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>or stop at the echelon form and do backwards substitution.
+<br>
+This is similar to the method used in the CALMAT lesson.
+<br>
+
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+The system may have
+<br>
+</td></tr></table><table border=0 width="94%" align=center><tr><td>
+<LI> a unique solution. <i> read Example 5.13 p 114, do problem 5.32</i>.
+<br>
+<LI>no solution. <i> read 5.35 </i>
+
+<LI> an infinite number of solutions <i>Do problems 5.33 and 5.34.</i>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+Now do <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 13 c~?">3-13 section c</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 13 d~?">3-13 section d</a>, and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 13 e 0~?">3-13 section e</a>. <i> Do problems 5.65 and 5.66.</i>
+<P>Try <a href="launch.htm#q0815">q0815</a>. 
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+
+<HR>
+<b>Inverse of a 3 by 3 matrix using elementary row operations.</b> <i> Read page 116</i>.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI> Given a 3 by 3 matrix A
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI> Form the matrix M =[A, <font face="Times New Roman">I</font>]. M is a 3 by 6 matrix, the left half is A and the right half is the 3 by 3 identity matrix.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>Reduce M to echelon form.
+<br>
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+If the process generates a zero row, in the A-half of M, stop. A has no inverse, otherwise A is now in triangular form.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>Further reduce M to row canonical form M~[
+<font face="Times New Roman">I</font>, B], where <font face="Times New Roman">I</font face> has replaced the left half of M.
+</td></tr></table><table border=0 width="100%" align=center><tr><td>
+<LI>Then A
+<sup>-1</sup> = B where B is the inverse of A which is now in the right half of M.
+<br>
+
+<i> Look at Example 5.14 and do problems 5.25, 5.26, 5.61.</i>
+
+<br>
+
+<br>There are no questions in TASMAT which show the above method of solution. However, if you need further exercises to try then you can use the following questions<a href="launch.htm#q0089"> q0089</a> and <a href="launch.htm#q0327">q0327</a>. The solutions in these questions do not use row operations, but you have an infinite supply of matrices and their inverses. 
+<br>
+
+<br>
+
+<br>This is the end of Learning Plan 5 for Vectors and Matrices.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

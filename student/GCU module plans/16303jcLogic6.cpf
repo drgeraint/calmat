@@ -1,0 +1,132 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Logic</center></b>
+<b><font size="+1"><center>Learning Plan 6</center></b>
+<P>
+<b><center>Propositional Calculus And WHILE-loops </center></b><font size="--">
+<P>
+ Most major computer languages include various <b>loops</b>
+ for repetitive procedures. We consider the WHILE loop, based on
+ propositional calculus.  It has the basic form:
+<P><center>while (<I>something</I> is true: Do <I>stuff</i> stated here)</center>
+
+<BR>
+ It may be helpful to think of this as being of form:
+<P><center><I>[Until This Fails]</I><B> keep doing</b><I> [Stuff stated here]</I></center>
+<P>
+ and noting that doing [<I>Stuff stated here</I>]  must
+ eventually make the first part become false: if not, the
+ procedure iterates forever --- we get stuck in an infinite loop.
+<P>
+ For example
+<P><UL> x:=10; 
+<BR> WHILE x>0  x:=x+1,
+</UL>
+<BR>
+ However, if properly designed,  a while loop can (and should) be
+ forced to terminate: 
+<P>
+<UL> x:=10;
+<BR>  WHILE x>0 AND x<50     x:=x+2,
+</UL>
+ which starts at x=10, and increases in steps of
+ 2. When x=48, the condition is satisfied (ie 48>0 and 48<50, so x=x+2 gives x=50 on leaving the loop. Entering the loop again with x=50, the condition is not satisfied (ie 50 is not less than 50) so the process terminates. Terminating value x=50. 
+
+<P>
+ We shall pretend that there is a `PRINT' that
+ behaves as its name suggests. So the previous pseudo-code may
+ be decorated so that it an output is provided: 
+<BR> 
+<UL> x:=10;
+<BR> WHILE x>0 AND x<50    x:=x+2;
+<BR> PRINT  x.
+</UL>
+<P>
+We may elaborate, by introducing several variables.  
+<BR>
+<UL> x:=10 ; n=0;  
+<BR>WHILE x>0 AND x<50:    x:=x+2;   n=n+1;
+<BR> PRINT (x,n).
+</UL>
+<P>
+ Notice that the WHILE statement has two
+colon-separated arguments 
+<UL>WHILE(<b>this holds</B> : DO THIS)
+</UL>
+<BR> and that  sequence commands:PRINT(x), ASSIGN x:=3, are separated by semicolons. 
+
+<P>
+<B>Example 1</B>
+<BR>
+ Consider the terminal value of x obtained when this is
+ initialized to x:=0, and the following WHILE-loop is run.
+<BR> <UL>
+<BR> x := 0;
+<BR> WHILE( x<20 : x := x+3);
+ <BR>PRINT(x)
+</UL>
+<P><B>Solution</b>
+<BR><UL>
+After the first pass through the loop the value of x is equal to3,
+<BR> after the second pass the value is equal to 6,
+<BR> After 6 passes, x = 18.
+<BR>x so the WHILE condition has not failed and another loop takes place.
+<BR> After this loop, the value of x is 21 and this is the terminating value.
+<BR> Hence the printed value of x is 21.</UL>
+
+<P> Try  <a href="launch.htm#q0860">q0860</a> .
+
+<P><B> Example 2</B>
+<BR> Consider the following pseudo-code:
+<BR><UL>
+x=0; n=0; 
+<BR> WHILE(x<20 OR x>15 : x:=x+1; n:=n+1) 
+<BR> PRINT(n)
+</UL>
+<P><b>Solution</b>
+<BR><UL>
+ x=0 so x is less than 20 (but not greater than 15) so WHILE condition is true. 
+<BR> Recall  p OR q is true if either p, q or both are true.
+<BR> So x increases by 1 and n increases by 1
+<BR> For each pass through the loop, the value of x and n increase. 
+<BR> Note that as x increases, it becomes greater than 15 so the WHILE statement continues to be true.
+<B>
+In this case we have an infinite loop.</B>
+</UL>
+<P>
+<B> Example 3</B>
+<BR> Consider the following pseudo-code:
+<BR><UL>
+x=0; n=0; 
+<BR> WHILE(x<20 AND x>15 : x:=x+1; n:=n+1) 
+<BR> PRINT(n)
+</UL>
+<P><B>Solution</b>
+<BR><UL>
+ x=0 so x is less than 20 (but not greater than 15) so WHILE condition is false. 
+<BR> Recall  p AND q is true if both  p, and  q are true.
+<BR> So the loop is not activated
+<BR> Hence the initial values are unchanged. 
+<BR> So x= 0 n=0 are the terminal values. </UL>
+<P>
+Try questions  <a href="launch.htm#q0861">q0861</a> , <a href="launch.htm#q0862">q0862</a>, 
+
+<a href="launch.htm#q0863">q0863</a> , <a href="launch.htm#q0864">q0864</a> and <a href="launch.htm#q0865">q0865</a>.
+<P>Note that good construction of WHILE statements can eliminate the need for numerous IF ... THEN statements.
+ 
+
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

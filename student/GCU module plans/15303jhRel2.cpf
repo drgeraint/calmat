@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Relations</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Pictorial Representations of Relations</center></b><font size="--">
+<B><P>Example </P>
+</B>
+<P>Consider a relation S on the set of Real Numbers,  S is a subset of  R<SUP>2</SUP> = R <FONT FACE="Symbol">&#180;</FONT>
+ R,  In this example R is the set of real numbers.</P>
+
+<P>S is defined by&#9;&#9;x<SUP>2</SUP> + y<SUP>2</SUP> = 25.  S is made up from all ordered pairs (x,y) which satisfy the given equation.</P>
+
+
+<P><img src="Image36.png">
+<P>Try <a href="launch.htm#q0450">q0450</a>.
+
+<B><P>Directed Graphs</B> of relations on sets. Consider set A = {1, 2, 3, 4}.</P>
+
+<P>Define relation R as R = {(1,2), (2,2), (2,4), (3,2), (3,4), (4,1), (4,3)}</P>
+
+<P><img src="Image37.png">
+<P>Try <a href="launch.htm#q0452">q0452</a>.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

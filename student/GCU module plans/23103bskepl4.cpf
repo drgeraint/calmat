@@ -1,0 +1,47 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial" size="+2"><center><p><b>Newton's Modification to Kepler's Laws</b></p></center>
+</font><font face="Arial" size="--">
+
+<font face="Arial" size="+1"><p><b>Newton’s Law of Universal Gravitation</b></p></font>
+<p>Between every two objects there is an attractive force, the magnitude of which is directly proportional to the mass of each object and inversely proportional to the square of the distance between the centers of the objects.</p>
+<p>The force
+<ul><li>makes objects fall to Earth</li>
+<li>keeps Moon in orbit around Earth</li>
+<li>keeps planets in orbit around Sun</li></ul></p>
+
+<p><b>Kepler’s 1st Law</b>
+<br/>Newton could show mathematically that his laws of motion and law of gravity compel objects to have elliptical orbits.</p>
+
+<p><b>Kepler’s 2nd Law</b>
+<br/>Equal areas in equal times again mathematically follow from Newton’s law.</p>
+
+<p><b>Kepler’s 3rd law</b>
+<ul>
+<li>The period-distance relationship results mathematically from the inverse square law for gravitation.
+<li>Newton improved Kepler’s Law, got <b>Kepler’s Law modified by Newton</b>, which includes the masses of the bodies and enables determination of the mass of the primary body.  </li></ul></p> 
+
+<p>Kepler's third law as modified by Newton using his universal law of gravity:
+<center><img src="23103bs3rdLawModNewton1.png"></center>
+<p>where:
+<br/>a<sub>p</sub> = distance of the planet from the Sun,
+<br/>P<sub>p</sub> = time it takes for the planet to revolve around the Sun,
+<br/>m<sub>p</sub> = the mass of the planet revolving around the Sun,
+<br/>m<sub>sun</sub> = the mass of the Sun,
+<br/>and K is a constant.
+</p>
+
+
+
+<!--end-->
+
+</BODY>
+</HTML>
+

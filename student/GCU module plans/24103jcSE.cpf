@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<br>
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2416</P>
+<P ALIGN="CENTER">Outcome :Standard Error of the Mean</P></B>
+<P ALIGN="CENTER"></P></B><FONT FACE="Comic Sans MS" SIZE=2>
+
+
+<P>Many studies or experiments involve taking measurements on a sample of people, animals, plants or products.   It is usual to take a sample that is random and representative of the population under study.   Statistical inference deals with the question of what can be inferred about the population from a sample (ie what can we say about the population from data collected on a sample).   Statistical inference will only be valid if the experiment has been properly designed to ensure that a sample is random and representative of the population.  </P>
+
+
+<B><P>Distribution of the Sample Mean</P></B>
+<Br> The serum bilirubin (mg/100cc) of a random sample of nine healthy 4 year old infants was recorded.</P>
+
+<UL>If we were to have measured the serum bilirubin levels of a different sample of infants then our estimate of the mean would be slightly different.  We require to know how much the sample mean varies from sample to sample.</UL>
+
+<Br>We should note that variability from sample mean to sample mean is much less than the variability from individual to individual.   The distribution of sample means is known as the <B>Sampling Distribution of the Sample  Mean</B>.   In particular we should note that the Sampling Distribution of the Sample Mean</P>
+
+<OL TYPE="i">
+
+<UL><LI>has the same mean as the population</LI>
+<LI>has less variability than the population</LI>
+<LI>has a Normal Distribution when the population has a Normal Distribution.</LI></OL>
+
+<br>
+<P>In fact the standard deviation of the distribution of sample means (known as the <B>standard error</B> of the sample means to distinguish it from the standard deviation of the population of individual values) is given by the formula <B><FONT FACE="Symbol">&#115;</FONT>
+/<FONT FACE="Symbol">&#214;</FONT>
+n</B>.</P>
+
+
+
+<P>Try <a href="launch.htm#q0776">q0776</a>.</P>
+***
+
+
+
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

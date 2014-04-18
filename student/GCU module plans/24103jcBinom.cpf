@@ -1,0 +1,87 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+
+<B><FONT FACE="Comic Sans MS" SIZE=3><P ALIGN="CENTER">Fire Safety Data BSUT2413</P>
+<P ALIGN="CENTER">Outcome:The Binomial Distribution</P>
+<P ALIGN="CENTER"></P></B>
+<FONT FACE="Comic Sans MS" SIZE=2>
+
+<P>There are two types of Probability Density Functions:
+<UL><LI>Discrete Probability Functions
+<LI>Continuous Probability Density Functions</UL>
+Each Density Function has a Distribution Function F where
+<UL>F(x) = Pr(X is less than or equal to x)</UL>
+<b>Discrete Random Variables</b> have discrete probability density functions.   Such functions often consist of a table of values.
+<UL><b>Example</b>
+<P>Let X denote the number of heads obtained when a coin is tossed twice.   The Probability Density Function of X is:-
+<Br><img src="Image34.png">
+<Br>The Sample Space, S = {(T,T), (T,H), (H,T), (H,H)}.</UL>
+In this module, two Discrete Distributions are considered:- The Binomial Distribution and the Poisson Distribution.
+<P><b>Binomial Distribution</b>
+<LI>The Binomial Distribution can be used to model a wide number of applications;  from quality control to the failure of rocket engines.
+<LI>If a series of trials satisfies the following conditions,  then the Binomial Distribution can be used.
+<UL><LI>For each trial there are only two possible outcomes,  which are mutually exclusive.   The outcomes can be described as "success" or "failure" (or "Heads" or "Tails", etc)
+<LI>Outcomes of individual trials are independent of each other.
+<LI>The probability of a "success" in each trial is constant.   It is usually denoted by p,  and the probability of failure by q = 1 - p.</UL>
+The Binomial probabilities can be calculated from:-
+<Br><img src="Image35.png">
+<Br>where
+<UL><LI>Pr(X = r) means the probability that the random variable, X,  takes on the value r.
+<LI>n = the number of trials
+<LI>r = number of "successes"
+<LI>p = probability of success in one trial
+<LI>q = probability of failure in one trial</UL>
+<b>Example</b>
+<Br>From all the families which have five children what is the chance that a family has:-
+<UL><LI>exactly one boy?
+<LI>at least one boy?</UL>
+<UL><b>Solution</b>
+<Br>Assume that the probability of a boy equals the probability of a girl (ie.each equals 1/2)
+<LI>Let p = "the probability a child is a boy" and q = "the probability a child is a girl"
+<LI>Here p = 1/2 and q = 1 -  p = 1 - 1/2 = 1/2 
+<LI>Also n = 5
+<Br>Hence Pr(X = 1 boy) 
+<Br><UL>= <sup>n</sup>C<sub>r</sub>p<sup>r</sup>q<sup>n-r</sup>
+<Br>=  <sup>5</sup>C<sub>1</sub>p<sup>1</sup>q<sup>5-1</sup>
+<Br>= (5)(1/2)(1/2)<sup>4</sup>
+<Br> = 5/32</UL>
+<P>The Pr(at least one boy) 
+<Br><UL>= Pr(X = 1) + Pr(X = 2) + Pr(X = 3) + Pr(X = 4) + Pr(X = 5)
+<Br>= 1 - Pr(X =0) ;  easier to calculate
+<Br>=1 -  <sup>5</sup>C<sub>0</sub>p<sup>0</sup>q<sup>5</sup>;  p= 1/2, q=1/2.
+<Br>= 1 - (1/2)<sup>5</sup>
+<Br>= 31/32</UL></UL>
+<P><b>Example</b>
+<Br>It is claimed that 40% of viewers of a particular soap opera can recall the name of the washing up liquid advertised during the commercial break.
+<Br>Ten viewers are selected at random.   What is the probability that:
+<UL><LI>a) no viewers can recall the product name ?
+<LI>b) more than 8 viewers can recall the product name ?</UL>
+<UL><b>Solution</b>
+<Br>Let p = probability that viewer can recall name = 0.4,  (40% = 40/100 = 4/10 = 0.4)
+<Br>Let q = 1-p = 0.6,  n = 10,  viewers
+<Br>a) Pr(X = 0 viewers can recall) 
+<UL>= Pr(X = 0) 
+<Br>=   <sup>n</sup>C<sub>0</sub>p<sup>0</sup>q<sup>10</sup> 
+<Br>=  <sup>10</sup>C<sub>0</sub>(0.4)<sup>0</sup>(0.6)<sup>10</sup> 
+<Br>= 0.00605</UL>
+b)Pr(More than 8 viewers could recall) 
+<UL>= Pr(X = 9) + Pr(X = 10)
+<Br> = <sup>10</sup>C<sub>9</sub>p<sup>9</sup>q<sup>1</sup> + <sup>10</sup>C<sub>10</sub>p<sup>10</sup>q<sup>0</sup>
+<Br> = (10)(0.4)<sup>9</sup>(0.6)<sup>1</sup> + (0.4)<sup>10</sup>
+<Br> = 0.000157 + 0.000105
+<Br> = 0.000262</UL>
+<Br>Try <a href="launch.htm#q0563">q0563</a>, <a href="launch.htm#q0564">q0564</a>, <a href="launch.htm#q0565">q0565</a>, <a href="launch.htm#q0566">q0566</a> and <a href="launch.htm#q0567">q0567</a>.
+<br> 
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

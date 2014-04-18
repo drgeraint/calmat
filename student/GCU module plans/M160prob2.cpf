@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Probability Learning Plan 2</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Probability Learning Plan 2</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Compound Events</P>
+<P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>The lecture notes referred to in this Learning Plan as those titled ‘Unit 2 : Probability’.</P>
+</FONT><B><FONT FACE="Arial" SIZE=4>
+</FONT><FONT FACE="Arial"><P>Compound Events: A or B</P>
+
+</B><P>Suppose A and B are two events in a given situation.   If A and B cannot possibly occur simultaneously they are said to be <B>mutually exclusive</B> events.</P>
+
+<P>For mutually exclusive events the probability that one event <B>or</B> the other occurs is given by:</P>
+
+<P ALIGN="CENTER">P(A or B) = P(A) + P(B)</P>
+<P ALIGN="CENTER"></P>
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 f~?">3-7 section f</a>.   Try <a href="launch.htm#q0429">q0429</a>.</P>
+
+<P>If two events are not mutually exclusive, i.e. they can take place at the same time, then the probability of a least one of the events occurring is given by:</P>
+
+<P ALIGN="CENTER">P(A or B) = P(A) + P(B) – P(A and B)</P>
+<P ALIGN="CENTER"></P>
+<P>Try <a href="launch.htm#q0738">q0738</a>.</P>
+
+<P>Read page 4 of your notes and work through the given examples.   Spend some time on the following questions, <a href="launch.htm#q0744">q0744</a>, <a href="launch.htm#q0745">q0745</a>, <a href="launch.htm#q0746">q0746</a>, <a href="launch.htm#q0747">q0747</a> and <a href="launch.htm#q0748">q0748</a></P>
+
+<P>&nbsp;</P>
+<B><P>Compound Events: A and B</P>
+</B>
+<P>If two events, A and B, are independent (i.e. the occurrence of the first event has no effect on whether or not the second event occurs) we have:</P>
+
+<P ALIGN="CENTER">P(A and B) = P(A) x P(B)</P>
+<P ALIGN="CENTER"></P>
+<P>Consider <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 g~?">3-7 section g</a>.   Try <a href="launch.htm#q0749">q0749</a>.   Take your time on <a href="launch.htm#q0534">q0534</a> and <a href="launch.htm#q0742">q0742</a>.</P>
+
+<P>The probability that an event B will occur given that a related event A has already occurred is called the <B>conditional probability </B>of B given A and is denoted P(B<FONT FACE="Symbol">&#189;</FONT>
+A).</P>
+
+<P>We can then calculate the probability that both A and B will occur from:</P>
+
+<P ALIGN="CENTER">P(A and B) = P(A) x P(B<FONT FACE="Symbol">&#189;</FONT>
+A)</P>
+
+<P>Read about P(A and B) on page 5 of your notes.   Study the examples carefully then try <a href="launch.htm#q0536">q0536</a>, <a href="launch.htm#q0535">q0535</a> and <a href="launch.htm#q0750">q0750</a>.</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

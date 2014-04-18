@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Enumeration</center></b>
+<b><font size="+1"><center>Learning Plan 1</center></b>
+<P>
+<b><center>Permutations</center></b><font size="--">
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 6 a 0~?">3-6 Section a</a>.
+<P><b>Example</b>
+<P>Seven horses run a race.   In how many different ways can the seven horses finish ? (No tie)
+<P><b>Solution</b>
+<P>Take a horse at a time.  The first horse considered could be 1st, 2nd, 3rd, .......,7th.   So it can take any one of seven finishing positions.
+<P><img src="Image27.png">
+<P>The next horse considered could take any one of the six remaining positions.   This leaves five positions remaining.   The next horse considered could take any one of five positions left etc.
+<P>(7) (6) (5) (4) (3) (2) (1)
+<P>1st 2nd.........
+<P>and (7) (6) (5) (4) (3) (2) (1) = 5040
+<P>Note that the number of positions have been multiplied together.
+<P><b>Factorial Notation</b>
+<P><LI>The product of the first n positive integers is denoted by n! (n factorial).
+<P><LI>2! = 2x1 = 2
+<P><LI>7! = (7) (6) (5) (4) (3) (2) (1) = 5040
+<P><LI>n! = n(n-1)(n-2) ..........(3)(2)(1)
+<P><LI>also note n! = [(n)][(n-1)(n-2) ......(3)(2)(1)] = (n)(n-1)!   This is an example of a recursive relationship.
+<P><LI>1! = 1
+<P><LI>0! = 1 Do not be surprised by this.   We have constructed a function.
+<P>Attempt the following <a href="launch.htm#q0195">q0195</a>, <a href="launch.htm#q0194">q0194</a>, <a href="launch.htm#q0162">q0162</a> and <a href="launch.htm#q0161">q0161</a>.
+<P><b>Example</b>
+<P>Seven horses run a race.   In how many ways can the first three horses finish ?
+<P><b>Solution</b>
+Any one of seven horses can fill the first position - leaves two positions to be filled by two of the remaining six horses.   Continue this way:-
+<P>(7)(6)(5) = 210 ways.
+<P>In the above we have selected three winning horses from seven.   Order is important, e.g. consider three horses; result ABC is different from ACB and BAC and BCA and CAB and CBA.
+<P>Now (7)(6)(5) =(7)(6)(5)x(1)
+<P>=...........
+<P>=..........
+<P>refer to your lecture notes for working
+<P> = P(7,3)
+<P>An arrangement of a set of n objects<u> in a given order</u> is called a  <b>permutation</b> of the objects.
+<P>Any arrangement of r<=n of these objects in a given order is called an r-permutation (or a permutation of n objects taking r at a time).
+<P><b>Example</b>
+<P>The set A = {a, b, c}.   How many permutations are possible by taking three letters at a time ?
+<P><b>Solution</b>
+<P>First Method - List
+<P> abc, bac, cab, acb, bca, cba
+<P>There are six permutations.
+<P> Second Method - Find P(3,3)
+<P>P(3,3) = 3!/(3-3)! = 3!/0! = (3)(2)(1) = 6
+<P><b>Example</b>
+The set A = {a, b, c}.   How many permutations are possible by taking two letters at a time ?
+<P><b>Solution</b>
+<P>First Method - ab ac ba bc ca cb - 6 ways
+<P> Second Method - P(3,2) = 3!/(3-2)! = 3!/1! = 6 ways.
+<P>The number of permutations of n objects taken r at a time is denoted by :- P(n,r) = <sup>n</sup>P<sub>r</sub>= n!/(n-r)!
+<P>Try <a href="launch.htm#q0733">q0733</a> and <a href="launch.htm#q0732">q0732</a>. 
+<br>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

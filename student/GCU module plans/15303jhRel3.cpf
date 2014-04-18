@@ -1,0 +1,133 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Relations</center></b>
+<b><font size="+1"><center>Learning Plan 3</center></b>
+<P>
+<b><center>Types of Relations</center></b><font size="--">
+<FONT FACE="Arial"><UL><UL><B><LI>Reflexive Relations</LI>
+<LI>Symmetric Relations</LI>
+<LI>Anti Symmetric Relations</LI>
+<LI>Transitive Relations</LI></UL></UL></b>
+
+<B><P>Reflexive Relations</P>
+
+</B><P>A relation R on a set A is <b>reflexive </b>if <b>aRa  <FONT FACE="Symbol">&#34;</FONT>
+ a <FONT FACE="Symbol">&#206;</FONT>
+ A. </b>  (<FONT FACE="Symbol">&#34;</FONT>
+: read as ‘for all’)</P>
+
+<B><P>Examples </B>:Consider the set A = {1, 2, 3, 4}</P>
+
+<b><LI>R<SUB>1 </SUB>= {(1,1), (1,2), (2,3), (1,3), (4,4)}</b>
+
+<UL>Here (3,3) <FONT FACE="Symbol">&#207;</FONT>
+ R<SUB>1</SUB> and (2,2) <FONT FACE="Symbol">&#207;</FONT>
+ R<SUB>1, 
+</SUB>so R<SUB>1</SUB> is not reflexive.</P></UL>
+
+<b><LI>R<SUB>2</SUB> = {(1,1), (1,2), (2,1), (2,2), (3,3), (4,4)}</b>
+
+<UL>Here 1R<SUB>2</SUB>1, 2R<SUB>2</SUB>2, 3R<SUB>2</SUB>3, 4R<SUB>2</SUB>4, 
+
+so R<SUB>2</SUB> is reflexive.</Br></UL>
+
+
+<B><P>Symmetric Relations</P>
+</B>
+<P>A relation R on a set A is <b>symmetric</b> if whenever <b>aRb then bRa.
+
+<br>i.e. If (a,b) <FONT FACE="Symbol">&#206;</FONT>
+ R then (b,a) <FONT FACE="Symbol">&#206;</FONT>
+ R.</b>
+
+<B><P>Examples:</B> Consider the set A = {1, 2, 3, 4}</P>
+
+<LI><b><P>R<SUB>1</SUB> = {(1,1), (1,2), (2,3), (1,3), (4,4)}</b>
+
+<UL>Here (1,2) <FONT FACE="Symbol">&#206;</FONT>
+ R<SUB>1</SUB> but (2,1) <FONT FACE="Symbol">&#207;</FONT>
+ R<SUB>1</SUB>, so R<SUB>1</SUB> is not symmetric.</UL>
+
+<LI><b>R<SUB>2</SUB> = {(1,1), (1,2), (2,1), (2,2), (3,3), (4,4)}</b>
+
+<Br><ul>Here  (1,2) <FONT FACE="Symbol">&#206;</FONT>
+ R<SUB>2</SUB> and (2,1) <FONT FACE="Symbol">&#206;</FONT>
+  R<SUB>2</SUB>, so R<SUB>2</SUB> is symmetric.</UL>
+
+<B><P>Anti Symmetric Relations</P>
+
+</B><Br>A relation R on a set A is <B>Anti Symmetric</b> if whenever <B>aRb and bRa then a = b</B>, 
+ 
+i.e. <B>If (a,b), (b,a) <FONT FACE="Symbol">&#206;</FONT>
+ R then a =b.</b>
+
+<B><P>Example </P>
+</B></b><br>
+<UL>In R<SUB>2 </SUB>above 1R<SUB>2</SUB>2 and 2R<SUB>2</SUB>1,  but 1 <FONT FACE="Symbol">&#185;</FONT>
+ 2 hence not anti symmetric</UL>
+
+
+<B><P>Transitive Relations</P>
+</B>
+<P>A relation R on a set A is <B>transitive </b>if <B>whenever aRb and bRc then aRc</B>.</P>
+<P>i.e. <B>(a,b), (b,c) <FONT FACE="Symbol">&#206;</FONT>
+ R then (a,c) <FONT FACE="Symbol">&#206;</FONT>
+ R.</P></B>
+
+<B><P>Examples:</B>Consider the set A = {1, 2, 3, 4}
+
+<br><LI><b>R<SUB>1</SUB> = {(1,1), (1,2), (2,3), (1,3), (4,4)} </b>
+
+<P>1R<SUB>1</SUB>2, 2R<SUB>1</SUB>3, require 1R<SUB>1</SUB>3 and (1,3) <FONT FACE="Symbol">&#206;</FONT>
+ R<SUB>1</SUB>, so transitive.</P>
+
+<LI><B>R<SUB>3</SUB> = {(1,3), (2,1)}</B>
+
+<P>2R<SUB>3</SUB>1, 1R<SUB>3</SUB>3,  but (2,3) <FONT FACE="Symbol">&#207;</FONT>
+ R<SUB>3</SUB>,  so not transitive.</P>
+
+<P>&nbsp;</P>
+<B><P>Equivalence Relations</P>
+</B>
+<P>A relation R on a set S is an <b>equivalence</b> relation if R is<b>reflexive,  symmetric and transitive.</b>  i.e.</P>
+
+<OL>
+
+<LI>for every a <FONT FACE="Symbol">&#206;</FONT>
+ S, aRa</LI>
+<LI>if aRb then bRa</LI>
+<LI>if aRb and bRc then aRc</LI></OL>
+
+<br>
+
+<P>Consider ‘=’ relation.</P>
+
+<OL>
+
+<LI>a = a  <FONT FACE="Symbol">&#34;</FONT>
+ a <FONT FACE="Symbol">&#206;</FONT>
+ S,</LI>
+<LI>if a = b then b= a</LI>
+<LI>if a=b, b=c, then a=c</LI></OL>
+<P>Try <a href="launch.htm#q0451">q0451</a>.
+<br>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

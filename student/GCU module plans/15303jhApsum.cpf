@@ -1,0 +1,146 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Arithmetic Progressions</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT SIZE=4><P ALIGN="CENTER">Arithmetic Progressions</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Learning Plan 3</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Sum to n terms</P>
+
+<P>Adding Terms</P>
+</B></FONT>
+<P>&nbsp;</P>
+<P>It is often of interest to add terms up.   Define S<SUB>n</SUB>, the sum of the first n terms.</P>
+<P>S<SUB>1</SUB> = t<SUB>1</P>
+</SUB>
+<P>S<SUB>2</SUB> = t<SUB>1</SUB> + t<SUB>2</P>
+</SUB>
+<P>S<SUB>3</SUB> = t<SUB>1</SUB> + t<SUB>2</SUB> + t<SUB>3</P>
+</SUB>
+<P>Continuing in this way.</P>
+
+<P>S<SUB>n</SUB> = t<SUB>1</SUB> + t<SUB>2</SUB>  +  t<SUB>3</SUB>  + …………+  t<SUB>n</SUB>  <FONT FACE="Symbol">&#186;</FONT>
+<FONT FACE="Symbol">&#83;</FONT>
+ t<SUB>i</SUB></P>
+<P>Spend time on <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 3 1 e 0~?">3-1 section e</a>.   Gain confidence in using the summation sign by working on <a href="launch.htm#q0334">q0334</a> and <a href="launch.htm#q0335">q0335</a>.  
+<P>&nbsp;</P>
+<P><B>Example</B></P>
+<FONT SIZE=4>
+</FONT><P>For the arithmetic progression ,</P>
+<P>12, 17, 22, 27, 32, …….</P>
+<P>The sum to four terms, S<SUB>4</SUB>, is :</P>
+
+<P>S<SUB>4</SUB> = 12 + 17 + 22 + 27 = 78</P>
+
+<P>Alternatively, S<SUB>4</SUB> can be calculated as follows:-</P>
+
+<P>&nbsp;</P><DIR>
+<DIR>
+
+<P> S<SUB>4</SUB> = 12 + 17 + 22 + 27</P>
+
+<P> S<SUB>4</SUB> = 27 + 22 + 17 + 12</P>
+</DIR>
+</DIR>
+
+<P>Add&#9;&#9;2S<SUB>4</SUB> =39 + 39 + 39 + 39 = 156 = (4)(39)</P>
+
+<P>Hence S<SUB>4</SUB> = 156/2 = 78  (the same result as before)</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><FONT SIZE=4><P>Sum to n Terms</P>
+</B></FONT>
+<P>By following the method of the previous example, S<SUB>n</SUB>, can be expressed as :-</P>
+
+<P>&nbsp;</P>
+<P>&#9;&#9; S<SUB>n</SUB> = a&#9;&#9;&#9;+ (a+d) + ………&#9;+ (a + (n-1)d)</P>
+
+<P>&#9;&#9; S<SUB>n</SUB> = (a + (n-1)d)&#9;+ ……&#9;&#9;&#9;+ a</P>
+
+<P>Add&#9;&#9;2S<SUB>n</SUB> = 2a + (n-1)d&#9;+ ……&#9;&#9;&#9;+ 2a + (n-1)d</P>
+
+<P>In the last line above, 2a + (n-1)d appears n times.</P>
+
+<P>Hence </P>
+
+<P>2S<SUB>n</SUB> = n(2a + (n-1)d)</P>
+
+<br>
+<P>giving <B><FONT SIZE=4>S<SUB>n</SUB> = n/2(2a + (n-1)d)
+<br>
+</B></FONT>
+<P>&nbsp;</P>
+<P>This formula gives a mathematical way of finding S<SUB>n</SUB> if the first term, a, the common difference, d, and the number of terms, n, are known.</P>
+
+<P>&nbsp;</P>
+<B><FONT SIZE=4><P>Example</P>
+</B></FONT>
+<P>Find the sum to forty terms of the following arithmetic progressions:</P>
+
+<OL TYPE="a">
+
+<LI>3,  7,  11,  15, …..</LI>
+
+<LI>100,  98,  96,  94, ……</LI>
+
+<LI>2,  2.5,  3,  3.5, ……</LI></OL>
+
+<br>
+<P>&nbsp;</P>
+<B><FONT SIZE=4><P>Solution</P>
+</B></FONT>
+<OL TYPE="a">
+
+<LI>The common difference is 4.</LI>
+
+<P>So we have a = 3,  d = 4,  n = 40.</P>
+
+<P>S<SUB>40</SUB> = (40/2)((2)(3) + (40-1)4) = 3240</P>
+
+<P>&nbsp;</P>
+<LI>The common difference is –2.</LI>
+
+<P>So we have a = 100, d = -2, n = 40</P>
+
+<P>S<SUB>40</SUB> = (40/2)((2)(100) + (40-1)(-2)) = 2440</P>
+<P>&nbsp;</P>
+<LI>The common difference is 0.5.</LI>
+
+<P>So we have a = 2, d = 0.5, n = 40</P>
+
+<P>S<SUB>40</SUB> = (40/2)((2)(2) + (40-1)(0.5)) = 470</P></OL>
+<P>&nbsp;</P>
+
+<P>Try <a href="launch.htm#q0208">q0208</a>. 
+</FONT>
+
+<P>Give some thought to <a href="launch.htm#q0186">q0186</a>, <a href="launch.htm#q0187">q0187</a> and <a href="launch.htm#q0188">q0188</a>. 
+<P>This is the end of the third and final Learning Plan on Arithmetic Progressions.</P>
+</B><FONT SIZE=2>
+</FONT><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<FONT SIZE=2><P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

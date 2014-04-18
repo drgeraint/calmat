@@ -1,0 +1,58 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<font face="Arial">
+<b><font size="+2"><center>Set Theory</center></b>
+<b><font size="+1"><center>Learning Plan 2</center></b>
+<P>
+<b><center>Venn Diagrams</center></b><font size="--">
+<P><b>1.5</b>
+<P><LI> A Venn Diagram is a pictorial representation of sets.
+<P><img src="Image18.png">
+<P><img src="Image19.png">
+<P><img src="Image20.png">
+<P><b>1.6</b>
+<P><LI> The Union of two sets is denoted by 
+ <b> A <font face="Symbol">È</font face="Symbol">  B = {x : x <font face="Symbol">Î</font face="Symbol">  A or x <font face="Symbol">Î</font face="Symbol"> B}</b>
+<P><img src="Image21.png">
+<P><img src="Image22.png">
+<P>Attempt <a href="launch.htm#q0200">q0200</a>.
+<P><LI>The Intersection of two sets A and B is denoted by
+<b>A <font face="Symbol">Ç</font face="Symbol">  B = { x : x <font face="Symbol">Î</font face="Symbol">  A and x <font face="Symbol">Î</font face="Symbol"> B}.</b>
+<P>
+<P>
+<P>
+<P><img src="Image23.png">
+<P><img src="Image24.png">
+<P>Now look at <a href="launch.htm#q0308">q0308</a>, <a href="launch.htm#q0706">q0706</a>, <a href="launch.htm#q0707">q0707</a>, <a href="launch.htm#q0708">q0708</a>,<a href="launch.htm#q0709">q0709</a> and <a href="launch.htm#q0717">q0717</a>. 
+<P><b>1.7</b>
+<P><LI>The Complement of a set  B is the set of elements which belong to U but do not belong to B.   The complement of B is denoted by   <b>
+B' = {x : x <font face="Symbol">Î</font face="Symbol">  U, x <font face="Symbol">Ï</font face="Symbol">  B}</b>
+<P>Try <a href="launch.htm#q0715">q0715</a> and <a href="launch.htm#q0718">q0718</a>.
+<P><LI>The Relative Complement of a set B with respect to a set A is denoted by A\B
+<P><b>A\B = {x : x <font face="Symbol">Î</font face="Symbol"> A, x <font face="Symbol">Ï</font face="Symbol"> B}</b>
+<P><img src="Image25.png">
+<P><b>1.8</b>
+<P><LI>The notation <b>n(A) </b>denotes the number of elements in a finite set A.
+<P>Look at <a href="launch.htm#q0712">q0712</a>.
+<P><b>Example</b>
+<P>In a group of 23 people, 18 speak French, 9 speak German and 6 speak both.   How many people speak neither language ?
+<P><img src="Image26.png">
+<P>Number of people who speak one of these languages: 
+<P> n(F <font face="Symbol">È</font face="Symbol"> G) = n(F) + n(G) - n(F <font face="Symbol">Ç</font face="Symbol"> G)
+<P> = 18 + 9 - 6
+<P> = 21
+<P> therefore number who speak neither is 23 - 21 = 2.
+<P> Consider <a href="launch.htm#q0716">q0716</a> and <a href="launch.htm#q0719">q0719</a>.      
+<P>This is the end of the second and final Learning Plan on Sets.
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

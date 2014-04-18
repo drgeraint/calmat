@@ -1,0 +1,150 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+
+<font face="Arial">
+<b><font size="+2"><center>Functions</center></b>
+<b><font size="+1"><center>Learning Plan 7</center></b>
+<P>
+<b><center>Logarithmic Functions</center></b><font size="--">
+<P>
+<FONT FACE="Arial">
+
+<P>The logarithmic function is defined to be the inverse of the exponential function.</P>
+
+<P>Hence, y = 2<SUP>x</SUP> if and only if x = log<SUB>2</SUB>(y).</P>
+
+<P>The graph of y = log<SUB>2</SUB>(x) is a reflection of the graph y = 2<SUP>x</SUP> in the line y = x.</P>
+
+<P>A typical log looks like:</P>
+<P>&#9;&#9;&#9;&#9;log<SUB>a</SUB>(x)&#9;&#9;&#9;;a is the base</P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;x is the argument</P>
+<P>&#9;&#9;&#9;&#9;&#9;&#9;&#9;a, x &gt; 0</P>
+
+<P>Although <b>a</b> can take on any non-negative value, in practice logs to the base 10 and the natural log are used.</P>
+
+<B><P>Examples</P>
+</B></FONT><FONT SIZE=2>
+</FONT><FONT FACE="Arial"><P>10<SUP>y</SUP> = 20 <FONT FACE="Symbol">&#219;</FONT>
+ y = log<SUB>10</SUB>(20)</P>
+
+<P>6<SUP>p</SUP> = 40 <FONT FACE="Symbol">&#219;</FONT>
+ p = log<SUB>6</SUB>(40)</P>
+
+<P>a<SUP>b</SUP> = c <FONT FACE="Symbol">&#219;</FONT>
+ b = log<SUB>a</SUB>(c)</P>
+
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 a 0~?">2-18 section a</a>, <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 b~?">section b</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 c 0~?">section c</a>. 
+<br>
+
+<br>
+<P>Try <a href="launch.htm#q0679">q0679</a> and <a href="launch.htm#q0399">q0399</a>.
+<br>
+
+<P>&nbsp;</P>
+<P>The various <B>rules for manipulating logs</B> are as follows:</P>
+
+<OL>
+
+<LI>log<SUB>a</SUB>(xy) = log<SUB>a</SUB>(x) + log<SUB>a</SUB>(y)</LI>
+
+<LI>log<SUB>a</SUB>(x/y) = log<SUB>a</SUB>(x) - log<SUB>a</SUB>(y) </LI>
+
+<LI>log<SUB>a</SUB>(x<SUP>n</SUP>) = nlog<SUB>a</SUB>(x)</LI>
+
+<LI>log<SUB>a</SUB>(1) = 0</LI>
+
+<LI>log<SUB>a</SUB>(a) = 1</LI>
+
+<LI>a <SUP>loga(x)</SUP> = x</LI>
+
+<LI>log<SUB>b</SUB>(x) = log<SUB>a</SUB>(x)/log<SUB>a</SUB>(b);&#9;change of base</LI></OL>
+
+<br>
+<P>&nbsp;</P>
+<B><P>Examples</P>
+
+<OL>
+
+</B><LI>log(9) + log(20) – log(4) = log((9)(20)/(4)) = log(45)</LI>
+
+<P>&nbsp;</P>
+<LI>log<SUB>2</SUB>(1/4) = log<SUB>2</SUB>(1) – log<SUB>2</SUB>(4) = 0 – log<SUB>2</SUB>(2<SUP>2</SUP>) = -2log<SUB>2</SUB>(2) = -2</LI>
+<P>&nbsp;</P>
+<LI>4log(5) = log(5<SUP>4</SUP>) = log(625)</LI>
+<P>&nbsp;</P>
+<LI>log<SUB>4.1</SUB>(8.1) = log<SUB>10</SUB>(8.1)/log<SUB>10</SUB>(4.1)</LI></OL>
+
+<br>
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 18 d 0~?">2-18 section d</a>. </P>
+
+<P>Try <a href="launch.htm#q0676">q0676</a>,  <a href="launch.htm#q0677">q0677</a>, <a href="launch.htm#q0400">q0400</a> and <a href="launch.htm#q0642">q0642</a>.
+<br>
+
+<B><P>&nbsp;</P>
+<P>Natural Logarithm</P>
+
+</B><P>Many mathematical formula include the exponential function.   The number e (2.71828132845…….) is like <FONT FACE="Symbol">&#112;</FONT>
+.</P>
+
+<P>Consider the equation y = e<SUP>x</SUP> <FONT FACE="Symbol">&#186;</FONT>
+ exp(x)</P>
+
+<P>And taking logs of both sides</P>
+
+<P>log<SUB>e</SUB>(y) = x</P>
+
+<P>log<SUB>e</SUB>y is usually written as ln(y).</P>
+
+<P>The exponential function and its log are well tabulated.   Additionally, scientific calculators have these functions.</P>
+
+<P>Try <a href="launch.htm#q0678">q0678</a>.</P>
+
+<B><P>Example </P>
+
+</B><P>Use log<SUB>10</SUB> and log<SUB>e</SUB> to calculate (2)(3).</P>
+
+<P>Solution</P>
+
+<P>1.Use  log<SUB>10</P>
+</SUB>
+<P>(Remember log((2)(3)) = log(2) + log(3))</P>
+<P><img src="image46.png"></P>
+
+<P>2. Now use ln <FONT FACE="Symbol">&#186;</FONT>
+ log<SUB>e</P>
+</SUB>
+<P><img src="image47.png"></P>
+
+<B><P>Example </P>
+
+</B><P><img src="image48.png"></P>
+
+<P>Let f : R <FONT FACE="Symbol">&#174;</FONT>
+ R<SUP>+</SUP> be defined by f(x) = e<SUP>x</SUP>.   From the above graph f is one to one and onto.  Hence f<SUP>-1</SUP> : R<SUP>+</SUP> <FONT FACE="Symbol">&#174;</FONT>
+ R does exist and</P>
+
+<P>f<SUP>-1</SUP> = {(x,y) : x = e<SUP>y</SUP>} = {(x,y) : y = ln(x)}</P>
+
+<P>i.e. f<SUP>-1</SUP>(x) = ln(x)</P>
+
+<P>Try <a href="launch.htm#q0696">q0696</a> and <a href="launch.htm#q0029">q0029</a>.
+<P>&nbsp;</P>
+<P>Now consider <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 a 0~?">2-19 section a</a>,  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 b 0~?">section b</a>,  <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 c 0~?">section c</a> and <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 2 19 d~?">section d</a>.   
+<P>Finally try <a href="launch.htm#q0380">q0380</a>.
+<P>This is the end of the Learning Plan on Logarithmic Functions.<P>
+
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

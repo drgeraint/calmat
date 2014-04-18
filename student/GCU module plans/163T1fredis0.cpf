@@ -1,0 +1,87 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Descriptive Statistics</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Descriptive Statistics</P>
+</FONT><FONT FACE="Arial"><P ALIGN="CENTER"></P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">Frequency Distributions and Graphical Representations</P></B></FONT>
+<FONT FACE="Arial" SIZE=2>
+
+<br>
+<P>Attempt the material in this Learning Plan before taking <B>Test 1</B>.   </P>
+
+<P>The TAS questions mentioned in this plan form the <B>bank of questions</B> from which the questions for <B>Test 1</B> are chosen.    </P>
+
+<B><P>Click</B> the <B>underlined links</B> to jump to appropriate material.</P>
+
+<P>The <B>Lecture Notes</B> referred to in this Learning Plan are <B>Chapter 1</B> <B>‘Descriptive Statistics’</B>.</P>
+
+<P>Towards the end of this Learning Plan a link takes you to the <B>Minitab</B> software where you can complete <B>Lab 1</B> of <B>Laboratory Handbook 1 (Yellow Cover)</B>.  Before making this jump to Minitab ensure you have a <B>formatted floppy disk</B>.   Instructions for formatting your disk are given on <B>page 1 section 1 of Laboratory Handbook 1.</B></P>
+<B>
+<P>&nbsp;</P>
+</FONT><FONT FACE="Arial" SIZE=4><P>Introduction</P>
+</FONT><FONT FACE="Arial"SIZE=2></B>
+
+<P>Statistics is a field of study concerned with collecting, summarizing and describing data and also with drawing conclusions based on the analysis of data.</P>
+
+<P>Study Lesson 1-51 <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 51 a~?"> section a</a> for an introduction to Statistics. Also  read pages 1–2 of your lecture notes 
+to familiarise yourself with some of the terminology used in statistics.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Frequency Distributions</P>
+</B></FONT><FONT FACE="Arial"SIZE=2>
+<P>The aim of descriptive statistics is to summarize data in a form that allows interpretation and analysis.   A useful technique is to list the distinct values in the collection together with the number of times, or frequency, each value occurs.   Organizing data in this manner produces a <B>frequency distribution</B>.   Frequency distributions are introduced in <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 52 c 0~?">1-52 section c</a>.   Try <a href="launch.htm#q0546">q0546</a>.</P>
+
+<P>Now read through frequency distributions in the lecture notes pages 3-6.</P>
+
+<P>The frequency distributions described above are useful when the number of possible values of the variable is not too large (10 or less).   If the number of possible values is large, the frequency distribution will not summarize the data to any great extent, because it will consist of a lengthy table, in which many values of the variable have a low or zero frequency.</P>
+
+<P>When the number of possible values of the variable is large a better description of the data is provided by the so-called <B>grouped frequency</B> <B>distribution</B>.   Find out from pages 7-9 of your lecture notes.   </P>
+
+<P>Now try <a href="launch.htm#q0768">q0768</a> and <a href="launch.htm#q0769">q0769</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Relative Frequency and Cumulative Frequency</P>
+</B></FONT><FONT FACE="Arial"SIZE=2>
+<P>Now consider <B>Relative Frequency</B> and  <B>Cumulative Frequency</B> Distributions.   Work through <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 55 a~?">1-55 section a</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 55 b 0~?">section b</a> and  <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 55 d 0~?">section d</a>.   Try <a href="launch.htm#q0554">q0554</a> and <a href="launch.htm#q0555">q0555</a>.   Find more information in your lecture notes pages 10-11.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Graphical Representations</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<P>For an introduction to methods of representing data in graphical form, work through Lesson 1-51
+<a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 51 b 0~?">section b</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 51 c 0~?">section c</a>, <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 51 d 0~?">section d</a> and <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 51 e~?">section e</a>.  Try TAS questions <a href="launch.htm#q0540">q0540</a>, <a href="launch.htm#q0541">q0541</a>, <a href="launch.htm#q0542">q0542</a> and <a href="launch.htm#q0543">q0543</a>.</P>
+
+<P>Now study Lesson 1-55 <a href="runcal.htm#==C:\CALMAT\tcrun.exe calpopup //?~ 0 1 55 e 0~?">section e</a>, which describes the <B>Dot Plot</B>. The dot plot is a useful graphical method of presenting the frequency distribution of a discrete quantitative variable.</P>
+
+<P>Read pages 12-19 in your lecture notes for details on other helpful charts and plots.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial"SIZE=2>
+<P>Use Minitab to carry out some initial data analysis.   
+<P>There are points in the Laboratory Handbook where it is suggested that you save to the U drive (U:).   This may <B>not</B> be possible in all laboratories.   However you should follow the instructions to <B>save to A:</B> ( ie. save onto your formatted floppy disk in the A drive).</P> 
+<P>Once the "Lab1" link to Minitab has been clicked you should start to follow the instructions from Laboratory Handbook 1, Lab 1 page 1 section 2. at <B>"Two windows should now appear, the session window and the data window.........." </B>  <a href="http://www.maths.gcal.ac.uk/m163/lab1a.mpj">Lab 1.</a></P> 
+<P>&nbsp;</P>
+
+
+<P>This is the end of the Learning Plan on Frequency Distributions and Graphical Representations. </P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

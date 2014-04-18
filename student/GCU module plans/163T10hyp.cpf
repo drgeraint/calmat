@@ -1,0 +1,104 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Hypothesis Testing</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Hypothesis Testing</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+<br>
+<P>Before taking <B>Test 10</B> attempt the material in <B>this</B> Learning Plan. </P>
+<B>
+</B><P>The <B>TAS questions</B> mentioned in <B>this plan</B> form the <B>bank of questions</B> from which the questions for <B>Test 10</B> are chosen.</P>
+<P>The lecture notes referred to in this Learning Plan are <B>Chapter 5 ‘Hypothesis Testing’</B>. </P>
+<P>Towards the end of this Learning Plan a link takes you to the <B>Minitab</B> software where you can complete <B>Laboratory Handbook 4 (Peach Cover)</B>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Introduction</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>Life is full of theories.   At home and at work, we constantly need to make decisions often relying on our beliefs or theories.   We make theories about the weather, about people, about industrial processes and measurements.   However, making decisions based on unsubstantiated theories is, to say the least, unwise.   Data is collected in order to test a theory.   But how can we use this data to objectively check out a theory?</P>
+
+<P>Our theories will relate to one or more <B>populations</B>.   The data to test our theories will have been collected on <B>samples</B> drawn randomly from the study population(s).  If we were to repeat our data collection, we would obtain a different set of data.</P>
+
+<P>Hypothesis testing offers us an objective method of checking theories or testing one theory against another.</P>
+
+<P>Read the <B>steps of Hypothesis Testing</B> detailed on page 1 of your lecture notes.</P>
+
+<P>We shall consider hypothesis testing in the following situations:</P>
+
+<OL>
+
+<LI>Comparing <B>one sample</B> mean against a ‘standard’ or target value (<FONT FACE="Symbol">&#109;</FONT>
+<SUB>0</SUB>).</LI>
+<LI>Comparing <B>two independent samples</B> means (assuming equal population variances).</LI>
+<LI>Comparing two methods or treatments (<B>paired data</B>).</LI></OL>
+
+<br>
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>One Sample Problems</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>Work through pages 2-9 of your lecture notes.</P>
+
+<P>Try <a href="launch.htm#q0781">q0781</a>, <a href="launch.htm#q0788">q0788</a>,  <a href="launch.htm#q0783">q0783</a> and <a href="launch.htm#q0784">q0784</a>.</P>
+<B>
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Two Sample Problems</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>Consider the example on pages 10 –15 of your lecture notes.</P>
+
+<P>Try <a href="launch.htm#q0785">q0785</a> and <a href="launch.htm#q0786">q0786</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Paired Data</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+
+</B><P>Details are given in your lecture notes pages 16-19.</P>
+
+<P>Try <a href="launch.htm#q0782">q0782</a> and <a href="launch.htm#q0787">q0787</a>.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Summary</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>All the test statistics we have studied take the form:</P>
+
+<B><U><P ALIGN="CENTER">estimate of difference</P>
+</U><P ALIGN="CENTER">standard error of difference</P>
+</B><P ALIGN="CENTER"></P>
+<P>Remember that a standard error is used to mean standard deviation when referring to an estimate.   This distinguishes it from the standard deviation of the sample.   The test statistic is compared to a critical value from the standard normal tables if the standard deviation is known.  The test statistic is compared to a critical value from the t-table if the standard deviation is estimated.   </P>
+
+<P>Page 27 of your lecture notes gives a summary of tests and confidence intervals for one and two samples with the population standard deviation known and unknown.</P>
+
+<P>You may find it helpful to work through the tutorial examples given on pages 28 – 30 of your lecture notes.   Solutions (answers) are given on pages 30-32.</P>
+
+<P>&nbsp;</P>
+</FONT><B><FONT FACE="Arial" SIZE=4><P>Minitab Lab</P>
+</B></FONT><FONT FACE="Arial" SIZE=2>
+</B>
+<P>Increase your understanding of Hypothesis Testing and Confidence Intervals by using Minitab’s statistical functions.   Following the instructions given in Minitab Laboratory Handbook 4 complete <a href="http://www.maths.gcal.ac.uk/m163/lab1a.mpj">Lab 9</a>.
+<B>Handbook 4</B> should be handed in for correction in the week beginning <B>28/04/03</B>.</P>
+
+<P>&nbsp;</P>
+<P>This is the <B>end</B> of the Learning Plan on Hypothesis Testing.</P>
+<P>  </P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

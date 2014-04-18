@@ -1,0 +1,147 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Simultaneous Equations Learning Plan 2</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Simultaneous Equations Learning Plan 2</P>
+<P ALIGN="CENTER">Break Even Analysis</P>
+</FONT><FONT FACE="Arial" SIZE=4>
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you may find it helpful to refer to the lecture notes titled ‘Simultaneous Equations’.</P>
+</FONT><B><FONT FACE="Arial" SIZE=5>
+</B></FONT><FONT FACE="Arial"><P>In a Break Even Analysis (which is linear) there are two linear equations.   One for costs and one for revenue.</P>
+</FONT><FONT FACE="Arial" SIZE=4>
+</FONT><FONT FACE="Arial"><P>revenue = selling price per unit x no. sold</P>
+<P>costs = fixed set up costs + variable cost per unit x no. made</P>
+
+<P>The aim is to identify how many units need to be sold to breakeven, </P>
+<P>i.e. profit = 0</P>
+
+<P>Selling more units results in profit &gt; 0.</P>
+
+<P>Selling less units results in profit &lt; 0.</P>
+
+<B><P>Example</P>
+</B>
+<P>Product sells at £400 per unit.   The costs of production are £6500 set up costs and £150 per unit to make.   Determine the break even point.</P>
+
+<P>Here the revenue function, R(x), is</P>
+
+<P ALIGN="CENTER">R(x) = 400x</P>
+
+<P>and C(x) the cost function is</P>
+<P ALIGN="CENTER">C(x)= 6500 + 150x</P>
+<P ALIGN="CENTER"></P>
+<P>The break even point is where revenue = costs.</P>
+
+<P>R(x) = C(x)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 400x = 6500 + 150x</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ 250x = 6500</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = 6500/250</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ x = 26</P>
+
+<P>When x = 26</P>
+
+<P>R(26) = 400(26) = 10400</P>
+<P>C(26) = 6500 + 150(26) = 10400</P>
+
+<P>As expected when 26 units are produced revenue equals costs hence profit is zero.   26 units is the break even point.</P>
+
+<P>Look at the graph of the revenue and costs functions on page 8 of your notes.   It is possible to estimate that the lines meet when x = 26 (approximately).   As you can see a more accurate result is achieved using the algebraic method above.  However the graph is helpful for showing when a profit and loss will be made i.e.  When the revenue line is below the cost line a loss will be made.   A profit will be made when the revenue line is above the cost line.</P>
+
+<P>Sometimes cost functions change once a certain number of units have been made, or a buyer could negotiate different price structures of raw materials from different suppliers.   Read through the example on pages 9 and 10 of your notes which considers changes in the cost function.</P>
+
+<P>Also consider the situation below.</P>
+
+<B><P>Example</P>
+
+</B><P>A manufacturer assembles computers.   From marketing analysis it is estimated that if computers are priced at £1000 the company will sell 30 units per week, and if the computers are priced at £800 each the sales will be 50 units per week.   (It can be assumed that a linear relationship exists between units sold and unit prices.)</P>
+
+<P>The manufacturer’s fixed weekly costs are £4000 per week, and the variable costs are £600 per unit sold.</P>
+<P>Determine:</P>
+
+<OL TYPE="i">
+
+<LI>The manufacturer’s price function, his weekly revenue function and his cost function.</LI>
+<LI>The manufacturer’s weekly profit function.</LI>
+<LI>The break even point.</LI></OL>
+
+<br>
+<P>&nbsp;</P>
+<B><P>Solution</P>
+
+<OL TYPE="i">
+
+<LI>Price Function</LI>
+</B>
+<P>At p = 1000, x = 30 and at p = 800, x = 50.   (p: price, x : units sold)</P>
+
+<P>These points can be plotted on a graph.   (This graph is given on page 12 of your notes.)   From the information in the question we can assume that a linear relationship exists between units sold and unit prices hence we can draw a straight line between the points.   The relationship between the units sold and unit price is therefore of the form p = mx + c where m is the gradient of the line and c is the intercept on the y-axis.  We say that the price function is p(x) = mx + c.</P>
+
+<P>Using the points (30,1000) and (50, 800)</P>
+
+<P>Gradient = m = (1000-800)/(30-50) = -10&#9;(using the formula for gradient)</P>
+
+<P><FONT FACE="Symbol">&#222;</FONT>
+ p(x) = -10x + c</P>
+
+<P>When x = 30, p(x) = 1000.   We can substitute these values into p(x) to find c.</P>
+<P>1000 = (-10)(30) + c</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ c = 1300</P>
+
+<P>Therefore price function<B>, </B>p(x) = -10x + 1300 which would normally be written as <B>p(x) = 1300 –10x</B>.</P>
+<B>
+<P>&nbsp;</P>
+<P>Revenue Function, R(x)</P>
+
+</B><P>The revenue function is found from the number of units sold x the price function.</P>
+<B>
+</B><P>R(x) = xp(x) = x(1300 – 10x)</P>
+<B>
+<P>Cost Function, C(x)</P>
+</B>
+<P>C(x) = 4000 + 600x &#9;&#9;(£4000 fixed weekly costs and £600 per unit sold)</P>
+
+<B><LI>Profit Function</LI>
+
+</B><P>Profit is constructed from Revenue – Costs.</P>
+<B>
+</B><P>Hence P(x) = R(x) – C(x)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+ P(x) = 1300x – 10x<SUP>2 </SUP> - (4000 + 600x)</P>
+<P><FONT FACE="Symbol">&#222;</FONT>
+<B>P(x) = -10x<SUP>2</SUP> + 700x - 4000</P>
+</B>
+<B><LI>Break Even Points</LI></OL>
+
+<br>
+</B><P>This is where revenue equals costs i.e. profit equals zero.   We require P(x)=0.</P>
+
+<P>i.e. –10x<SUP>2</SUP> + 700x – 4000 = 0</P>
+
+<P>This quadratic equation requires to be solved using the quadratic formula,    which results in x = 63.72 or x = 6.28 i.e. when x takes these values profit = 0. </P>
+
+<P>The working is given in your notes on page 13</P></FONT></BODY>
+</HTML>
+
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

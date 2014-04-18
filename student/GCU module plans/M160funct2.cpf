@@ -1,0 +1,193 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Functions Learning Plan 2</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Functions Learning Plan 2</P>
+<P ALIGN="CENTER">Linear Functions</P>
+</FONT><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER"></P>
+</B></FONT><FONT FACE="Arial"><P>While working through this plan you should be referring to your lecture notes titled ‘Functions’.</P>
+
+<B><P>Linear Functions</P>
+
+</B><P>A linear function has the general form:</P>
+
+<P ALIGN="CENTER">y = f(x) = mx + c</P>
+<P ALIGN="CENTER">where m and c are constants</P>
+
+<B><P>Note</P>
+</B><P>In a linear function the power of the unknown variable (here x) will be 1.   The graph of a linear function will be a straight line, where m is the gradient of the line and c is the point at which the line cuts the y-axis.</P>
+
+<P>Families of linear functions:</P>
+
+<P>f(x) = mx ; (c =0) are straight lines which pass through the origin with gradient m.</P>
+
+<P>f(x) = x + c; (m = 1) are straight lines which pass through (0,c) with gradient 1.   These lines will be parallel as they have equal gradients.</P>
+
+<P>f(x) = c is a horizontal line where y takes the value c no matter the value of x.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+</B>
+<P>A product sells at £400 per unit.   The revenue function is a linear function,</P>
+<P ALIGN="CENTER">R(x) = 400x &#9;where x is the number of units sold.</P>
+<P>Setting up a table of values.</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=652>
+<TR><TD WIDTH="7%" VALIGN="TOP">
+<FONT FACE="Arial"><P>x</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>0</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>10</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>20</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>30</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>40</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>50</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>60</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>70</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>80</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>90</FONT></TD>
+<TD WIDTH="10%" VALIGN="TOP">
+<FONT FACE="Arial"><P>100</FONT></TD>
+</TR>
+<TR><TD WIDTH="7%" VALIGN="TOP">
+<FONT FACE="Arial"><P>R(x)</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>0</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>4000</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>8000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>12000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>16000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>20000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>24000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>28000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>32000</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P>36000</FONT></TD>
+<TD WIDTH="10%" VALIGN="TOP">
+<FONT FACE="Arial"><P>40000</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial">
+<P>From this table it is possible to graph the function.   R(x) = 400x is a linear function of the form f(x) = mx hence we would expect the graph to be a straight line passing through the origin (0,0) with gradient 400.</P>
+
+<P><img src="K:\calmat\scalmat\plans\gif\image95.gif"></P>
+
+<br>
+<P>It is now possible to estimate revenue for different values of x.</P>
+
+<B><P>Example</P>
+
+</B><P>For a new product the set up costs are £6500 while manufacturing costs are £150 per unit constructed.</P>
+
+<P>The cost function can be written as</P>
+
+<P ALIGN="CENTER">C(x) = 150x + 6500</P>
+
+<P>This cost function is of the form f(x) = mx + c hence graphing this function we would expect a straight line passing through (0,6500) with a gradient of 150.</P>
+
+<P>&nbsp;</P>
+<B><P>Example</P>
+
+</B><P>Sometimes a cost function may change once a certain number of units have been made.</P>
+
+<P>&#9;&#9;0.5x&#9;&#9;x <FONT FACE="Symbol">&#163;</FONT>
+ 200</P>
+<P>C(x) = </P>
+<P>&#9;&#9;0.25x + 44&#9;x &gt; 200</P>
+</FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=926>
+<TR><TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>x</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">0</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">50</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">100</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">150</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">200</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">250</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">300</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">350</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">400</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">450</FONT></TD>
+</TR>
+<TR><TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P>C(x)</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">0</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">25</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">50</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">75</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">100</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">106.50</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">119</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">131.50</FONT></TD>
+<TD WIDTH="9%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">144</FONT></TD>
+<TD WIDTH="8%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">156.50</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial">
+<P>Plotting these values results in the following linear graph.</P>
+
+<P><img src="K:\calmat\scalmat\plans\gif\image96.gif"></P>
+</P>
+
+<P>When 200 units or less are produced the cost function is a straight line with gradient 0.5 passing through (0,0) however when more than 200 units are produced the cost function takes the form of a straight line with gradient 0.25 passing through (0,44).</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>

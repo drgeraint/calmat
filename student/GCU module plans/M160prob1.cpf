@@ -1,0 +1,164 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080">
+<table border=0 width="100%" align=center><tr><td>
+<font face="Times New Roman">
+<!--start-->
+
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Probability Learning Plan 1</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT FACE="Arial" SIZE=5><P ALIGN="CENTER">Probability Learning Plan 1</P>
+<P ALIGN="CENTER">Definitions &amp; Rules</P>
+
+</B></FONT><FONT FACE="Arial"><P>The lecture notes referred to in this Learning Plan as those titled ‘Unit 2 : Probability’.</P>
+
+<P>In business there is no certainty about what will happen in the future.   Decision processes must be able to deal with the problems of uncertainty.   Statistics is sometimes described as the science of making decisions in the face of uncertainty, e.g. a retailer has to decide how much inventory to stock, a manager might have to decide whether or not to market a new product, etc.   In such circumstances there are uncertain factors, such as demand, which are likely to influence the decision.   Modelling of uncertainty is impossible with standard mathematical tools and a whole branch of mathematics called <B>Probability</B> has been developed to deal with it.</P>
+
+<B><P>Examples</B> of uncertainty in business,</P>
+
+<br>
+<UL>
+<LI>What is the chance that sales will decrease if price is increased?</LI>
+<LI>How likely is it that ‘improved’ advertising will result in increased sales?</LI>
+<LI>What is the risk of non-payment from a particular class of debtors?</LI></UL>
+
+<br>
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 a~?">3-7 section a</a>.</P>
+
+<B><P>Classical Definition of Probability</P>
+</B>
+<P>If we carry out an experiment in which the total number of outcomes is known, and in which the outcomes may be deemed to be equally likely, then the probability of an event E occurring is given by:</P>
+
+<B><P ALIGN="CENTER">P(E) = r/n</P>
+<P ALIGN="CENTER"></P>
+</B><P>where r is the number of ways event E can occur and n is the total number of equally likely outcomes.</P>
+
+<P>Examples of Classical Probability can be found in your lecture notes on page 1.</P>
+
+<P>Work through <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 b~?">3-7 section b</a> and
+<a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 d~?">section d</a>.   Try <a href="launch.htm#q0428">q0428</a> and <a href="launch.htm#q0530">q0530</a>.   Give some thought to <a href="launch.htm#q0737">q0737</a>.</P>
+
+<B><P>Relative Frequency Definition of Probability</P>
+
+</B><P>In situations where the classical definition is inappropriate, we suppose that the experiment is conducted a large number, n, of times and the number of times, r, that an event E of interest occurs is noted.   The probability of the event E is then taken as</P>
+<B><P ALIGN="CENTER">P(E) = r/n</P>
+</B>
+<P>Examples using the Relative Frequency Definition are given on page 2 of your notes.   Work on <a href="runcal.htm#==k:\calmat\tcrun.exe calpopup //?~ 0 3 7 c~?">3-7 section c</a>.</P>
+<B>
+<P>Example</P>
+</B>
+<P>A small company has the following numbers of administrative and manual employees.</P>
+</FONT>
+<P ALIGN="CENTER"><CENTER><TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=500>
+<TR><TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="38%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Female</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Male</FONT></TD>
+</TR>
+<TR><TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Administrative</FONT></TD>
+<TD WIDTH="38%" VALIGN="TOP">
+<FONT FACE="Arial"><P>27</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P>8</FONT></TD>
+</TR>
+<TR><TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Manual</FONT></TD>
+<TD WIDTH="38%" VALIGN="TOP">
+<FONT FACE="Arial"><P>6</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P>35</FONT></TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="Arial">
+<P>&nbsp;</P>
+<P>If one person from the company is selected at random, what is the probability that the person is:</P>
+
+<OL TYPE="i">
+
+<LI>a female administrator</LI>
+<LI>a male </LI>
+<LI>a manual worker</LI></OL>
+
+<br>
+<B><P>Solution</P>
+</B>
+<OL TYPE="i">
+
+<LI>There are 76 administrative and manual employees.   Of these 76, 27 are female administrators, hence</LI>
+
+<P ALIGN="CENTER">P(female administrator) = 27/76</P>
+<P ALIGN="CENTER"></P>
+<LI>There are 35 + 8 = 43 males, hence</LI>
+
+<P ALIGN="CENTER">P(male) = 43/76</P>
+<P ALIGN="CENTER"></P>
+<LI>There are 6 + 35 = 41 manual workers, hence</LI></OL>
+
+<br>
+<P ALIGN="CENTER">P(manual worker) = 41/76</P>
+
+<P>Try <a href="launch.htm#q0533">q0533</a> and <a href="launch.htm#q0532">q0532</a>.</P>
+
+<B><P>Subjective Definition of Probability</P>
+
+</B><P>There are situations where neither the classical or relative frequency definitions seem to be appropriate. </P>
+
+<P>e.g. What is the probability that Great Britain will adopt the Euro within the next 3 years ?   </P>
+
+<P>We must use a probability supplied by an ‘expert’.</P>
+
+<P>Read through the further examples of subjective definition on page 3 of your notes.</P>
+
+<B><P>Basic Rules of Probability</P>
+</B>
+<OL TYPE="a">
+<OL TYPE="a">
+
+<LI>All probabilities must be between 0 and 1.</LI>
+
+<P>An event that will never occur has probability 0.</P>
+<P>An event that is certain to occur has probability 1.</P>
+
+<LI>The sum of the probabilities of all possible simple events must equal 1.</LI></OL>
+</OL>
+
+<br>
+<P>These rules are illustrated with the correct notation on page 3 of your notes.</P>
+
+<B><P>&nbsp;</P>
+<P>Complementary Events</P>
+</B>
+<P>The complement of an event E is defined as the event that must take place if E does not occur.   It can be written as E’. </P>
+
+<P>e.g. if E = Student is male, E' = Student is female</P>
+
+<br>
+
+<P>From Rule (b) above we have,</P>
+
+<P ALIGN="CENTER">P(E) + P(E') = 1</P>
+<P ALIGN="CENTER">or</P>
+<P ALIGN="CENTER">P(E') = 1 – P(E)</P>
+<P ALIGN="CENTER"></P>
+<P>Work on <a href="launch.htm#q0531">q0531</a> and <a href="launch.htm#q0562">q0562</a>.</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+<!--end-->
+</td></tr></table>
+</BODY>
+</HTML>
