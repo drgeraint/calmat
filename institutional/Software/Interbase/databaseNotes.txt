@@ -1,0 +1,114 @@
+Folowing topics are explained in the notes.
+
+* Installing Database
+* Register Database
+* BackUp Database
+* To clean the database
+* Restore Database
+
+
+*********** Installing Database ***************
+
+If Interbase is not already installed then install Interbase by using following steps.
+
+1. Install Interbase by double clicking Software\Interbase\server_Interbase\setup.exe.
+2. Install Interclient by double clicking Software\Interbase\Interclient\IC20001winJRE12.exe, 
+which is used to connect JDBC with Interbase. 
+3. Copy Interbase\InterClient\bug_Fixed_JarFile\interclient.jar and past it to 
+C:\Program Files\InterBase Corp\InterClient directory. (If Interclient is installed on different drive 
+then use that drive name). This will overwrite the existing interclient.jar file.
+
+4. 12. select start/programms/interBase InterClient/Interbase Server. This will start the interserver
+
+if there are still problems then do following steps.
+
+select start/programms/interBase InterClient/Interbase Server Configuration Utility.
+From the General tab, select server startup = application and startup Mode= Window Startup from dropdown list. 
+
+
+********** Register Database *******************
+
+
+Once the database is installed it is required to register database with the server.
+1. Run console by selecting Start/programs/InterBase/IBConsol.
+2. Select Server/register from the IBConsole window. Make sure "Register Server and Control" window is displayed 
+	and Local Server is selected by default.
+3. Type SYSDBA in the User Name field and masterkey in the password field 
+	(password is in lower case so make sure Caps Lock is not on).
+4. Click ok, server is now registered.
+5. Select Database/Register from the menu.
+6. "Register Database and Connect" window will be presented. Click on button with dots to find database file.
+7. Find Controller.gdb database file usually in the drive where Calamat Application is installed. 
+   If Calmat Application was installed on C (if application is not installed on C drive then use its name) drive then select C\db_cal\Controller.gdb and click "open" button. 
+   Type "SYSDBA" in the user name field and "masterkey" in the password field. Password is case sensitive and 
+   does not include string quotes.
+8. Click ok and database will be registered.
+9. By double clicking on the Tables will display all tables.
+
+
+********** BackUp Database:************************
+
+
+1. Open start/programs/InterBase/IBConsole (IBConsole Read Help for detail and better 
+understanding)
+2. From the IBConsole window select databases/Maintenance/BackUp-Restore/Backup
+3. In the database Alias select database ( normally will be Calmat.GDB) to be backed up.
+4. In the Backup File Alias type suitable name for back up database. This name will 
+   be used to restore the database and will be visible to user.
+5. Give any name to the File name.
+6. Click ok to start back up.
+7. Once backup is done close the window.
+
+
+************ To clean the database ****************
+
+
+!!!!! Warning: Back up must be done before cleaning the database otherwise all data
+will be lost.
+
+All files of type "sql" will be referred as scripts
+
+1. Click on SQL icon on the window menu.
+2. Select Query\LoadScript. Any existing script will be found in the same drive 
+   where database file is sitting. Which is normally c:\db_cal (if not C drive then use appropriate drive name)
+3. Select "cleanDatabase.sql" script file to be run, and click open button.
+4. All scripts in the file will be displayed. To run select Query\Execute.
+5. To make changes into database select Transactions\Commit or Transactions\rollback to ignore the changes 
+   made by running script. All database will be deleted except the Templates.	
+6. Follow the step 2 and select "InsertDefaultAdmin.sql" script file.
+7. To run select Query\Execute.
+8. Select Transactions\Commit
+9. Login to the Controller web site and login as a default administrator with Login 
+   name "V4Tutor" and PASSWORD as "doorways".
+10. Upload the database from the site.
+11. Change permissions from the controller web site.
+
+
+**************** Restore Database ******************
+
+
+!!!!! Warning: Back up of current database must be done before restoring backed up 
+database otherwise current database will be written over.
+
+1. Open start/programs/InterBase/IBConsole (Read Help for detail and better 
+understanding)
+
+2. From the IBConsole window select databases/Disconnect
+3. Select databases/Maintenance/BackUp-Restore/Restore
+4. From Backup File(s) alias select the name of database to be restored.
+5. From options change 'Overwrite' from "false" to "true".
+6. Click ok to restore.
+7. Current database will be overwritten and will be ready to use.
+8. Click on Calmat.gdb/Tables. All table names will be displayed on the right hand 
+   side of the panel.
+9. Double click on the "Security" table.
+10. Click on "Data" Tab
+11. Write down User id for any user of type admin.
+12. Close the table and double click on the table users.
+13. Click on 'data' tab and find password against "User Id" the one was written down. 
+14. Use the user id and password to login to the controller web site to see the data.
+
+
+
+
+

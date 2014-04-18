@@ -1,0 +1,62 @@
+
+---------------------------------------
+WELCOME TO INTERBASE 6.Open
+---------------------------------------
+
+Installation notes and issues for InterBase 6
+for Windows NT, Windows 95/98, and Windows 2000 
+
+
+____________________________
+INSTALLING INTERBASE 6
+
+Complete installation instructions are in
+Chapter 1 of Getting Started.
+
+Windows system requirements: Windows 98, Windows 95
+with Service Pack 1 or Windows NT 4.0 with Service
+Pack 5 or Windows 2000. A full install that includes 
+InterBase, Adobe Acrobat Reader, and the full document 
+set requires approximately 44MB of disk space. Only
+11MB is needed to install the InterBase product
+without the documents or Acrobat Reader.
+
+You cannot install InterBase onto a network
+drive.
+
+____________________________
+OLDER VERSIONS OF INTERBASE
+
+It is recommended that you uninstall any
+previous versions of InterBase that are
+present on the server where you are installing
+the InterBase 6 software. With this software,
+as with any software, it is recommended to
+remove any field test versions prior to
+installing. If InterBase 4.1 or earlier or any
+Classic InterBase is present on your database
+server, you *must* uninstall it before
+proceeding with the Version 6 install.
+
+____________________________
+GDS32.DLL
+
+There must be one and only one copy of
+gds32.dll on the server where InterBase is
+running. If gds32.dll exists on the server
+because you have previously installed Borland
+Database Engine as part of Delphi, C++Builder,
+or another Borland product, or because
+InterBase 5 or earlier was installed on the
+server, you must remove the older gds32.dll
+file prior to installing this Field Test.
+
+______________________________
+TO CREATE A DATABASE
+
+Run IBConsole.  Log in as SYSDBA
+password is "masterkey".  Do not
+type the quotation marks.  Do change
+the password.
+
+

@@ -1,0 +1,45 @@
+These notes are also in %ProductName% Installation Guide.doc on the CALMAT Institution Edition CD.  
+
+The same document also contains instructions for doing the installation "by hand" - you should not need them but they are there just in case!
+
+When the Installer has shut down, check that %ProductName% is working properly by following these steps:
+
+1. Check that Tomcat is working:
+
+Go to Start/Programs/Apache Tomcat 5.0/Start Tomcat. This will start Tomcat.
+
+Type http://localhost/  in the web browser to see if Tomcat is currently installed*. It should display a page with the Tomcat logo and heading "The Jakarta Project" and some other text. If not, follow the instructions in software\Tomcat\Tomcat_TroubleShoots.txt on the CD.
+
+Stop Tomcat by selecting Start/Programs/Apache Tomcat 5.0/Stop Tomcat.
+
+*******************************************************************
+Go to Start/Programs/Apache Tomcat 5.0/Start Tomcat. This will start tomcat.
+
+This time type http://localhost/controller  in the web browser*. It should display the %ProductName% Login Page.
+
+If the login page does not appear, check that the database folder db_cal has been installed where you expected - if not copy it directly from the folder Application on the CD - and that Inter Server is running - if not select Start/Programs/InterBase/InterClient/Interbase Server to start Inter Server. 
+
+Stop Tomcat by selecting Start/Programs/Apache Tomcat 5.0/Stop Tomcat.
+
+*  If you didn't choose port 80 when installing Tomcat, you need to type http://localhost:[port]/controller where
+[port] is the number of the port you selected.
+
+*******************************************************************
+Check that the environment variable JAVA_HOME is set to the pathname of the directory into which you installed the JDK release:
+
+Right click on the "My Computer" icon on the desktop and select "Properties", then
+    
+For windows 2000 & windows XP
+    Click on "Advanced" Tab and then click on Environment
+    Variables. For User variables click on "New..." button. 
+    In the "Variable Name" field type "JAVA_HOME" and in
+    the "Variable Value" field type the full address of the 
+    directory (e.g. C:\j2re1.4.2_04 ) where Java is installed 
+    and then press OK.
+
+For Windows NT
+    Click on "Environment" tab. 
+    In the "Variable Name" field type "JAVA_HOME" and in 
+    the "Variable Value" field type the full address of the 
+    directory (e.g. C:\j2re1.4.2_04 ) where Java is installed 
+    and then press OK.	
